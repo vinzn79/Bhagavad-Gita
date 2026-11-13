@@ -1,0 +1,696 @@
+{
+ "chapters": [
+  {
+   "n": 1,
+   "sa": "अर्जुनविषादयोगः",
+   "en": "Arjuna's Despair",
+   "hi": "अर्जुनविषादयोग",
+   "about": "On the battlefield of Kurukshetra, Arjuna sees his own family in the opposing army and collapses in grief, refusing to fight."
+  },
+  {
+   "n": 2,
+   "sa": "साङ्ख्ययोगः",
+   "en": "The Yoga of Knowledge",
+   "hi": "सांख्ययोग",
+   "about": "Krishna begins his teaching: the self is eternal, duty must be done with an even mind, and the person of steady wisdom is described."
+  },
+  {
+   "n": 3,
+   "sa": "कर्मयोगः",
+   "en": "The Yoga of Action",
+   "hi": "कर्मयोग",
+   "about": "Why action is unavoidable, and how selfless work done as an offering frees rather than binds."
+  },
+  {
+   "n": 4,
+   "sa": "ज्ञानकर्मसंन्यासयोगः",
+   "en": "Knowledge, Action and Renunciation",
+   "hi": "ज्ञानकर्मसंन्यासयोग",
+   "about": "Krishna reveals his divine births, and explains how knowledge burns away the bondage of action."
+  },
+  {
+   "n": 5,
+   "sa": "कर्मसंन्यासयोगः",
+   "en": "Renunciation of Action",
+   "hi": "कर्मसंन्यासयोग",
+   "about": "Renouncing action and acting without attachment lead to the same goal; the inner peace of the wise."
+  },
+  {
+   "n": 6,
+   "sa": "आत्मसंयमयोगः",
+   "en": "Self-Control and Meditation",
+   "hi": "आत्मसंयमयोग",
+   "about": "The practice of meditation, mastering the restless mind, and the balanced life of the yogi."
+  },
+  {
+   "n": 7,
+   "sa": "ज्ञानविज्ञानयोगः",
+   "en": "Knowledge and Realisation",
+   "hi": "ज्ञानविज्ञानयोग",
+   "about": "Krishna describes his higher and lower natures and the four kinds of people who turn to God."
+  },
+  {
+   "n": 8,
+   "sa": "अक्षरब्रह्मयोगः",
+   "en": "The Imperishable Brahman",
+   "hi": "अक्षरब्रह्मयोग",
+   "about": "What we remember at the time of death, and the paths that lead to return or to liberation."
+  },
+  {
+   "n": 9,
+   "sa": "राजविद्याराजगुह्ययोगः",
+   "en": "The Royal Knowledge and Secret",
+   "hi": "राजविद्याराजगुह्ययोग",
+   "about": "The supreme secret of devotion: God accepts even a leaf, a flower, a fruit or water offered with love."
+  },
+  {
+   "n": 10,
+   "sa": "विभूतियोगः",
+   "en": "Divine Glories",
+   "hi": "विभूतियोग",
+   "about": "Krishna names his glories in the world — wherever there is excellence, it springs from a spark of his splendour."
+  },
+  {
+   "n": 11,
+   "sa": "विश्वरूपदर्शनयोगः",
+   "en": "The Vision of the Cosmic Form",
+   "hi": "विश्वरूपदर्शनयोग",
+   "about": "Arjuna is granted divine sight and beholds Krishna's universal form."
+  },
+  {
+   "n": 12,
+   "sa": "भक्तियोगः",
+   "en": "The Yoga of Devotion",
+   "hi": "भक्तियोग",
+   "about": "The path of devotion and the qualities of the devotee who is dear to God."
+  },
+  {
+   "n": 13,
+   "sa": "क्षेत्रक्षेत्रज्ञविभागयोगः",
+   "en": "The Field and its Knower",
+   "hi": "क्षेत्रक्षेत्रज्ञविभागयोग",
+   "about": "The body as the field, the self as the knower of the field, and the qualities that make up true knowledge."
+  },
+  {
+   "n": 14,
+   "sa": "गुणत्रयविभागयोगः",
+   "en": "The Three Gunas",
+   "hi": "गुणत्रयविभागयोग",
+   "about": "Sattva, rajas and tamas — the three qualities that bind us — and how to rise above them."
+  },
+  {
+   "n": 15,
+   "sa": "पुरुषोत्तमयोगः",
+   "en": "The Supreme Person",
+   "hi": "पुरुषोत्तमयोग",
+   "about": "The upside-down ashvattha tree of worldly life, and the Supreme Person beyond the perishable and the imperishable."
+  },
+  {
+   "n": 16,
+   "sa": "दैवासुरसम्पद्विभागयोगः",
+   "en": "Divine and Demonic Natures",
+   "hi": "दैवासुरसम्पद्विभागयोग",
+   "about": "The qualities that lead to freedom and those that lead to bondage; desire, anger and greed as the three gates to ruin."
+  },
+  {
+   "n": 17,
+   "sa": "श्रद्धात्रयविभागयोगः",
+   "en": "The Three Kinds of Faith",
+   "hi": "श्रद्धात्रयविभागयोग",
+   "about": "Faith, food, sacrifice, austerity and charity, each seen in its sattvic, rajasic and tamasic forms."
+  },
+  {
+   "n": 18,
+   "sa": "मोक्षसंन्यासयोगः",
+   "en": "Liberation through Renunciation",
+   "hi": "मोक्षसंन्यासयोग",
+   "about": "A summary of the whole teaching, ending in surrender to God; Arjuna's doubts are dispelled."
+  }
+ ],
+ "themes": [
+  {
+   "id": "life",
+   "en": "Life",
+   "hi": "जीवन",
+   "c": "#2e8b57"
+  },
+  {
+   "id": "habits",
+   "en": "Habits",
+   "hi": "आदतें",
+   "c": "#8e44ad"
+  },
+  {
+   "id": "food",
+   "en": "Food",
+   "hi": "आहार",
+   "c": "#d35400"
+  },
+  {
+   "id": "thinking",
+   "en": "Thinking",
+   "hi": "विचार",
+   "c": "#1f6fb0"
+  },
+  {
+   "id": "duty",
+   "en": "Duty & Work",
+   "hi": "कर्तव्य और कर्म",
+   "c": "#b8860b"
+  },
+  {
+   "id": "emotions",
+   "en": "Emotions",
+   "hi": "भावनाएँ",
+   "c": "#c0392b"
+  },
+  {
+   "id": "discipline",
+   "en": "Self-discipline",
+   "hi": "आत्मसंयम",
+   "c": "#16697a"
+  },
+  {
+   "id": "relationships",
+   "en": "Relationships",
+   "hi": "सम्बन्ध",
+   "c": "#d4577b"
+  },
+  {
+   "id": "devotion",
+   "en": "Devotion",
+   "hi": "भक्ति",
+   "c": "#e07a1f"
+  },
+  {
+   "id": "soul",
+   "en": "Soul & Death",
+   "hi": "आत्मा और मृत्यु",
+   "c": "#4b4e8a"
+  },
+  {
+   "id": "leadership",
+   "en": "Leadership",
+   "hi": "नेतृत्व",
+   "c": "#7a5c2e"
+  },
+  {
+   "id": "peace",
+   "en": "Peace of mind",
+   "hi": "मन की शान्ति",
+   "c": "#2a9d8f"
+  },
+  {
+   "id": "wisdom",
+   "en": "Wisdom",
+   "hi": "ज्ञान",
+   "c": "#5b6c2b"
+  },
+  {
+   "id": "story",
+   "en": "Story & setting",
+   "hi": "कथा-प्रसंग",
+   "c": "#7f8c8d"
+  }
+ ],
+ "languages": [
+  {
+   "id": "en",
+   "name": "English",
+   "native": "English",
+   "script": "iast"
+  },
+  {
+   "id": "hi",
+   "name": "Hindi",
+   "native": "हिन्दी",
+   "script": "deva"
+  },
+  {
+   "id": "sa",
+   "name": "Sanskrit",
+   "native": "संस्कृतम्",
+   "script": "deva"
+  },
+  {
+   "id": "as",
+   "name": "Assamese",
+   "native": "অসমীয়া",
+   "script": "asm"
+  },
+  {
+   "id": "bn",
+   "name": "Bengali",
+   "native": "বাংলা",
+   "script": "beng"
+  },
+  {
+   "id": "brx",
+   "name": "Bodo",
+   "native": "बड़ो",
+   "script": "deva"
+  },
+  {
+   "id": "doi",
+   "name": "Dogri",
+   "native": "डोगरी",
+   "script": "deva"
+  },
+  {
+   "id": "gu",
+   "name": "Gujarati",
+   "native": "ગુજરાતી",
+   "script": "gujr"
+  },
+  {
+   "id": "kn",
+   "name": "Kannada",
+   "native": "ಕನ್ನಡ",
+   "script": "knda"
+  },
+  {
+   "id": "ks",
+   "name": "Kashmiri",
+   "native": "کٲشُر",
+   "script": "urdu",
+   "fb": "ur"
+  },
+  {
+   "id": "kok",
+   "name": "Konkani",
+   "native": "कोंकणी",
+   "script": "deva"
+  },
+  {
+   "id": "mai",
+   "name": "Maithili",
+   "native": "मैथिली",
+   "script": "deva"
+  },
+  {
+   "id": "ml",
+   "name": "Malayalam",
+   "native": "മലയാളം",
+   "script": "mlym"
+  },
+  {
+   "id": "mni",
+   "name": "Manipuri",
+   "native": "ꯃꯩꯇꯩꯂꯣꯟ",
+   "script": "mtei"
+  },
+  {
+   "id": "mr",
+   "name": "Marathi",
+   "native": "मराठी",
+   "script": "deva"
+  },
+  {
+   "id": "ne",
+   "name": "Nepali",
+   "native": "नेपाली",
+   "script": "deva"
+  },
+  {
+   "id": "or",
+   "name": "Odia",
+   "native": "ଓଡ଼ିଆ",
+   "script": "orya"
+  },
+  {
+   "id": "pa",
+   "name": "Punjabi",
+   "native": "ਪੰਜਾਬੀ",
+   "script": "guru"
+  },
+  {
+   "id": "sat",
+   "name": "Santali",
+   "native": "ᱥᱟᱱᱛᱟᱲᱤ",
+   "script": "olck"
+  },
+  {
+   "id": "sd",
+   "name": "Sindhi",
+   "native": "سنڌي",
+   "script": "urdu",
+   "fb": "ur"
+  },
+  {
+   "id": "ta",
+   "name": "Tamil",
+   "native": "தமிழ்",
+   "script": "taml"
+  },
+  {
+   "id": "te",
+   "name": "Telugu",
+   "native": "తెలుగు",
+   "script": "telu"
+  },
+  {
+   "id": "ur",
+   "name": "Urdu",
+   "native": "اردو",
+   "script": "urdu"
+  }
+ ],
+ "scripts": {
+  "deva": "Devanagari",
+  "beng": "Bengali",
+  "asm": "Assamese",
+  "guru": "Gurmukhi",
+  "gujr": "Gujarati",
+  "orya": "Odia",
+  "taml": "Tamil",
+  "telu": "Telugu",
+  "knda": "Kannada",
+  "mlym": "Malayalam",
+  "mtei": "Meetei Mayek",
+  "olck": "Ol Chiki",
+  "urdu": "Perso-Arabic",
+  "iast": "Roman (IAST)"
+ },
+ "ready": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "langReady": {
+  "as": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "bn": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "doi": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "gu": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "kn": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "kok": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "mai": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "ml": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "mr": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "ne": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "or": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "pa": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "ta": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "te": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "ur": [
+   1,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ }
+}

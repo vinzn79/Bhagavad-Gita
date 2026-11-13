@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" role="img" aria-label="Krishna and Arjuna on the chariot at Kurukshetra">
+<defs><radialGradient id="sun" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff0c2"/><stop offset="0.5" stop-color="#f7b955"/><stop offset="1" stop-color="#f7b955" stop-opacity="0"/></radialGradient></defs>
+<circle cx="430" cy="200" r="150" fill="url(#sun)"/>
+<g fill="#3a2a4a">
+<!-- ground -->
+<path d="M0 300 C120 286 240 292 360 288 C460 284 540 292 600 296 L600 340 L0 340 Z"/>
+<!-- distant army spears -->
+<g stroke="#3a2a4a" stroke-width="2" opacity="0.55">
+<path d="M500 286 l0 -46 M512 287 l0 -40 M524 288 l0 -52 M536 288 l0 -38 M548 289 l0 -46 M560 290 l0 -42 M572 291 l0 -50 M584 292 l0 -40"/>
+<path d="M20 292 l0 -44 M32 291 l0 -38 M44 290 l0 -50 M56 290 l0 -40"/></g>
+<!-- horses (four, galloping) -->
+<g id="horse" transform="translate(286 176)">
+<path d="M10 72 C-4 74 -14 86 -20 102 C-8 94 0 88 8 80 Z"/>
+<path d="M10 70 C30 58 70 56 100 58 C110 52 116 40 122 28 C126 18 132 12 138 10 L142 2 L145 12 C151 16 156 24 158 32 C159 38 154 42 148 40 C142 38 136 40 132 46 C128 56 124 64 122 72 C124 80 128 86 134 92 L146 98 L148 106 L141 106 L128 99 C122 96 118 92 116 90 L112 100 L118 116 L111 118 L104 100 L102 88 C88 92 64 92 48 88 L40 104 L32 118 L25 116 L32 100 L30 86 C24 84 18 80 14 78 L6 98 L12 115 L5 117 L-3 98 C0 88 4 78 10 70 Z"/>
+<path d="M120 30 C112 40 106 50 102 60 L110 58 C114 48 118 40 124 32 Z" opacity="0.6"/>
+</g>
+<use href="#horse" x="16" y="-6" opacity="0.9"/>
+<use href="#horse" x="32" y="-12" opacity="0.8"/>
+<use href="#horse" x="48" y="-18" opacity="0.7"/>
+<!-- reins -->
+<path d="M262 182 C320 190 380 200 432 200" stroke="#3a2a4a" stroke-width="1.5" fill="none"/>
+<!-- chariot body -->
+<path d="M120 210 L250 210 L262 196 L270 196 L262 250 L118 250 Z"/>
+<path d="M118 250 L290 250 L296 244 L300 250 L300 256 L118 256 Z"/>
+<!-- wheel -->
+<circle cx="168" cy="268" r="38" fill="none" stroke="#3a2a4a" stroke-width="7"/>
+<g stroke="#3a2a4a" stroke-width="3"><path d="M168 230 L168 306 M130 268 L206 268 M141 241 L195 295 M195 241 L141 295"/></g>
+<circle cx="168" cy="268" r="7"/>
+<!-- flag pole and flag -->
+<path d="M126 210 L126 70" stroke="#3a2a4a" stroke-width="4"/>
+<path d="M126 72 C150 64 170 84 196 74 L196 112 C170 122 150 102 126 110 Z" opacity="0.95"/>
+<!-- Krishna (charioteer) seated at front with whip/reins and peacock feather -->
+<path d="M226 210 C224 190 228 172 238 164 C236 156 238 148 246 146 C254 146 258 154 256 162 C266 168 270 184 266 210 Z"/>
+<path d="M238 150 L240 136 L245 142 L249 132 L253 142 L257 136 L256 150 Z"/>
+<path d="M250 134 C254 122 260 112 268 104" stroke="#3a2a4a" stroke-width="2" fill="none"/>
+<ellipse cx="270" cy="101" rx="5" ry="7" transform="rotate(40 270 101)"/>
+<path d="M262 176 C276 180 290 186 304 182" stroke="#3a2a4a" stroke-width="6" stroke-linecap="round" fill="none"/>
+<!-- Arjuna standing with bow -->
+<path d="M150 210 C148 180 150 150 160 136 C156 126 158 112 168 110 C178 110 182 122 178 132 C188 146 190 176 186 210 Z"/>
+<path d="M157 116 L159 100 L164 106 L168 94 L172 106 L177 100 L179 116 Z"/>
+<path d="M182 150 C196 146 206 140 212 132" stroke="#3a2a4a" stroke-width="6" stroke-linecap="round" fill="none"/>
+<path d="M214 82 C236 120 236 160 214 198" stroke="#3a2a4a" stroke-width="4" fill="none"/>
+<path d="M214 82 L214 198" stroke="#3a2a4a" stroke-width="1" fill="none"/>
+</g>
+<!-- birds -->
+<g stroke="#3a2a4a" stroke-width="2" fill="none" opacity="0.6"><path d="M330 70 q8 -8 16 0 q8 -8 16 0"/><path d="M380 50 q6 -6 12 0 q6 -6 12 0"/></g>
+</svg>
