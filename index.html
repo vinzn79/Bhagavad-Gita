@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Shrimad Bhagavad Gita</title>
+<meta name="description" content="All 700 shlokas of the Bhagavad Gita, chapter by chapter, with meanings, themes and every Indian script.">
+<meta name="theme-color" content="#14234a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Gita">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="bg" aria-hidden="true"><img id="bgArt" src="art/krishna.svg" alt=""></div>
+
+<header class="top">
+  <a class="brand" href="#home" aria-label="Home">
+    <img src="art/flute.svg" alt="" class="brand-mark">
+    <span class="brand-text"><span class="brand-sa">श्रीमद्भगवद्गीता</span><span class="brand-en">Shrimad Bhagavad Gita</span></span>
+  </a>
+  <nav class="top-nav" aria-label="Main">
+    <a href="#home" data-nav="home">Home</a>
+    <a href="#chapters" data-nav="chapters">Chapters</a>
+    <a href="#search" data-nav="search">Search</a>
+    <a href="#themes" data-nav="themes">Themes</a>
+  </nav>
+  <div class="top-tools">
+    <button class="lang-btn" id="langBtn" aria-haspopup="dialog"><span class="lang-icon">अ</span><span id="langLabel">English</span></button>
+    <button class="icon-btn" id="sizeDown" aria-label="Smaller text">A−</button>
+    <button class="icon-btn" id="sizeUp" aria-label="Larger text">A+</button>
+  </div>
+</header>
+
+<main id="view" tabindex="-1"></main>
+
+<nav class="bottom-nav" aria-label="Main">
+  <a href="#home" data-nav="home"><svg viewBox="0 0 24 24"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>Home</a>
+  <a href="#chapters" data-nav="chapters"><svg viewBox="0 0 24 24"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zM6 19h13v2H6z"/></svg>Chapters</a>
+  <a href="#search" data-nav="search"><svg viewBox="0 0 24 24"><path d="M10 3a7 7 0 1 1 0 14 7 7 0 0 1 0-14zm0 2a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm6.5 10.1 4.6 4.6-1.4 1.4-4.6-4.6z"/></svg>Search</a>
+  <a href="#themes" data-nav="themes"><svg viewBox="0 0 24 24"><path d="M12 2l2.6 6.6L21 9.3l-5 4.4 1.6 6.8L12 17l-5.6 3.5L8 13.7 3 9.3l6.4-.7z"/></svg>Themes</a>
+</nav>
+
+<div class="sheet" id="langSheet" role="dialog" aria-modal="true" aria-labelledby="langTitle" hidden>
+  <div class="sheet-card">
+    <div class="sheet-head">
+      <h2 id="langTitle">Read in your language</h2>
+      <button class="icon-btn" id="langClose" aria-label="Close">✕</button>
+    </div>
+    <p class="sheet-note">The Sanskrit verse is shown in the script of the language you pick. Meanings in languages other than English and Hindi are AI translations.</p>
+    <div class="lang-grid" id="langGrid"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

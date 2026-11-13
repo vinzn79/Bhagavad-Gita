@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -40 400 560" role="img" aria-label="Shri Krishna playing the flute">
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fff3c9"/>
+      <stop offset="0.6" stop-color="#f7cf6e"/>
+      <stop offset="1" stop-color="#f7cf6e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2a4f8f"/>
+      <stop offset="1" stop-color="#4479c4"/>
+    </linearGradient>
+    <linearGradient id="silk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6c443"/>
+      <stop offset="1" stop-color="#eaa323"/>
+    </linearGradient>
+    <linearGradient id="flute" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8a5a2b"/>
+      <stop offset="1" stop-color="#b9813f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- halo -->
+  <circle cx="195" cy="165" r="118" fill="url(#halo)"/>
+  <circle cx="195" cy="165" r="96" fill="none" stroke="#e2a93b" stroke-width="2" stroke-dasharray="2 7" opacity="0.8"/>
+
+  <!-- peacock feather (behind crown) -->
+  <g transform="rotate(-28 196 70)">
+    <path d="M196 74 L196 -6" stroke="#5c7a2e" stroke-width="2.4"/>
+    <g stroke="#3f8f5a" stroke-width="1.2" opacity="0.9">
+      <path d="M196 60 l-16 -10 M196 60 l16 -10 M196 48 l-18 -12 M196 48 l18 -12 M196 36 l-18 -12 M196 36 l18 -12 M196 24 l-16 -12 M196 24 l16 -12"/>
+    </g>
+    <ellipse cx="196" cy="2" rx="22" ry="30" fill="#2e8b57"/>
+    <ellipse cx="196" cy="4" rx="16" ry="22" fill="#e2a93b"/>
+    <ellipse cx="196" cy="6" rx="12" ry="16" fill="#1f6fb0"/>
+    <ellipse cx="196" cy="9" rx="6.5" ry="9" fill="#13285e"/>
+  </g>
+
+  <!-- long hair falling behind -->
+  <path d="M160 128 C140 160 138 215 146 262 C150 290 132 318 142 340 C160 330 170 300 172 270 L170 230 C152 214 150 175 160 128 Z" fill="#1c1a2e"/>
+
+  <!-- body: torso -->
+  <path d="M150 276 C168 262 214 258 238 272 C246 300 236 344 226 380 C220 398 214 408 208 414 L170 414 C160 380 146 330 150 276 Z" fill="url(#skin)"/>
+
+  <!-- dhoti / pitambara -->
+  <path d="M166 404 C186 398 206 398 222 404 C238 440 250 486 256 520 L136 520 C142 480 152 440 166 404 Z" fill="url(#silk)"/>
+  <path d="M136 520 C142 480 152 440 166 404 L174 406 C164 444 156 484 152 520 Z" fill="#d9661f" opacity="0.9"/>
+  <path d="M196 404 C200 444 204 484 206 520" stroke="#d48a1c" stroke-width="2" fill="none"/>
+  <path d="M212 406 C222 444 230 484 234 520" stroke="#d48a1c" stroke-width="2" fill="none"/>
+  <path d="M166 402 C186 394 206 394 224 402 L226 412 C206 406 186 406 164 412 Z" fill="#c0392b"/>
+  <!-- sash -->
+  <path d="M214 410 C232 430 240 452 236 476 C230 460 220 440 208 424 Z" fill="#d9661f"/>
+
+  <!-- neck -->
+  <path d="M170 226 L172 270 L210 268 L206 228 Z" fill="#2f5a9e"/>
+
+  <!-- far arm (behind) -->
+  <path d="M170 286 C186 316 218 314 246 296 C252 270 258 236 262 212" stroke="#2c5390" stroke-width="20" stroke-linecap="round" fill="none"/>
+
+  <!-- vaijayanti garland -->
+  <g>
+    <path d="M168 262 C152 320 166 380 196 404 C218 382 232 320 214 262" fill="none" stroke="#4b8b3b" stroke-width="3"/>
+    <g fill="#f3c96b" stroke="#c0392b" stroke-width="1.4">
+      <circle cx="166" cy="290" r="5"/><circle cx="163" cy="318" r="5"/><circle cx="168" cy="346" r="5"/>
+      <circle cx="178" cy="372" r="5"/><circle cx="196" cy="398" r="6"/><circle cx="216" cy="370" r="5"/>
+      <circle cx="224" cy="342" r="5"/><circle cx="224" cy="314" r="5"/><circle cx="218" cy="288" r="5"/>
+    </g>
+    <g fill="#e74c3c"><circle cx="164" cy="304" r="3"/><circle cx="164" cy="332" r="3"/><circle cx="172" cy="360" r="3"/><circle cx="220" cy="356" r="3"/><circle cx="225" cy="328" r="3"/><circle cx="222" cy="300" r="3"/></g>
+  </g>
+  <!-- necklace -->
+  <path d="M172 266 C180 286 202 286 210 266" fill="none" stroke="#e2a93b" stroke-width="4"/>
+  <circle cx="191" cy="284" r="4" fill="#c0392b" stroke="#e2a93b" stroke-width="1.5"/>
+
+  <!-- face -->
+  <path d="M178 110 C205 100 222 110 226 128 L231 150 C236 158 244 170 246 176 C243 179 238 181 234 183 C237 186 238 189 236 192 C238 195 236 198 232 200 C235 204 236 210 232 216 C226 224 214 230 205 232 L172 232 C152 218 148 180 158 140 C162 124 168 114 178 110 Z" fill="url(#skin)"/>
+  <!-- hair over ear -->
+  <path d="M160 132 C170 150 178 158 182 178 C176 176 166 170 158 160 Z" fill="#1c1a2e"/>
+  <!-- eye -->
+  <path d="M200 150 Q214 140 228 149 Q214 155 200 150 Z" fill="#fdf8ee"/>
+  <circle cx="218" cy="148.5" r="3.6" fill="#13142a"/>
+  <path d="M198 150 Q214 138 230 148" fill="none" stroke="#13142a" stroke-width="1.6"/>
+  <path d="M202 138 Q216 128 230 136" fill="none" stroke="#13142a" stroke-width="2"/>
+  <!-- tilak -->
+  <path d="M224 112 L227 130 L229 112" fill="none" stroke="#f3e2b0" stroke-width="1.8"/>
+  <path d="M226.5 122 L226.8 128" stroke="#c0392b" stroke-width="2.2"/>
+  <!-- lips -->
+  <path d="M234 190 Q237 192 235 194" fill="none" stroke="#b83a4b" stroke-width="2"/>
+  <!-- earring (makara kundala) -->
+  <path d="M178 176 C186 178 190 188 186 196 C180 204 170 200 170 192 C170 184 176 182 178 186" fill="none" stroke="#e2a93b" stroke-width="3.2"/>
+  <circle cx="182" cy="202" r="3" fill="#e2a93b"/>
+
+  <!-- crown (mukut) -->
+  <path d="M160 128 C170 110 212 104 230 118 L226 106 C220 90 210 74 198 60 C184 76 170 94 162 112 Z" fill="#e2a93b"/>
+  <path d="M162 128 C176 116 210 112 230 120" fill="none" stroke="#b97a17" stroke-width="3"/>
+  <g fill="#c0392b"><circle cx="198" cy="96" r="5"/></g>
+  <g fill="#2e8b57"><circle cx="182" cy="108" r="3"/><circle cx="214" cy="106" r="3"/></g>
+  <path d="M198 60 L198 50" stroke="#e2a93b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="198" cy="48" r="3.5" fill="#f3c96b"/>
+
+  <!-- flute -->
+  <g transform="rotate(5 238 194)">
+    <rect x="234" y="189" width="160" height="10" rx="5" fill="url(#flute)"/>
+    <g fill="#e2a93b"><rect x="246" y="188" width="4" height="12"/><rect x="380" y="188" width="4" height="12"/><rect x="300" y="188" width="3" height="12"/></g>
+    <g fill="#3b2410"><circle cx="318" cy="194" r="1.8"/><circle cx="330" cy="194" r="1.8"/><circle cx="342" cy="194" r="1.8"/><circle cx="354" cy="194" r="1.8"/><circle cx="366" cy="194" r="1.8"/></g>
+    <path d="M300 199 C298 214 304 226 300 236" stroke="#c0392b" stroke-width="2" fill="none"/>
+    <circle cx="300" cy="238" r="3.5" fill="#c0392b"/>
+  </g>
+
+  <!-- near arm -->
+  <path d="M226 284 C250 306 286 304 300 276 C306 258 310 236 316 212" stroke="url(#skin)" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <!-- hands with fingers on flute -->
+  <g fill="#3a68ae">
+    <ellipse cx="264" cy="204" rx="12" ry="9"/>
+    <ellipse cx="318" cy="208" rx="13" ry="9"/>
+  </g>
+  <g stroke="#2a4f8f" stroke-width="1.2" fill="none">
+    <path d="M258 200 l4 -6 M264 199 l4 -6 M270 200 l3 -5"/>
+    <path d="M312 204 l4 -7 M318 203 l4 -7 M324 204 l4 -6"/>
+  </g>
+  <!-- bangles -->
+  <g fill="none" stroke="#e2a93b" stroke-width="4">
+    <path d="M304 222 l18 6"/><path d="M256 214 l14 4"/>
+    <path d="M226 270 l16 10"/>
+  </g>
+
+  <!-- lotus at base -->
+  <g transform="translate(70 470)">
+    <path d="M0 30 C10 8 26 2 30 0 C34 2 50 8 60 30 Z" fill="#f2a1b2"/>
+    <path d="M30 30 C26 14 28 4 30 0 C32 4 34 14 30 30 Z" fill="#e8768f"/>
+  </g>
+  <g transform="translate(290 476) scale(0.8)">
+    <path d="M0 30 C10 8 26 2 30 0 C34 2 50 8 60 30 Z" fill="#f2a1b2"/>
+    <path d="M30 30 C26 14 28 4 30 0 C32 4 34 14 30 30 Z" fill="#e8768f"/>
+  </g>
+</svg>
