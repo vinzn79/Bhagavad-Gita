@@ -42,7 +42,7 @@ Replace the files on Netlify (drag the new folder again) or on GitHub (upload th
 - Search, filter by theme, verse of the day, and adjustable text size.
 
 ## Sources and credits
-- Sanskrit text: public-domain text from the open-source `gita/gita` project (Unlicense), renumbered to match the Gita Press 700-verse edition.
+- Sanskrit text: public-domain text from the open-source `gita/gita` project (Unlicense), renumbered to the standard 700-verse numbering.
 - English and Hindi translations and meanings were written fresh for this app from the Sanskrit, following the traditional understanding. They are not copied from any published edition.
 - Script conversion: Aksharamukha.
 - Fonts: Noto, Tiro Devanagari Sanskrit and Cormorant Garamond, all under the SIL Open Font License.

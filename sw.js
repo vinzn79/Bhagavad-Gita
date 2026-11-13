@@ -1,5 +1,5 @@
-/* Offline support: precache the whole app (version b73d772352) */
-const CACHE = 'gita-b73d772352';
+/* Offline support: precache the whole app (version adf1cf54bb) */
+const CACHE = 'gita-adf1cf54bb';
 const FILES = [
 "./",
 "HOW-TO-INSTALL.md",

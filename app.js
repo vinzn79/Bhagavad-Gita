@@ -162,7 +162,7 @@ function chapterGrid() {
   }).join('')}</div>`;
 }
 function footer() {
-  return `<footer class="foot about" style="padding:20px 0 0"><p><b>About the text.</b> Sanskrit verses follow the traditional text (numbering as in the Gita Press edition, 700 shlokas). English and Hindi translations and meanings were written fresh for this app from the Sanskrit, following the traditional understanding; they are not copied from any published translation. Meanings in other Indian languages are AI translations. Scripts other than Devanagari are converted automatically from the Devanagari text. Illustrations are original artwork made for this app.</p></footer>`;
+  return `<footer class="foot about" style="padding:20px 0 0"><p><b>About the text.</b> Sanskrit verses follow the traditional text (all 700 shlokas, in the standard numbering). English and Hindi translations and meanings were written fresh for this app from the Sanskrit, following the traditional understanding; they are not copied from any published translation. Meanings in other Indian languages are AI translations. Scripts other than Devanagari are converted automatically from the Devanagari text. Illustrations are original artwork made for this app.</p></footer>`;
 }
 async function viewChapters() {
   setBg('chakra'); navOn('chapters');
