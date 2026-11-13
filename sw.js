@@ -1,5 +1,5 @@
-/* Offline support: precache the whole app (version adf1cf54bb) */
-const CACHE = 'gita-adf1cf54bb';
+/* Offline support: precache the whole app (version 3060a1bc25) */
+const CACHE = 'gita-3060a1bc25';
 const FILES = [
 "./",
 "HOW-TO-INSTALL.md",
@@ -343,7 +343,7 @@ const FILES = [
 "styles.css"
 ];
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES.map(u => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
