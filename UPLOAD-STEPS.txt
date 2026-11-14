@@ -1,0 +1,10 @@
+QUICK UPDATE - ONE UPLOAD (32 files)
+
+1. Unzip this file on your computer.
+2. Open your repository on github.com (Bhagavad-Gita).
+3. Click "Add file", then "Upload files".
+4. Select EVERYTHING inside the unzipped folder (the "data" folder and "sw.js")
+   and drag it onto the GitHub page.
+5. Wait for all files to load, then click the green "Commit changes" button.
+6. Wait for the green tick in the Actions tab, then open https://gitaforall.in,
+   close it and open it once more.
