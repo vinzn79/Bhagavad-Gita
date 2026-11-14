@@ -1,5 +1,5 @@
 // Offline support for /stotras/. build.py fills in VERSION and ASSETS.
-var VERSION = "stotras-abd4bb1dfc";
+var VERSION = "stotras-3fcc830336";
 var FONTS = "stotras-fonts";
 var ASSETS = ["./", "aigiri-nandini.html", "css/style.css", "daily-prayers.html", "dhanvantari-mantra.html", "ganesha-shlokas.html", "gayatri-mantra.html", "guru-vandana.html", "hanuman-chalisa.html", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "img/lotus-pattern.svg", "img/lotus.svg", "index.html", "js/app.js", "lalitha-sahasranamam.html", "mahalakshmi-ashtakam.html", "mahamrityunjaya-mantra.html", "manifest.webmanifest", "saraswati-vandana.html", "sarva-mangala-mangalye.html", "shanti-mantras.html", "shiva-panchakshara-stotram.html", "sri-lakshmi-mantras.html", "vishnu-sahasranamam.html"];
 

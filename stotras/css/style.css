@@ -84,7 +84,14 @@ body[data-lang="ml"] p.L[data-l="ml"] { display: block; }
 .toggle input { width: 20px; height: 20px; accent-color: var(--accent); }
 
 /* ---------------- prayer pages ---------------- */
-.topbar { max-width: 1180px; margin: 0 auto; padding: 12px 18px 0; }
+.topbar { max-width: 1180px; margin: 0 auto; padding: 12px 18px 0; display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.home-top { max-width: 1080px; justify-content: flex-end; }
+.gita-home {
+  display: inline-flex; align-items: center; gap: 6px; padding: 7px 14px; min-height: 36px; border-radius: 999px;
+  background: #14234a; color: #fff; text-decoration: none; font-size: .92rem; white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(20, 35, 74, .25);
+}
+.gita-home:hover, .gita-home:focus-visible { background: #22366b; }
 .home { text-decoration: none; font-size: .95rem; }
 .reader { max-width: 1180px; margin: 0 auto; padding: 0 18px 30px; }
 .title-block { text-align: center; padding: 10px 0 12px; }
