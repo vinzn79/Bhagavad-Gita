@@ -1,0 +1,81 @@
+slug: mahalakshmi-ashtakam
+order: 4
+category: stotra
+title_en: Mahalakshmi Ashtakam
+title_hi: श्री महालक्ष्म्यष्टकम्
+title_ml: ശ്രീ മഹാലക്ഷ്മ്യഷ്ടകം
+sub_en: Namaste'stu Mahamaye · Goddess Lakshmi
+sub_hi: नमस्तेऽस्तु महामाये · देवी लक्ष्मी
+sub_ml: നമസ്തേഽസ്തു മഹാമായേ · ലക്ഷ്മീദേവി
+intro_en: Eight verses in praise of Mahalakshmi, traditionally said to have been sung by Indra (from the Padma Purana), followed by three verses on the blessings of reciting it.
+intro_hi: महालक्ष्मी की स्तुति के आठ श्लोक, जिन्हें परंपरा से इन्द्र द्वारा गाया गया माना जाता है (पद्म पुराण), और उसके बाद पाठ के फल बताने वाले तीन श्लोक।
+intro_ml: ഇന്ദ്രൻ പാടിയതായി പരമ്പരാഗതമായി കരുതപ്പെടുന്ന (പദ്മപുരാണം) മഹാലക്ഷ്മിയെ സ്തുതിക്കുന്ന എട്ടു ശ്ലോകങ്ങളും, പാരായണ ഫലം പറയുന്ന മൂന്നു ശ്ലോകങ്ങളും.
+===
+# Ashtakam | अष्टकम् | അഷ്ടകം
+~इन्द्र उवाच
+नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते ।
+शङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ॥
+en: Indra said: Salutations to you, O great Maya, seated on the throne of prosperity and worshipped by the gods, holding the conch, discus and mace — O Mahalakshmi, salutations to you.
+hi: इन्द्र बोले: हे महामाया, श्रीपीठ पर विराजमान, देवताओं द्वारा पूजित, हाथों में शंख, चक्र और गदा धारण करने वाली महालक्ष्मी, तुम्हें नमस्कार है।
+ml: ഇന്ദ്രൻ പറഞ്ഞു: മഹാമായേ, ശ്രീപീഠത്തിലിരിക്കുന്നവളേ, ദേവന്മാരാൽ പൂജിക്കപ്പെട്ടവളേ, ശംഖും ചക്രവും ഗദയും കൈയിലേന്തിയ മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+नमस्ते गरुडारूढे कोलासुरभयङ्करि ।
+सर्वपापहरे देवि महालक्ष्मि नमोऽस्तु ते ॥
+en: Salutations to you who ride on Garuda, who struck terror into the demon Kola, O Devi who removes all sins — O Mahalakshmi, salutations to you.
+hi: गरुड़ पर आरूढ़, कोलासुर को भयभीत करने वाली, सब पापों को हरने वाली हे देवी महालक्ष्मी, तुम्हें नमस्कार है।
+ml: ഗരുഡവാഹനയായവളേ, കോലാസുരന് ഭയം നൽകിയവളേ, എല്ലാ പാപങ്ങളും നീക്കുന്ന ദേവീ, മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+सर्वज्ञे सर्ववरदे सर्वदुष्टभयङ्करि ।
+सर्वदुःखहरे देवि महालक्ष्मि नमोऽस्तु ते ॥
+en: O all-knowing one, giver of every boon, terror of all the wicked, O Devi who takes away all sorrow — O Mahalakshmi, salutations to you.
+hi: हे सर्वज्ञ, सब वर देने वाली, सब दुष्टों को भय देने वाली, सब दुःख हरने वाली देवी महालक्ष्मी, तुम्हें नमस्कार है।
+ml: എല്ലാം അറിയുന്നവളേ, എല്ലാ വരങ്ങളും നൽകുന്നവളേ, എല്ലാ ദുഷ്ടർക്കും ഭയമേകുന്നവളേ, എല്ലാ ദുഃഖങ്ങളും നീക്കുന്ന ദേവീ, മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+सिद्धिबुद्धिप्रदे देवि भुक्तिमुक्तिप्रदायिनि ।
+मन्त्रमूर्ते सदा देवि महालक्ष्मि नमोऽस्तु ते ॥
+en: O Devi, giver of success and wisdom, giver of worldly enjoyment and liberation, ever the embodiment of mantra — O Mahalakshmi, salutations to you.
+hi: हे देवी, सिद्धि और बुद्धि देने वाली, भोग और मोक्ष प्रदान करने वाली, सदा मंत्रस्वरूपा महालक्ष्मी, तुम्हें नमस्कार है।
+ml: സിദ്ധിയും ബുദ്ധിയും നൽകുന്ന ദേവീ, ഭുക്തിയും മുക്തിയും നൽകുന്നവളേ, എന്നും മന്ത്രസ്വരൂപിണിയായ മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+आद्यन्तरहिते देवि आद्यशक्तिमहेश्वरि ।
+योगज्ञे योगसम्भूते महालक्ष्मि नमोऽस्तु ते ॥
+en: O Devi without beginning or end, the primal power, the great Goddess, knower of yoga and born of yoga — O Mahalakshmi, salutations to you.
+hi: हे आदि और अंत से रहित देवी, आदिशक्ति, महेश्वरी, योग को जानने वाली और योग से प्रकट होने वाली महालक्ष्मी, तुम्हें नमस्कार है।
+ml: ആദിയും അന്തവുമില്ലാത്ത ദേവീ, ആദിശക്തീ, മഹേശ്വരീ, യോഗം അറിയുന്നവളേ, യോഗത്തിൽ നിന്നുദിച്ചവളേ, മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+स्थूलसूक्ष्ममहारौद्रे महाशक्तिमहोदरे ।
+महापापहरे देवि महालक्ष्मि नमोऽस्तु ते ॥
+en: You are both the gross and the subtle, fierce in your might, the great power that holds the universe within; O Devi who destroys even great sins — O Mahalakshmi, salutations to you.
+hi: तुम स्थूल भी हो और सूक्ष्म भी, महा रौद्र रूपा, महाशक्ति, जिसके उदर में सारा जगत है; बड़े-बड़े पापों को हरने वाली हे देवी महालक्ष्मी, तुम्हें नमस्कार है।
+ml: സ്ഥൂലവും സൂക്ഷ്മവും നീ തന്നെ; മഹാരൗദ്രയും മഹാശക്തിയും ലോകത്തെ ഉള്ളിൽ വഹിക്കുന്നവളും; മഹാപാപങ്ങൾ നീക്കുന്ന ദേവീ, മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+पद्मासनस्थिते देवि परब्रह्मस्वरूपिणि ।
+परमेशि जगन्मातर्महालक्ष्मि नमोऽस्तु ते ॥
+en: O Devi seated on the lotus, whose very form is the Supreme Brahman, O supreme Goddess, Mother of the universe — O Mahalakshmi, salutations to you.
+hi: कमल के आसन पर विराजमान, परब्रह्म स्वरूपिणी, परमेश्वरी, जगन्माता महालक्ष्मी, तुम्हें नमस्कार है।
+ml: പദ്മാസനത്തിലിരിക്കുന്ന ദേവീ, പരബ്രഹ്മസ്വരൂപിണീ, പരമേശ്വരീ, ജഗന്മാതാവേ, മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+श्वेताम्बरधरे देवि नानालङ्कारभूषिते ।
+जगत्स्थिते जगन्मातर्महालक्ष्मि नमोऽस्तु ते ॥
+en: O Devi clad in white, adorned with many ornaments, you who pervade and sustain the world, Mother of the universe — O Mahalakshmi, salutations to you.
+hi: श्वेत वस्त्र धारण करने वाली, अनेक आभूषणों से सुशोभित, जगत में व्याप्त, जगन्माता महालक्ष्मी, तुम्हें नमस्कार है।
+ml: വെള്ളവസ്ത്രം ധരിച്ച ദേവീ, നാനാ ആഭരണങ്ങളാൽ അലങ്കരിക്കപ്പെട്ടവളേ, ലോകത്തെ നിലനിർത്തുന്ന ജഗന്മാതാവേ, മഹാലക്ഷ്മീ, നിനക്കു നമസ്കാരം.
+
+# Phala Shruti | फलश्रुति | ഫലശ്രുതി
+महालक्ष्म्यष्टकं स्तोत्रं यः पठेद्भक्तिमान्नरः ।
+सर्वसिद्धिमवाप्नोति राज्यं प्राप्नोति सर्वदा ॥
+en: Whoever recites this Mahalakshmi Ashtakam with devotion gains every success and always attains prosperity and position.
+hi: जो मनुष्य भक्ति से इस महालक्ष्मी अष्टक स्तोत्र का पाठ करता है, वह सब सिद्धियाँ पाता है और सदा ऐश्वर्य प्राप्त करता है।
+ml: ഭക്തിയോടെ ഈ മഹാലക്ഷ്മ്യഷ്ടകം പാരായണം ചെയ്യുന്നവൻ എല്ലാ സിദ്ധികളും നേടുകയും എപ്പോഴും ഐശ്വര്യം പ്രാപിക്കുകയും ചെയ്യുന്നു.
+
+एककाले पठेन्नित्यं महापापविनाशनम् ।
+द्विकालं यः पठेन्नित्यं धनधान्यसमन्वितः ॥
+en: Reciting it once a day destroys great sins. One who recites it twice daily is blessed with wealth and plenty.
+hi: इसे प्रतिदिन एक बार पढ़ने से महापापों का नाश होता है। जो प्रतिदिन दो बार पढ़ता है, वह धन-धान्य से संपन्न होता है।
+ml: ദിവസവും ഒരു നേരം ചൊല്ലിയാൽ മഹാപാപങ്ങൾ നശിക്കുന്നു. ദിവസവും രണ്ടു നേരം ചൊല്ലുന്നവന് ധനധാന്യ സമൃദ്ധി ഉണ്ടാകുന്നു.
+
+त्रिकालं यः पठेन्नित्यं महाशत्रुविनाशनम् ।
+महालक्ष्मीर्भवेन्नित्यं प्रसन्ना वरदा शुभा ॥
+en: Reciting it three times a day destroys even mighty enemies, and Mahalakshmi — gracious, auspicious and granting boons — remains ever pleased.
+hi: जो प्रतिदिन तीन बार पढ़ता है, उसके बड़े शत्रुओं का नाश होता है और शुभ, वरदायिनी महालक्ष्मी सदा उस पर प्रसन्न रहती हैं।
+ml: ദിവസവും മൂന്നു നേരം ചൊല്ലുന്നവന്റെ മഹാശത്രുക്കൾ നശിക്കുന്നു; ശുഭയും വരദായിനിയുമായ മഹാലക്ഷ്മി എന്നും പ്രസന്നയായിരിക്കുന്നു.

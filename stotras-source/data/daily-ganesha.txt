@@ -1,0 +1,42 @@
+slug: ganesha-shlokas
+order: 1
+category: daily
+numbers: no
+title_en: Ganesha Shlokas
+title_hi: श्री गणेश श्लोक
+title_ml: ശ്രീ ഗണേശ ശ്ലോകങ്ങൾ
+sub_en: Vakratunda Mahakaya · Shuklambaradharam
+sub_hi: वक्रतुण्ड महाकाय · शुक्लाम्बरधरम्
+sub_ml: വക്രതുണ്ഡ മഹാകായ · ശുക്ലാംബരധരം
+intro_en: Every prayer and new beginning starts with Lord Ganesha, the remover of obstacles. These are the shlokas most often recited to him.
+intro_hi: हर प्रार्थना और हर शुभ कार्य का आरंभ विघ्नहर्ता भगवान गणेश से होता है। ये उनके सबसे प्रचलित श्लोक हैं।
+intro_ml: എല്ലാ പ്രാർത്ഥനകളും ശുഭകാര്യങ്ങളും വിഘ്നങ്ങൾ നീക്കുന്ന ഗണപതിഭഗവാനെ വന്ദിച്ചാണ് ആരംഭിക്കുന്നത്. ഏറ്റവും പ്രചാരമുള്ള ഗണേശ ശ്ലോകങ്ങളാണിവ.
+===
+वक्रतुण्ड महाकाय सूर्यकोटिसमप्रभ ।
+निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥
+en: O Lord with the curved trunk and mighty body, whose brilliance equals a million suns — O God, always make all my undertakings free of obstacles.
+hi: हे टेढ़ी सूँड़ और विशाल शरीर वाले, करोड़ों सूर्यों के समान तेजस्वी देव, मेरे सभी कार्यों को सदा निर्विघ्न करो।
+ml: വളഞ്ഞ തുമ്പിക്കൈയും വലിയ ശരീരവുമുള്ളവനേ, കോടി സൂര്യന്മാർക്കു തുല്യമായ പ്രഭയുള്ള ദേവാ, എന്റെ എല്ലാ കാര്യങ്ങളും എപ്പോഴും വിഘ്നമില്ലാത്തതാക്കേണമേ.
+
+शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।
+प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥
+en: To remove all obstacles, one should meditate on the all-pervading Lord dressed in white, bright as the moon, with four arms and a gracious, smiling face.
+hi: सब विघ्नों की शांति के लिए श्वेत वस्त्र धारण करने वाले, सर्वव्यापी, चंद्रमा जैसे उज्ज्वल वर्ण वाले, चार भुजाओं वाले और प्रसन्न मुख वाले भगवान का ध्यान करना चाहिए।
+ml: എല്ലാ വിഘ്നങ്ങളും ശമിക്കാൻ, വെള്ളവസ്ത്രം ധരിച്ചവനും സർവ്വവ്യാപിയും ചന്ദ്രനെപ്പോലെ വെളുത്ത നിറമുള്ളവനും നാലു കൈകളുള്ളവനും പ്രസന്നവദനനുമായ ഭഗവാനെ ധ്യാനിക്കണം.
+
+गजाननं भूतगणादिसेवितं कपित्थजम्बूफलसारभक्षितम् ।
+उमासुतं शोकविनाशकारणं नमामि विघ्नेश्वरपादपङ्कजम् ॥
+en: I bow to the lotus feet of Vighneshvara — the elephant-faced one served by the hosts of beings, who enjoys the wood-apple and rose-apple fruits, the son of Uma, the cause of the destruction of sorrow.
+hi: मैं विघ्नेश्वर के चरण-कमलों को नमन करता हूँ — जो गजमुख हैं, भूतगणों द्वारा सेवित हैं, कैथ और जामुन के फल का रस ग्रहण करते हैं, उमा के पुत्र हैं और शोक का नाश करने वाले हैं।
+ml: ആനമുഖനും ഭൂതഗണങ്ങളാൽ സേവിക്കപ്പെടുന്നവനും വിളാമ്പഴവും ഞാവൽപ്പഴവും ഭക്ഷിക്കുന്നവനും ഉമാപുത്രനും ദുഃഖം നശിപ്പിക്കുന്നവനുമായ വിഘ്നേശ്വരന്റെ പാദപങ്കജങ്ങളെ ഞാൻ നമിക്കുന്നു.
+
+ॐ एकदन्ताय विद्महे वक्रतुण्डाय धीमहि ।
+तन्नो दन्ती प्रचोदयात् ॥
+en: (Ganesha Gayatri) Om. May we know the single-tusked one; may we meditate on the one with the curved trunk. May that tusked Lord inspire and guide us.
+hi: (गणेश गायत्री) ॐ। हम एकदंत को जानें, वक्रतुंड का ध्यान करें। वे दंती (गणेश) हमें प्रेरित करें।
+ml: (ഗണേശ ഗായത്രി) ഓം. ഏകദന്തനെ ഞങ്ങൾ അറിയട്ടെ, വക്രതുണ്ഡനെ ധ്യാനിക്കട്ടെ. ആ ദന്തി ഞങ്ങളെ പ്രചോദിപ്പിക്കട്ടെ.
+
+ॐ गं गणपतये नमः ॥
+en: Om Gam — salutations to Ganapati. ("Gam" is Ganesha's seed sound.)
+hi: ॐ गं — गणपति को नमस्कार है। ("गं" गणेश जी का बीज मंत्र है।)
+ml: ഓം ഗം — ഗണപതിക്കു നമസ്കാരം. ("ഗം" ഗണപതിയുടെ ബീജാക്ഷരമാണ്.)

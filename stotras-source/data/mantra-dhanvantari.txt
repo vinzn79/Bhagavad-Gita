@@ -1,0 +1,40 @@
+slug: dhanvantari-mantra
+order: 2
+category: mantra
+numbers: no
+title_en: Dhanvantari Mantra
+title_hi: धन्वन्तरि मंत्र
+title_ml: ധന്വന്തരി മന്ത്രം
+sub_en: Om Namo Bhagavate Vasudevaya Dhanvantaraye · Lord of healing
+sub_hi: ॐ नमो भगवते वासुदेवाय धन्वन्तरये · आरोग्य के देवता
+sub_ml: ഓം നമോ ഭഗവതേ വാസുദേവായ ധന്വന്തരയേ · ആരോഗ്യത്തിന്റെ ദേവൻ
+intro_en: Lord Dhanvantari, a form of Vishnu, rose from the churning of the milk ocean holding the pot of amrita. He is the patron of Ayurveda and is prayed to for good health and recovery from illness.
+intro_hi: भगवान धन्वन्तरि विष्णु के अवतार हैं, जो समुद्र-मंथन से अमृत-कलश लेकर प्रकट हुए। वे आयुर्वेद के देवता हैं; आरोग्य और रोग-निवारण के लिए उनकी प्रार्थना की जाती है।
+intro_ml: പാലാഴി മഥനത്തിൽ അമൃതകലശവുമായി ഉയർന്നുവന്ന വിഷ്ണുവിന്റെ അവതാരമാണ് ധന്വന്തരി. ആയുർവേദത്തിന്റെ ദേവനായ അദ്ദേഹത്തോട് ആരോഗ്യത്തിനും രോഗശാന്തിക്കുമായി പ്രാർത്ഥിക്കുന്നു.
+===
+# Dhyana Shloka | ध्यान श्लोक | ധ്യാന ശ്ലോകം
+शङ्खं चक्रं जलौकां दधदमृतघटं चारुदोर्भिश्चतुर्भिः
+सूक्ष्मस्वच्छातिहृद्यांशुकपरिविलसन्मौलिमम्भोजनेत्रम् ।
+कालाम्भोदोज्ज्वलाङ्गं कटितटविलसच्चारुपीताम्बराढ्यं
+वन्दे धन्वन्तरिं तं निखिलगदवनप्रौढदावाग्निलीलम् ॥
+en: I bow to Lord Dhanvantari, who holds the conch, the discus, a leech and the pot of nectar in his four beautiful arms; whose crown shines with fine, pure, lovely cloth; whose eyes are like lotuses; whose body glows like a dark rain-cloud; who wears a lovely yellow silk at his waist; and who is like a great forest fire that burns away the whole forest of diseases.
+hi: मैं उन भगवान धन्वन्तरि को प्रणाम करता हूँ जो अपनी चार सुंदर भुजाओं में शंख, चक्र, जोंक और अमृत-कलश धारण करते हैं; जिनका मुकुट सूक्ष्म, स्वच्छ और मनोहर वस्त्र से शोभित है; जिनके नेत्र कमल जैसे हैं; जिनका शरीर श्याम मेघ के समान चमकता है; जो कमर पर सुंदर पीताम्बर पहने हैं; और जो समस्त रोगों के वन को जलाने वाली प्रचंड दावाग्नि के समान हैं।
+ml: നാലു മനോഹര കൈകളിൽ ശംഖ്, ചക്രം, അട്ട, അമൃതകലശം എന്നിവ ധരിച്ചവനും, സൂക്ഷ്മവും നിർമ്മലവുമായ വസ്ത്രം കൊണ്ട് ശോഭിക്കുന്ന കിരീടമുള്ളവനും, താമരക്കണ്ണനും, കാർമേഘം പോലെ തിളങ്ങുന്ന ശരീരമുള്ളവനും, അരയിൽ മഞ്ഞപ്പട്ടണിഞ്ഞവനും, എല്ലാ രോഗങ്ങളാകുന്ന കാടിനെ ദഹിപ്പിക്കുന്ന കാട്ടുതീ പോലെയുള്ളവനുമായ ധന്വന്തരിയെ ഞാൻ വന്ദിക്കുന്നു.
+
+# Short Mantra | लघु मंत्र | ലഘു മന്ത്രം
+ॐ नमो भगवते वासुदेवाय धन्वन्तरये
+अमृतकलशहस्ताय सर्वामयविनाशनाय
+त्रैलोक्यनाथाय श्रीमहाविष्णवे नमः ॥
+en: Om. Salutations to the Lord Vasudeva in the form of Dhanvantari, who holds the pot of nectar in his hands, who destroys all diseases, the Lord of the three worlds — salutations to Sri Mahavishnu.
+hi: ॐ। अमृत-कलश हाथ में धारण करने वाले, सब रोगों का नाश करने वाले, तीनों लोकों के स्वामी, धन्वन्तरि रूप भगवान वासुदेव — श्री महाविष्णु को नमस्कार है।
+ml: ഓം. കൈയിൽ അമൃതകലശം ധരിച്ചവനും, എല്ലാ രോഗങ്ങളെയും നശിപ്പിക്കുന്നവനും, മൂന്നു ലോകങ്ങളുടെയും നാഥനുമായ ധന്വന്തരീരൂപനായ ഭഗവാൻ വാസുദേവന് — ശ്രീ മഹാവിഷ്ണുവിന് — നമസ്കാരം.
+
+# Full Mantra | पूर्ण मंत्र | പൂർണ്ണ മന്ത്രം
+ॐ नमो भगवते महासुदर्शनाय वासुदेवाय धन्वन्तरये
+अमृतकलशहस्ताय सर्वभयविनाशाय सर्वरोगनिवारणाय
+त्रैलोक्यपतये त्रैलोक्यनिधये
+श्रीमहाविष्णुस्वरूप श्रीधन्वन्तरिस्वरूप
+श्री श्री श्री औषधचक्र नारायणाय नमः ॥
+en: Om. Salutations to the Lord, the great Sudarshana, Vasudeva, Dhanvantari, who holds the pot of nectar; who removes all fears and cures all diseases; the master and treasure of the three worlds; who is the very form of Sri Mahavishnu and Sri Dhanvantari — salutations to Narayana, the wheel of all medicines.
+hi: ॐ। महासुदर्शन, वासुदेव, धन्वन्तरि भगवान को नमस्कार, जो अमृत-कलश धारण करते हैं, सब भय मिटाते और सब रोग दूर करते हैं; जो तीनों लोकों के स्वामी और निधि हैं; जो श्री महाविष्णु और श्री धन्वन्तरि स्वरूप हैं — उन औषधियों के चक्र श्री नारायण को नमस्कार है।
+ml: ഓം. മഹാസുദർശനനും വാസുദേവനും ധന്വന്തരിയുമായ ഭഗവാന് നമസ്കാരം. അമൃതകലശം ധരിച്ചവനും, എല്ലാ ഭയങ്ങളും നീക്കുന്നവനും, എല്ലാ രോഗങ്ങളും മാറ്റുന്നവനും, മൂന്നു ലോകങ്ങളുടെയും പതിയും നിധിയും, ശ്രീ മഹാവിഷ്ണുസ്വരൂപനും ശ്രീ ധന്വന്തരീസ്വരൂപനുമായ ഔഷധചക്ര നാരായണന് നമസ്കാരം.

@@ -1,0 +1,40 @@
+slug: sri-lakshmi-mantras
+order: 4
+category: mantra
+numbers: no
+title_en: Sri Lakshmi Mantras
+title_hi: श्री लक्ष्मी मंत्र
+title_ml: ശ്രീ ലക്ഷ്മീ മന്ത്രങ്ങൾ
+sub_en: Mahalakshmi Mantra · Lakshmi Gayatri
+sub_hi: महालक्ष्मी मंत्र · लक्ष्मी गायत्री
+sub_ml: മഹാലക്ഷ്മീ മന്ത്രം · ലക്ഷ്മീ ഗായത്രി
+intro_en: Goddess Lakshmi, consort of Vishnu, is the giver of prosperity, well-being and grace. These are her most commonly chanted mantras. "Shreem" is her seed (bija) sound.
+intro_hi: भगवान विष्णु की पत्नी देवी लक्ष्मी समृद्धि, सुख और कृपा की दात्री हैं। ये उनके सबसे अधिक जपे जाने वाले मंत्र हैं। "श्रीं" उनका बीज मंत्र है।
+intro_ml: വിഷ്ണുപത്നിയായ ലക്ഷ്മീദേവി ഐശ്വര്യവും സൗഖ്യവും അനുഗ്രഹവും നൽകുന്നവളാണ്. ദേവിയുടെ ഏറ്റവും പ്രചാരമുള്ള മന്ത്രങ്ങളാണിവ. "ശ്രീം" ദേവിയുടെ ബീജാക്ഷരമാണ്.
+===
+# Mahalakshmi Mantra | महालक्ष्मी मंत्र | മഹാലക്ഷ്മീ മന്ത്രം
+ॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद ।
+श्रीं ह्रीं श्रीं ॐ महालक्ष्म्यै नमः ॥
+en: Om Shreem Hreem Shreem. O Kamala, who dwells in the lotus, be pleased with me, be pleased. Shreem Hreem Shreem Om — salutations to Mahalakshmi.
+hi: ॐ श्रीं ह्रीं श्रीं। हे कमला, कमल में निवास करने वाली देवी, मुझ पर प्रसन्न हो, प्रसन्न हो। श्रीं ह्रीं श्रीं ॐ — महालक्ष्मी को नमस्कार है।
+ml: ഓം ശ്രീം ഹ്രീം ശ്രീം. താമരയിൽ വസിക്കുന്ന കമലേ, പ്രസാദിക്കേണമേ, പ്രസാദിക്കേണമേ. ശ്രീം ഹ്രീം ശ്രീം ഓം — മഹാലക്ഷ്മിക്കു നമസ്കാരം.
+
+# Short Mantra | लघु मंत्र | ലഘു മന്ത്രം
+ॐ श्रीं महालक्ष्म्यै नमः ॥
+en: Om Shreem — salutations to Mahalakshmi.
+hi: ॐ श्रीं — महालक्ष्मी को नमस्कार है।
+ml: ഓം ശ്രീം — മഹാലക്ഷ്മിക്കു നമസ്കാരം.
+
+# Lakshmi Gayatri | लक्ष्मी गायत्री | ലക്ഷ്മീ ഗായത്രി
+ॐ महालक्ष्म्यै च विद्महे विष्णुपत्न्यै च धीमहि ।
+तन्नो लक्ष्मीः प्रचोदयात् ॥
+en: Om. May we know Mahalakshmi; may we meditate on the consort of Vishnu. May that Lakshmi inspire and guide us.
+hi: ॐ। हम महालक्ष्मी को जानें, विष्णुपत्नी का ध्यान करें। वे लक्ष्मी हमें प्रेरित करें और सन्मार्ग पर ले चलें।
+ml: ഓം. ഞങ്ങൾ മഹാലക്ഷ്മിയെ അറിയട്ടെ, വിഷ്ണുപത്നിയെ ധ്യാനിക്കട്ടെ. ആ ലക്ഷ്മി ഞങ്ങളെ പ്രചോദിപ്പിക്കട്ടെ.
+
+# Lakshmi Prarthana | लक्ष्मी प्रार्थना | ലക്ഷ്മീ പ്രാർത്ഥന
+या देवी सर्वभूतेषु लक्ष्मीरूपेण संस्थिता ।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥
+en: To the Goddess who dwells in all beings in the form of Lakshmi (prosperity and grace) — salutations to her, again and again.
+hi: जो देवी सब प्राणियों में लक्ष्मी रूप से स्थित हैं, उन्हें बारंबार नमस्कार है।
+ml: എല്ലാ ജീവികളിലും ലക്ഷ്മീരൂപത്തിൽ വസിക്കുന്ന ദേവിക്ക് വീണ്ടും വീണ്ടും നമസ്കാരം.

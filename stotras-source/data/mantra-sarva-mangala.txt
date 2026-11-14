@@ -1,0 +1,50 @@
+slug: sarva-mangala-mangalye
+order: 3
+category: mantra
+title_en: Sarva Mangala Mangalye
+title_hi: सर्वमङ्गलमाङ्गल्ये
+title_ml: സർവ്വമംഗലമാംഗല്യേ
+sub_en: Narayani Stuti · Devi Mahatmyam
+sub_hi: नारायणी स्तुति · देवी माहात्म्य
+sub_ml: നാരായണീ സ്തുതി · ദേവീമാഹാത്മ്യം
+intro_en: These verses come from the Narayani Stuti in the Devi Mahatmyam (Durga Saptashati, chapter 11), where the gods praise the Divine Mother after her victory. They are followed by three of the well-known "Ya Devi" verses from chapter 5.
+intro_hi: ये श्लोक देवी माहात्म्य (दुर्गा सप्तशती, अध्याय ११) की नारायणी स्तुति से हैं, जहाँ देवता विजय के बाद जगन्माता की स्तुति करते हैं। इनके बाद अध्याय ५ के प्रसिद्ध "या देवी" श्लोकों में से तीन दिए गए हैं।
+intro_ml: ദേവീമാഹാത്മ്യത്തിലെ (ദുർഗ്ഗാ സപ്തശതി, അദ്ധ്യായം 11) നാരായണീ സ്തുതിയിൽ നിന്നുള്ളതാണ് ഈ ശ്ലോകങ്ങൾ — വിജയത്തിനു ശേഷം ദേവന്മാർ ജഗന്മാതാവിനെ സ്തുതിക്കുന്നു. തുടർന്ന് അദ്ധ്യായം 5-ലെ പ്രസിദ്ധമായ "യാ ദേവീ" ശ്ലോകങ്ങളിൽ മൂന്നെണ്ണം.
+===
+# Narayani Stuti | नारायणी स्तुति | നാരായണീ സ്തുതി
+सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके ।
+शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ॥
+en: O auspiciousness of all that is auspicious, O gracious one who fulfils every aim, O refuge of all, O three-eyed Gauri, O Narayani — salutations to you.
+hi: हे सब मंगलों की भी मंगलस्वरूपा, कल्याणकारिणी, सब मनोरथों को पूर्ण करने वाली, शरणागतों की रक्षक, त्रिनेत्रा गौरी, नारायणी — तुम्हें नमस्कार है।
+ml: എല്ലാ മംഗളങ്ങളുടെയും മംഗളമായവളേ, ശിവേ, എല്ലാ ആഗ്രഹങ്ങളും സാധിപ്പിക്കുന്നവളേ, ശരണം നൽകുന്നവളേ, മുക്കണ്ണിയായ ഗൗരീ, നാരായണീ — നിനക്കു നമസ്കാരം.
+
+सृष्टिस्थितिविनाशानां शक्तिभूते सनातनि ।
+गुणाश्रये गुणमये नारायणि नमोऽस्तु ते ॥
+en: O eternal one, you are the power behind creation, preservation and dissolution. You are the support of the three gunas and are made of them. O Narayani, salutations to you.
+hi: हे सनातनी, तुम सृष्टि, पालन और संहार की शक्ति हो। तुम तीनों गुणों का आधार हो और गुणमयी हो। हे नारायणी, तुम्हें नमस्कार है।
+ml: ശാശ്വതയായവളേ, സൃഷ്ടി, സ്ഥിതി, സംഹാരം എന്നിവയുടെ ശക്തി നീയാണ്. മൂന്നു ഗുണങ്ങളുടെയും ആധാരവും ഗുണമയിയും നീ തന്നെ. നാരായണീ, നിനക്കു നമസ്കാരം.
+
+शरणागतदीनार्तपरित्राणपरायणे ।
+सर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते ॥
+en: O Devi, you are ever devoted to protecting the helpless and the suffering who come to you for refuge, and you remove the sorrow of all. O Narayani, salutations to you.
+hi: हे देवी, तुम शरण में आए दीन और दुखी जनों की रक्षा में सदा तत्पर रहती हो और सबकी पीड़ा हरती हो। हे नारायणी, तुम्हें नमस्कार है।
+ml: ദേവീ, ശരണം പ്രാപിച്ച ദീനരെയും ദുഃഖിതരെയും രക്ഷിക്കുന്നതിൽ എപ്പോഴും തല്പരയായവളും എല്ലാവരുടെയും ദുഃഖം നീക്കുന്നവളുമാണ് നീ. നാരായണീ, നിനക്കു നമസ്കാരം.
+
+# Ya Devi Sarvabhuteshu | या देवी सर्वभूतेषु | യാ ദേവീ സർവ്വഭൂതേഷു
+या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता ।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥
+en: To the Goddess who dwells in all beings in the form of power (Shakti) — salutations to her, salutations to her, salutations to her, again and again.
+hi: जो देवी सब प्राणियों में शक्ति रूप से स्थित हैं, उन्हें नमस्कार, उन्हें नमस्कार, उन्हें बारंबार नमस्कार है।
+ml: എല്ലാ ജീവികളിലും ശക്തിരൂപത്തിൽ വസിക്കുന്ന ദേവിക്ക് നമസ്കാരം, നമസ്കാരം, വീണ്ടും വീണ്ടും നമസ്കാരം.
+
+या देवी सर्वभूतेषु मातृरूपेण संस्थिता ।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥
+en: To the Goddess who dwells in all beings in the form of the Mother — salutations to her, again and again.
+hi: जो देवी सब प्राणियों में माता रूप से स्थित हैं, उन्हें बारंबार नमस्कार है।
+ml: എല്ലാ ജീവികളിലും മാതൃരൂപത്തിൽ വസിക്കുന്ന ദേവിക്ക് വീണ്ടും വീണ്ടും നമസ്കാരം.
+
+या देवी सर्वभूतेषु शान्तिरूपेण संस्थिता ।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥
+en: To the Goddess who dwells in all beings in the form of peace — salutations to her, again and again.
+hi: जो देवी सब प्राणियों में शांति रूप से स्थित हैं, उन्हें बारंबार नमस्कार है।
+ml: എല്ലാ ജീവികളിലും ശാന്തിരൂപത്തിൽ വസിക്കുന്ന ദേവിക്ക് വീണ്ടും വീണ്ടും നമസ്കാരം.

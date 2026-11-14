@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140">
+  <defs>
+    <linearGradient id="pk" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#e8577a"/>
+      <stop offset="0.55" stop-color="#f48fa8"/>
+      <stop offset="1" stop-color="#fde3ea"/>
+    </linearGradient>
+    <linearGradient id="pk2" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#d9466b"/>
+      <stop offset="1" stop-color="#f7b3c4"/>
+    </linearGradient>
+    <linearGradient id="lf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7cb36a"/>
+      <stop offset="1" stop-color="#4f8a45"/>
+    </linearGradient>
+    <path id="p" d="M100 112 C 84 86, 86 50, 100 22 C 114 50, 116 86, 100 112 Z"/>
+  </defs>
+  <path d="M18 118 C 50 104, 150 104, 182 118 C 150 130, 50 130, 18 118 Z" fill="url(#lf)"/>
+  <g stroke="#c23a5e" stroke-width="0.8" stroke-opacity="0.35">
+    <use href="#p" fill="url(#pk2)" transform="translate(100 112) rotate(-78) scale(.78) translate(-100 -112)"/>
+    <use href="#p" fill="url(#pk2)" transform="translate(100 112) rotate(78) scale(.78) translate(-100 -112)"/>
+    <use href="#p" fill="url(#pk)" transform="translate(100 112) rotate(-54) scale(.9) translate(-100 -112)"/>
+    <use href="#p" fill="url(#pk)" transform="translate(100 112) rotate(54) scale(.9) translate(-100 -112)"/>
+    <use href="#p" fill="url(#pk)" transform="rotate(-28 100 112)"/>
+    <use href="#p" fill="url(#pk)" transform="rotate(28 100 112)"/>
+    <use href="#p" fill="url(#pk)"/>
+  </g>
+  <ellipse cx="100" cy="110" rx="16" ry="5" fill="#f6b73c"/>
+</svg>

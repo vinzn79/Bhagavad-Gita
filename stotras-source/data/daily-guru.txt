@@ -1,0 +1,31 @@
+slug: guru-vandana
+order: 3
+category: daily
+numbers: no
+title_en: Guru Vandana
+title_hi: गुरु वन्दना
+title_ml: ഗുരു വന്ദനം
+sub_en: Gurur Brahma Gurur Vishnu
+sub_hi: गुरुर्ब्रह्मा गुरुर्विष्णुः
+sub_ml: ഗുരുർ ബ്രഹ്മാ ഗുരുർ വിഷ്ണുഃ
+intro_en: Shlokas from the Guru Gita honouring the teacher, who leads us from ignorance to knowledge.
+intro_hi: गुरु गीता के श्लोक, जो अज्ञान से ज्ञान की ओर ले जाने वाले गुरु का सम्मान करते हैं।
+intro_ml: അജ്ഞാനത്തിൽ നിന്ന് ജ്ഞാനത്തിലേക്കു നയിക്കുന്ന ഗുരുവിനെ വന്ദിക്കുന്ന ഗുരുഗീതയിലെ ശ്ലോകങ്ങൾ.
+===
+गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः ।
+गुरुः साक्षात् परब्रह्म तस्मै श्रीगुरवे नमः ॥
+en: The Guru is Brahma, the Guru is Vishnu, the Guru is Lord Maheshvara. The Guru is the Supreme Brahman itself. Salutations to that revered Guru.
+hi: गुरु ही ब्रह्मा हैं, गुरु ही विष्णु हैं, गुरु ही भगवान महेश्वर हैं। गुरु साक्षात् परब्रह्म हैं। उन श्री गुरु को नमस्कार है।
+ml: ഗുരു ബ്രഹ്മാവാണ്, ഗുരു വിഷ്ണുവാണ്, ഗുരു മഹേശ്വരനാണ്. ഗുരു സാക്ഷാൽ പരബ്രഹ്മമാണ്. ആ ശ്രീഗുരുവിനു നമസ്കാരം.
+
+अखण्डमण्डलाकारं व्याप्तं येन चराचरम् ।
+तत्पदं दर्शितं येन तस्मै श्रीगुरवे नमः ॥
+en: Salutations to the Guru who has shown me that state — the undivided whole that pervades everything, moving and unmoving.
+hi: जो अखंड, पूर्ण स्वरूप सारे चर-अचर जगत में व्याप्त है, उस परम पद का जिन्होंने दर्शन कराया, उन श्री गुरु को नमस्कार है।
+ml: ചരാചരങ്ങളെല്ലാം വ്യാപിച്ചിരിക്കുന്ന അഖണ്ഡമായ ആ പരമപദം എനിക്കു കാണിച്ചുതന്ന ശ്രീഗുരുവിനു നമസ്കാരം.
+
+अज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया ।
+चक्षुरुन्मीलितं येन तस्मै श्रीगुरवे नमः ॥
+en: I was blinded by the darkness of ignorance; the Guru opened my eyes with the healing salve of knowledge. Salutations to that revered Guru.
+hi: मैं अज्ञान के अंधकार से अंधा था; जिन्होंने ज्ञान रूपी अंजन की सलाई से मेरी आँखें खोल दीं, उन श्री गुरु को नमस्कार है।
+ml: അജ്ഞാനത്തിന്റെ ഇരുട്ടിൽ അന്ധനായിരുന്ന എന്റെ കണ്ണുകൾ ജ്ഞാനമാകുന്ന അഞ്ജനം കൊണ്ട് തുറപ്പിച്ച ശ്രീഗുരുവിനു നമസ്കാരം.

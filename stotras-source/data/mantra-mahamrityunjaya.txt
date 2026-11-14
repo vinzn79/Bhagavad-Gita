@@ -1,0 +1,19 @@
+slug: mahamrityunjaya-mantra
+order: 1
+category: mantra
+numbers: no
+title_en: Maha Mrityunjaya Mantra
+title_hi: महामृत्युंजय मंत्र
+title_ml: മഹാമൃത്യുഞ്ജയ മന്ത്രം
+sub_en: Om Tryambakam Yajamahe · Lord Shiva
+sub_hi: ॐ त्र्यम्बकं यजामहे · भगवान शिव
+sub_ml: ഓം ത്ര്യംബകം യജാമഹേ · ശിവഭഗവാൻ
+intro_en: Found in the Rig Veda (7.59.12) and the Yajur Veda, this mantra to Shiva, the three-eyed Lord, is chanted for health, healing, protection and freedom from the fear of death.
+intro_hi: ऋग्वेद (७.५९.१२) और यजुर्वेद में वर्णित यह मंत्र त्रिनेत्रधारी भगवान शिव को समर्पित है। इसका जप आरोग्य, रक्षा और मृत्यु-भय से मुक्ति के लिए किया जाता है।
+intro_ml: ഋഗ്വേദത്തിലും (7.59.12) യജുർവേദത്തിലും കാണുന്ന ഈ മന്ത്രം മുക്കണ്ണനായ ശിവഭഗവാനെ സ്തുതിക്കുന്നു. ആരോഗ്യം, രക്ഷ, മരണഭയത്തിൽ നിന്നുള്ള മോചനം എന്നിവയ്ക്കായി ഇത് ജപിക്കുന്നു.
+===
+ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।
+उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॥
+en: We worship the three-eyed Lord, who is fragrant and who nourishes all beings. As a ripe cucumber is gently freed from its vine, may he free us from the bondage of death — and not from immortality.
+hi: हम तीन नेत्रों वाले भगवान शिव की उपासना करते हैं, जो सुगंधित हैं और सबका पोषण करते हैं। जैसे पकी हुई ककड़ी अपनी बेल से सहज ही अलग हो जाती है, वैसे ही वे हमें मृत्यु के बंधन से मुक्त करें, अमृतत्व से नहीं।
+ml: മൂന്നു കണ്ണുകളുള്ളവനും സുഗന്ധമുള്ളവനും എല്ലാവരെയും പോഷിപ്പിക്കുന്നവനുമായ ശിവഭഗവാനെ ഞങ്ങൾ ആരാധിക്കുന്നു. പഴുത്ത വെള്ളരിക്ക വള്ളിയിൽ നിന്ന് എളുപ്പം വേർപെടുന്നതുപോലെ, മരണത്തിന്റെ ബന്ധനത്തിൽ നിന്ന് ഞങ്ങളെ മോചിപ്പിക്കേണമേ; അമൃതത്വത്തിൽ നിന്നല്ല.

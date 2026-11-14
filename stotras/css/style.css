@@ -1,0 +1,148 @@
+:root {
+  --bg: #ffe6c7;          /* light orange */
+  --bg-soft: #fff3e3;
+  --card: rgba(255, 252, 247, 0.92);
+  --ink: #2d1b0e;
+  --ink-soft: #6b4a2f;
+  --accent: #c2410c;
+  --accent-2: #e8577a;
+  --line: #f0cfa6;
+  --dev: "Noto Serif Devanagari", "Nirmala UI", "Kohinoor Devanagari", "Mangal", serif;
+  --mal: "Noto Sans Malayalam", "Nirmala UI", "Malayalam Sangam MN", "Kartika", sans-serif;
+  --lat: "Noto Serif", Georgia, "Times New Roman", serif;
+  --fs: 1.05rem;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+body {
+  margin: 0; color: var(--ink); font-family: var(--lat); font-size: var(--fs); line-height: 1.6;
+  background: var(--bg) url("../img/lotus-pattern.svg") repeat; background-size: 220px;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+body.prayer { background-color: var(--bg-soft); background-size: 300px; }
+a { color: var(--accent); }
+[lang="sa"], [lang="hi"] { font-family: var(--dev); }
+[lang="ml"], [lang="sa-Mlym"] { font-family: var(--mal); }
+
+/* one language at a time for labels and meanings */
+.L { display: none; }
+body[data-lang="en"] .L[data-l="en"],
+body[data-lang="hi"] .L[data-l="hi"],
+body[data-lang="ml"] .L[data-l="ml"] { display: inline; }
+body[data-lang="en"] p.L[data-l="en"],
+body[data-lang="hi"] p.L[data-l="hi"],
+body[data-lang="ml"] p.L[data-l="ml"] { display: block; }
+
+/* ---------------- home ---------------- */
+.home-main { max-width: 1080px; margin: 0 auto; padding: 24px 18px 40px; }
+.hero { text-align: center; padding: 18px 12px 8px; }
+.hero-lotus { width: 120px; height: auto; filter: drop-shadow(0 4px 6px rgba(194, 65, 12, .18)); }
+.hero h1 { margin: 6px 0 4px; display: flex; flex-direction: column; gap: 2px; line-height: 1.25; }
+.hero h1 [lang="sa"] { font-size: clamp(2rem, 5vw, 2.9rem); color: var(--accent); font-weight: 600; }
+.hero-en { font-size: clamp(1.3rem, 3vw, 1.7rem); letter-spacing: .04em; }
+.hero-ml { font-size: 1.15rem; color: var(--ink-soft); font-weight: 400; }
+.tag { color: var(--ink-soft); max-width: 640px; margin: 8px auto 0; }
+.cat { margin-top: 28px; }
+.cat h2 {
+  font-size: 1.25rem; margin: 0 0 12px; color: var(--accent); display: flex; align-items: center; gap: 10px;
+}
+.cat h2::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--accent-2), transparent); opacity: .5; }
+.cards { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+.cards a {
+  display: flex; flex-direction: column; gap: 2px; height: 100%; padding: 14px 16px; border-radius: 14px;
+  background: var(--card); border: 1px solid var(--line); text-decoration: none; color: var(--ink);
+  box-shadow: 0 1px 2px rgba(120, 60, 10, .06); transition: transform .15s, box-shadow .15s, border-color .15s;
+}
+.cards a:hover, .cards a:focus-visible { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(120, 60, 10, .14); border-color: #e9a36a; }
+.t-dev { font-size: 1.3rem; font-weight: 600; color: #8a2c0a; }
+.t-en { font-size: 1rem; }
+.t-ml { font-size: .95rem; color: var(--ink-soft); }
+.t-sub { font-size: .85rem; color: var(--ink-soft); font-style: italic; margin-top: 4px; }
+.install-hint, .ios-hint { text-align: center; margin-top: 28px; color: var(--ink-soft); }
+#install-btn { font: inherit; padding: 10px 18px; border-radius: 999px; border: 0; background: var(--accent); color: #fff; cursor: pointer; }
+
+/* ---------------- controls ---------------- */
+.controls {
+  display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; justify-content: center;
+  padding: 10px 12px; margin: 14px auto 0; border-radius: 14px; background: var(--card); border: 1px solid var(--line);
+  max-width: 640px;
+}
+.prayer .controls {
+  position: sticky; top: 0; z-index: 5; max-width: none; border-radius: 0 0 14px 14px; margin: 0 -18px;
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); background: rgba(255, 246, 234, .94);
+}
+.seg { display: inline-flex; align-items: center; gap: 4px; flex-wrap: wrap; justify-content: center; }
+.seg-label { font-size: .9rem; color: var(--ink-soft); margin-right: 4px; }
+.seg button {
+  font: inherit; font-size: .95rem; padding: 6px 12px; min-height: 36px; border-radius: 999px; cursor: pointer;
+  border: 1px solid #e7b88a; background: #fff; color: var(--ink);
+}
+.seg button[data-set-lang="hi"] { font-family: var(--dev); }
+.seg button[data-set-lang="ml"] { font-family: var(--mal); }
+.seg button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.toggle { display: inline-flex; align-items: center; gap: 8px; font-size: .95rem; cursor: pointer; min-height: 36px; }
+.toggle input { width: 20px; height: 20px; accent-color: var(--accent); }
+
+/* ---------------- prayer pages ---------------- */
+.topbar { max-width: 1180px; margin: 0 auto; padding: 12px 18px 0; }
+.home { text-decoration: none; font-size: .95rem; }
+.reader { max-width: 1180px; margin: 0 auto; padding: 0 18px 30px; }
+.title-block { text-align: center; padding: 10px 0 12px; }
+.title-block h1 { margin: 6px 0 2px; font-size: clamp(1.6rem, 4vw, 2.4rem); color: #8a2c0a; }
+.title-block h1 .L[data-l="hi"] { font-weight: 600; }
+.sub { margin: 0; color: var(--ink-soft); font-style: italic; }
+.intro { max-width: 760px; margin: 10px auto 0; color: var(--ink-soft); font-size: .98rem; }
+.jump { display: flex; flex-wrap: wrap; gap: 6px 14px; justify-content: center; margin: 16px 0 0; font-size: .95rem; }
+.jump a { text-decoration: none; border-bottom: 1px dotted var(--accent); }
+section { margin-top: 18px; }
+.sec-h {
+  text-align: center; font-size: 1.3rem; color: var(--accent); margin: 26px 0 8px; scroll-margin-top: 80px;
+}
+.sec-h::before, .sec-h::after { content: " ❀ "; color: var(--accent-2); font-size: .9rem; }
+.colheads { display: grid; grid-template-columns: 1.15fr 1fr; gap: 28px; padding: 0 18px; font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--ink-soft); }
+.verse {
+  display: grid; grid-template-columns: 1.15fr 1fr; gap: 28px; padding: 16px 18px; margin: 10px 0;
+  background: var(--card); border: 1px solid var(--line); border-radius: 14px; scroll-margin-top: 80px;
+}
+.dev, .rom, .mal { overflow-wrap: anywhere; }
+.h1-sub { margin: 0; font-size: 1.25rem; color: #8a2c0a; }
+.h1-sub .L[data-l="ml"] { font-family: var(--mal); }
+.dev { font-family: var(--dev); font-size: 1.22em; line-height: 1.85; color: #3a1606; }
+.rom { margin-top: 8px; font-style: italic; color: #7a4a22; font-size: .96em; line-height: 1.6; }
+.mal { display: none; margin-top: 8px; font-family: var(--mal); font-size: 1.08em; line-height: 1.8; color: #3d2a12; }
+body.show-mal .mal { display: block; }
+.spk { font-size: .82em; color: var(--accent); font-style: normal; }
+.meaning { border-left: 3px solid #f6c48f; padding-left: 18px; color: #2f2418; }
+.meaning p { margin: 0; }
+.meaning p[lang="hi"] { font-size: 1.05em; line-height: 1.8; }
+.meaning p[lang="ml"] { line-height: 1.85; }
+.end { text-align: center; font-family: var(--dev); font-size: 1.2rem; color: var(--accent); margin: 30px 0 0; }
+.totop {
+  position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); width: 44px; height: 44px; border-radius: 50%;
+  display: grid; place-items: center; background: var(--accent); color: #fff; text-decoration: none; font-size: 1.3rem;
+  opacity: 0; pointer-events: none; transition: opacity .2s; box-shadow: 0 4px 12px rgba(0,0,0,.2);
+}
+.totop.show { opacity: .9; pointer-events: auto; }
+.foot { text-align: center; padding: 20px 18px 34px; font-size: .9rem; color: var(--ink-soft); }
+.foot .note { max-width: 640px; margin: 8px auto 0; font-size: .82rem; }
+
+@media (max-width: 760px) {
+  :root { --fs: 1rem; }
+  .colheads { display: none; }
+  .verse { grid-template-columns: 1fr; gap: 12px; padding: 14px; }
+  .meaning { border-left: 0; border-top: 1px dashed #f0c08c; padding: 10px 0 0; }
+  .prayer .controls { margin: 0 -18px; gap: 8px 12px; padding: 8px; }
+  .seg-label { display: none; }
+  .seg button { padding: 5px 10px; font-size: .9rem; }
+  .toggle { font-size: .88rem; min-height: 32px; }
+  .seg button { min-height: 32px; }
+  .sec-h, .verse { scroll-margin-top: 70px; }
+  .title-block { padding-top: 4px; }
+  .intro { font-size: .92rem; }
+  .dev { font-size: 1.12em; line-height: 1.75; }
+}
+@media print {
+  .controls, .topbar, .totop, .foot, .jump { display: none !important; }
+  body { background: #fff; }
+  .verse { break-inside: avoid; border: 0; border-bottom: 1px solid #ddd; border-radius: 0; }
+}

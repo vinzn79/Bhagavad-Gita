@@ -1,0 +1,1057 @@
+slug: vishnu-sahasranamam
+order: 1
+category: sahasranama
+title_en: Sri Vishnu Sahasranamam
+title_hi: श्री विष्णु सहस्रनाम स्तोत्रम्
+title_ml: ശ്രീ വിഷ്ണു സഹസ്രനാമ സ്തോത്രം
+sub_en: The thousand names of Vishnu · Mahabharata, Anushasana Parva
+sub_hi: भगवान विष्णु के सहस्र नाम · महाभारत, अनुशासन पर्व
+sub_ml: വിഷ്ണുവിന്റെ ആയിരം നാമങ്ങൾ · മഹാഭാരതം, അനുശാസന പർവ്വം
+intro_en: In the Mahabharata, Bhishma, lying on his bed of arrows, answers Yudhishthira's question about the highest dharma by teaching him these thousand names of Vishnu, compiled by sage Veda Vyasa. The text has three parts: the opening (Purva Bhaga) with the dialogue and meditation verses, the 108 verses of names, and the closing verses on the blessings of recitation (Phala Shruti). For the name verses, the meaning gives the sense of the names in that verse.
+intro_hi: महाभारत में शरशय्या पर लेटे भीष्म पितामह, युधिष्ठिर के "सबसे श्रेष्ठ धर्म क्या है" प्रश्न के उत्तर में वेदव्यास द्वारा संकलित विष्णु के ये सहस्र नाम बताते हैं। इसके तीन भाग हैं: पूर्वभाग (संवाद और ध्यान श्लोक), नामों वाले १०८ श्लोक, और उत्तरभाग (पाठ का फल)। नामों वाले श्लोकों में उस श्लोक के नामों का भाव दिया गया है।
+intro_ml: മഹാഭാരതത്തിൽ ശരശയ്യയിൽ കിടക്കുന്ന ഭീഷ്മർ, "ഏറ്റവും ശ്രേഷ്ഠമായ ധർമ്മം ഏത്" എന്ന യുധിഷ്ഠിരന്റെ ചോദ്യത്തിന് ഉത്തരമായി വേദവ്യാസൻ സമാഹരിച്ച വിഷ്ണുവിന്റെ ഈ ആയിരം നാമങ്ങൾ ഉപദേശിക്കുന്നു. മൂന്നു ഭാഗങ്ങൾ: പൂർവ്വഭാഗം (സംവാദവും ധ്യാനശ്ലോകങ്ങളും), നാമങ്ങളുള്ള 108 ശ്ലോകങ്ങൾ, ഉത്തരഭാഗം (ഫലശ്രുതി). നാമശ്ലോകങ്ങളിൽ ആ ശ്ലോകത്തിലെ നാമങ്ങളുടെ ഭാവമാണ് നൽകിയിരിക്കുന്നത്.
+===
+# Purva Bhaga | पूर्वभागः | പൂർവ്വഭാഗം
+शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।
+प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥
+en: To remove all obstacles, meditate on the all-pervading Lord dressed in white, bright as the moon, with four arms and a gracious, smiling face.
+hi: सब विघ्नों की शांति के लिए श्वेत वस्त्रधारी, सर्वव्यापी, चंद्रमा जैसे वर्ण वाले, चतुर्भुज, प्रसन्नमुख भगवान का ध्यान करें।
+ml: എല്ലാ വിഘ്നങ്ങളും ശമിക്കാൻ, വെള്ളവസ്ത്രം ധരിച്ച, ചന്ദ്രനെപ്പോലെ വെളുത്ത, നാലു കൈകളുള്ള, പ്രസന്നവദനനായ സർവ്വവ്യാപിയെ ധ്യാനിക്കുക.
+
+यस्य द्विरदवक्त्राद्याः पारिषद्याः परः शतम् ।
+विघ्नं निघ्नन्ति सततं विष्वक्सेनं तमाश्रये ॥
+en: I take refuge in Vishvaksena, whose hundreds of attendants, led by the elephant-faced one, constantly destroy all obstacles.
+hi: मैं उन विष्वक्सेन की शरण लेता हूँ, जिनके गजमुख आदि सैकड़ों पार्षद निरंतर विघ्नों का नाश करते हैं।
+ml: ഗജമുഖൻ തുടങ്ങിയ നൂറുകണക്കിനു പാർഷദന്മാർ എപ്പോഴും വിഘ്നങ്ങൾ നശിപ്പിക്കുന്ന വിഷ്വക്സേനനെ ഞാൻ ആശ്രയിക്കുന്നു.
+
+व्यासं वसिष्ठनप्तारं शक्तेः पौत्रमकल्मषम् ।
+पराशरात्मजं वन्दे शुकतातं तपोनिधिम् ॥
+en: I bow to Vyasa, the great-grandson of Vasishtha, grandson of Shakti, son of Parashara and father of Shuka — the pure one, a treasure of austerity.
+hi: मैं वसिष्ठ के प्रपौत्र, शक्ति के पौत्र, पराशर के पुत्र, शुकदेव के पिता, निष्पाप और तप के भंडार व्यास जी को प्रणाम करता हूँ।
+ml: വസിഷ്ഠന്റെ പ്രപൗത്രനും ശക്തിയുടെ പൗത്രനും പരാശരന്റെ പുത്രനും ശുകന്റെ പിതാവും പാപരഹിതനും തപോനിധിയുമായ വ്യാസനെ ഞാൻ വന്ദിക്കുന്നു.
+
+व्यासाय विष्णुरूपाय व्यासरूपाय विष्णवे ।
+नमो वै ब्रह्मनिधये वासिष्ठाय नमो नमः ॥
+en: Salutations to Vyasa who is Vishnu in form, and to Vishnu who is in the form of Vyasa; salutations again and again to that treasure-house of Vedic knowledge, born in Vasishtha's line.
+hi: विष्णु रूप व्यास को और व्यास रूप विष्णु को नमस्कार; वेद-ज्ञान के भंडार, वसिष्ठ-वंशी व्यास को बारंबार नमस्कार।
+ml: വിഷ്ണുരൂപനായ വ്യാസനും വ്യാസരൂപനായ വിഷ്ണുവിനും നമസ്കാരം; വേദനിധിയും വസിഷ്ഠവംശജനുമായ വ്യാസന് വീണ്ടും വീണ്ടും നമസ്കാരം.
+
+अविकाराय शुद्धाय नित्याय परमात्मने ।
+सदैकरूपरूपाय विष्णवे सर्वजिष्णवे ॥
+en: Salutations to Vishnu, the changeless, the pure, the eternal Supreme Self, ever of one unchanging form, victorious over all.
+hi: विकार रहित, शुद्ध, नित्य, परमात्मा, सदा एकरूप रहने वाले, सबको जीतने वाले विष्णु को नमस्कार।
+ml: മാറ്റമില്ലാത്തവനും ശുദ്ധനും നിത്യനും പരമാത്മാവും എന്നും ഏകരൂപനും എല്ലാറ്റിനെയും ജയിക്കുന്നവനുമായ വിഷ്ണുവിനു നമസ്കാരം.
+
+यस्य स्मरणमात्रेण जन्मसंसारबन्धनात् ।
+विमुच्यते नमस्तस्मै विष्णवे प्रभविष्णवे ॥
+en: Salutations to the almighty Vishnu, by merely remembering whom one is freed from the bondage of birth and worldly existence.
+hi: जिनके स्मरण मात्र से मनुष्य जन्म और संसार के बंधन से मुक्त हो जाता है, उन सर्वशक्तिमान विष्णु को नमस्कार।
+ml: സ്മരിക്കുന്ന മാത്രയിൽ ജന്മ-സംസാര ബന്ധനത്തിൽ നിന്നു മുക്തി നൽകുന്ന സർവ്വശക്തനായ വിഷ്ണുവിനു നമസ്കാരം.
+
+ॐ नमो विष्णवे प्रभविष्णवे ॥
+en: Om. Salutations to Vishnu, the all-powerful.
+hi: ॐ। सर्वशक्तिमान विष्णु को नमस्कार।
+ml: ഓം. സർവ്വശക്തനായ വിഷ്ണുവിനു നമസ്കാരം.
+
+~श्रीवैशम्पायन उवाच
+श्रुत्वा धर्मानशेषेण पावनानि च सर्वशः ।
+युधिष्ठिरः शान्तनवं पुनरेवाभ्यभाषत ॥
+en: Vaishampayana said: Having heard all the dharmas and all the purifying teachings in full, Yudhishthira again spoke to Bhishma, the son of Shantanu.
+hi: वैशम्पायन बोले: सारे धर्मों और सब पवित्र करने वाले उपदेशों को पूर्ण रूप से सुनकर युधिष्ठिर ने शांतनुपुत्र भीष्म से फिर पूछा।
+ml: വൈശമ്പായനൻ പറഞ്ഞു: എല്ലാ ധർമ്മങ്ങളും പവിത്രമായ ഉപദേശങ്ങളും പൂർണ്ണമായി കേട്ട ശേഷം യുധിഷ്ഠിരൻ ശന്തനുപുത്രനായ ഭീഷ്മരോട് വീണ്ടും ചോദിച്ചു.
+
+~युधिष्ठिर उवाच
+किमेकं दैवतं लोके किं वाप्येकं परायणम् ।
+स्तुवन्तः कं कमर्चन्तः प्राप्नुयुर्मानवाः शुभम् ॥
+en: Yudhishthira asked: Who is the one God in the world? What is the one supreme goal? By praising whom, and by worshipping whom, can people attain what is good?
+hi: युधिष्ठिर ने पूछा: संसार में एक देवता कौन है? एक परम आश्रय क्या है? किसकी स्तुति और किसकी पूजा करके मनुष्य कल्याण पाते हैं?
+ml: യുധിഷ്ഠിരൻ ചോദിച്ചു: ലോകത്തിൽ ഏക ദൈവം ആര്? ഏക പരമാശ്രയം എന്ത്? ആരെ സ്തുതിച്ചും ആരെ അർച്ചിച്ചും മനുഷ്യർ ശുഭം നേടും?
+
+को धर्मः सर्वधर्माणां भवतः परमो मतः ।
+किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥
+en: Which dharma do you consider the highest of all dharmas? By chanting what is a living being freed from the bondage of birth and worldly life?
+hi: सब धर्मों में आप किस धर्म को सबसे श्रेष्ठ मानते हैं? किसका जप करके जीव जन्म और संसार के बंधन से मुक्त होता है?
+ml: എല്ലാ ധർമ്മങ്ങളിലും ഏറ്റവും ശ്രേഷ്ഠമെന്ന് അങ്ങ് കരുതുന്ന ധർമ്മം ഏത്? എന്തു ജപിച്ചാണ് ജീവി ജന്മ-സംസാര ബന്ധനത്തിൽ നിന്ന് മുക്തനാകുന്നത്?
+
+~भीष्म उवाच
+जगत्प्रभुं देवदेवमनन्तं पुरुषोत्तमम् ।
+स्तुवन्नामसहस्रेण पुरुषः सततोत्थितः ॥
+en: Bhishma said: One should ever be devoted to praising, with these thousand names, the Lord of the universe, the God of gods, the infinite, the Supreme Person.
+hi: भीष्म बोले: जगत के स्वामी, देवों के देव, अनंत पुरुषोत्तम की सहस्र नामों से सदा तत्पर होकर स्तुति करनी चाहिए।
+ml: ഭീഷ്മർ പറഞ്ഞു: ജഗന്നാഥനും ദേവദേവനും അനന്തനുമായ പുരുഷോത്തമനെ ആയിരം നാമങ്ങളാൽ എപ്പോഴും ഉത്സാഹത്തോടെ സ്തുതിക്കണം.
+
+तमेव चार्चयन्नित्यं भक्त्या पुरुषमव्ययम् ।
+ध्यायन् स्तुवन्नमस्यंश्च यजमानस्तमेव च ॥
+en: Worshipping that imperishable Person every day with devotion — meditating on him, praising him, bowing to him and offering to him alone —
+hi: उसी अविनाशी पुरुष की भक्ति से नित्य पूजा करते हुए, उसका ध्यान, स्तुति, नमस्कार और यजन करते हुए —
+ml: നാശമില്ലാത്ത ആ പുരുഷനെ തന്നെ ഭക്തിയോടെ ദിവസവും പൂജിച്ചും ധ്യാനിച്ചും സ്തുതിച്ചും നമസ്കരിച്ചും യജിച്ചും —
+
+अनादिनिधनं विष्णुं सर्वलोकमहेश्वरम् ।
+लोकाध्यक्षं स्तुवन्नित्यं सर्वदुःखातिगो भवेत् ॥
+en: — one who always praises Vishnu, who has no beginning or end, the great Lord of all worlds and their overseer, goes beyond all sorrow.
+hi: — आदि-अंत रहित, सब लोकों के महेश्वर, लोकों के अध्यक्ष विष्णु की नित्य स्तुति करने वाला सब दुःखों से पार हो जाता है।
+ml: — ആദിയും അന്തവുമില്ലാത്ത, എല്ലാ ലോകങ്ങളുടെയും മഹേശ്വരനും അധ്യക്ഷനുമായ വിഷ്ണുവിനെ എന്നും സ്തുതിക്കുന്നവൻ എല്ലാ ദുഃഖങ്ങളെയും കടക്കുന്നു.
+
+ब्रह्मण्यं सर्वधर्मज्ञं लोकानां कीर्तिवर्धनम् ।
+लोकनाथं महद्भूतं सर्वभूतभवोद्भवम् ॥
+en: He is devoted to the Vedas and the wise, knower of all dharma, who increases the glory of the worlds; Lord of the worlds, the great Being, from whom all beings arise.
+hi: वे वेद और ब्राह्मणों के हितकारी, सब धर्मों के ज्ञाता, लोकों की कीर्ति बढ़ाने वाले, लोकनाथ, महान सत्ता और सब प्राणियों के उत्पत्ति-स्थान हैं।
+ml: അവൻ വേദങ്ങൾക്കും ജ്ഞാനികൾക്കും ഹിതനും എല്ലാ ധർമ്മങ്ങളും അറിയുന്നവനും ലോകങ്ങളുടെ കീർത്തി വർദ്ധിപ്പിക്കുന്നവനും ലോകനാഥനും മഹത്തായ സത്തയും എല്ലാ ജീവികളുടെയും ഉത്ഭവസ്ഥാനവുമാണ്.
+
+एष मे सर्वधर्माणां धर्मोऽधिकतमो मतः ।
+यद्भक्त्या पुण्डरीकाक्षं स्तवैरर्चेन्नरः सदा ॥
+en: In my view, the highest of all dharmas is this: that one always worships the lotus-eyed Lord with devotion and with hymns of praise.
+hi: मेरे मत में सब धर्मों में यही सबसे श्रेष्ठ धर्म है कि मनुष्य कमलनयन भगवान की भक्ति से स्तुतियों द्वारा सदा पूजा करे।
+ml: താമരക്കണ്ണനായ ഭഗവാനെ ഭക്തിയോടെ സ്തോത്രങ്ങളാൽ എപ്പോഴും അർച്ചിക്കുന്നതാണ് എല്ലാ ധർമ്മങ്ങളിലും ശ്രേഷ്ഠമെന്നാണ് എന്റെ അഭിപ്രായം.
+
+परमं यो महत्तेजः परमं यो महत्तपः ।
+परमं यो महद्ब्रह्म परमं यः परायणम् ॥
+en: He is the supreme, great light; the supreme, great discipline; the supreme, great Brahman; the supreme refuge.
+hi: वे परम महान तेज हैं, परम महान तप हैं, परम महान ब्रह्म हैं और परम आश्रय हैं।
+ml: അവൻ പരമമായ മഹാതേജസ്സും പരമമായ മഹാതപസ്സും പരമമായ മഹാബ്രഹ്മവും പരമമായ ആശ്രയവുമാണ്.
+
+पवित्राणां पवित्रं यो मङ्गलानां च मङ्गलम् ।
+दैवतं दैवतानां च भूतानां योऽव्ययः पिता ॥
+en: He is the purest of the pure, the most auspicious of all that is auspicious, the God of gods, and the eternal father of all beings.
+hi: वे पवित्रों में भी पवित्र, मंगलों के भी मंगल, देवताओं के भी देवता और सब प्राणियों के अविनाशी पिता हैं।
+ml: അവൻ പവിത്രങ്ങളിൽ പവിത്രവും മംഗളങ്ങളിൽ മംഗളവും ദേവന്മാരുടെ ദേവനും എല്ലാ ജീവികളുടെയും നാശമില്ലാത്ത പിതാവുമാണ്.
+
+यतः सर्वाणि भूतानि भवन्त्यादियुगागमे ।
+यस्मिंश्च प्रलयं यान्ति पुनरेव युगक्षये ॥
+en: From him all beings come forth at the dawn of creation, and into him they all merge again at the end of the age.
+hi: सृष्टि के आरंभ में सारे प्राणी जिनसे उत्पन्न होते हैं, और युग के अंत में फिर जिनमें लीन हो जाते हैं —
+ml: സൃഷ്ടിയുടെ ആരംഭത്തിൽ എല്ലാ ജീവികളും ആരിൽ നിന്നുണ്ടാകുന്നുവോ, യുഗാന്ത്യത്തിൽ വീണ്ടും ആരിൽ ലയിക്കുന്നുവോ —
+
+तस्य लोकप्रधानस्य जगन्नाथस्य भूपते ।
+विष्णोर्नामसहस्रं मे शृणु पापभयापहम् ॥
+en: O King, hear from me the thousand names of that Vishnu, the foremost in all the worlds and Lord of the universe, which remove sin and fear.
+hi: हे राजन, उन लोकों में प्रधान, जगन्नाथ विष्णु के पाप और भय को दूर करने वाले सहस्र नाम मुझसे सुनो।
+ml: രാജാവേ, ലോകങ്ങളിൽ പ്രധാനിയും ജഗന്നാഥനുമായ ആ വിഷ്ണുവിന്റെ, പാപവും ഭയവും നീക്കുന്ന ആയിരം നാമങ്ങൾ എന്നിൽ നിന്നു കേൾക്കുക.
+
+यानि नामानि गौणानि विख्यातानि महात्मनः ।
+ऋषिभिः परिगीतानि तानि वक्ष्यामि भूतये ॥
+en: For the welfare of all, I shall tell you those famous names of the great Lord, which describe his qualities and have been sung by the sages.
+hi: उन महात्मा के जो गुणों पर आधारित, प्रसिद्ध और ऋषियों द्वारा गाए गए नाम हैं, उन्हें मैं सबके कल्याण के लिए कहूँगा।
+ml: ആ മഹാത്മാവിന്റെ ഗുണങ്ങളെ വർണ്ണിക്കുന്നതും പ്രസിദ്ധവും ഋഷിമാർ പാടിയതുമായ നാമങ്ങൾ എല്ലാവരുടെയും നന്മയ്ക്കായി ഞാൻ പറയാം.
+
+ऋषिर्नाम्नां सहस्रस्य वेदव्यासो महामुनिः ।
+छन्दोऽनुष्टुप् तथा देवो भगवान् देवकीसुतः ॥
+en: The seer of these thousand names is the great sage Veda Vyasa; the metre is Anushtup; and the deity is Lord Krishna, the son of Devaki.
+hi: इन सहस्र नामों के ऋषि महामुनि वेदव्यास हैं, छंद अनुष्टुप है और देवता देवकीनंदन भगवान श्रीकृष्ण हैं।
+ml: ഈ സഹസ്രനാമത്തിന്റെ ഋഷി മഹാമുനി വേദവ്യാസനും ഛന്ദസ്സ് അനുഷ്ടുപ്പും ദേവത ദേവകീസുതനായ ഭഗവാൻ ശ്രീകൃഷ്ണനുമാണ്.
+
+अमृतांशूद्भवो बीजं शक्तिर्देवकिनन्दनः ।
+त्रिसामा हृदयं तस्य शान्त्यर्थे विनियुज्यते ॥
+en: "Amritamshudbhava" is its seed (bija), "Devakinandana" its power (shakti), and "Trisama" its heart. It is chanted for peace.
+hi: "अमृतांशूद्भव" इसका बीज है, "देवकीनंदन" इसकी शक्ति और "त्रिसामा" इसका हृदय है। इसका पाठ शांति के लिए किया जाता है।
+ml: "അമൃതാംശൂദ്ഭവൻ" ഇതിന്റെ ബീജവും "ദേവകീനന്ദനൻ" ശക്തിയും "ത്രിസാമാ" ഹൃദയവുമാണ്. ശാന്തിക്കായി ഇത് ജപിക്കുന്നു.
+
+विष्णुं जिष्णुं महाविष्णुं प्रभविष्णुं महेश्वरम् ।
+अनेकरूपदैत्यान्तं नमामि पुरुषोत्तमम् ॥
+en: I bow to Purushottama — Vishnu, the victorious, the great Vishnu, the all-powerful, the great Lord, who in many forms puts an end to the demons.
+hi: मैं उन पुरुषोत्तम को नमन करता हूँ — जो विष्णु हैं, विजयी हैं, महाविष्णु हैं, सर्वशक्तिमान हैं, महेश्वर हैं और अनेक रूपों में दैत्यों का अंत करते हैं।
+ml: വിഷ്ണുവും ജിഷ്ണുവും മഹാവിഷ്ണുവും പ്രഭവിഷ്ണുവും മഹേശ്വരനും അനേകരൂപങ്ങളിൽ ദൈത്യരെ നിഗ്രഹിക്കുന്നവനുമായ പുരുഷോത്തമനെ ഞാൻ നമിക്കുന്നു.
+
+# Dhyanam | ध्यानम् | ധ്യാനം
+क्षीरोदन्वत्प्रदेशे शुचिमणिविलसत्सैकते मौक्तिकानां
+मालाकॢप्तासनस्थः स्फटिकमणिनिभैर्मौक्तिकैर्मण्डिताङ्गः ।
+शुभ्रैरभ्रैरदभ्रैरुपरिविरचितैर्मुक्तपीयूषवर्षैः
+आनन्दी नः पुनीयादरिनलिनगदाशङ्खपाणिर्मुकुन्दः ॥
+en: On the shore of the milk ocean, on sands sparkling with pure gems, seated on a throne made of garlands of pearls, his body adorned with pearls clear as crystal, beneath vast white clouds that shower nectar — may blissful Mukunda, holding the discus, lotus, mace and conch, purify us.
+hi: क्षीरसागर के तट पर, शुद्ध मणियों से चमकती रेत पर, मोतियों की मालाओं से बने आसन पर बैठे, स्फटिक जैसे मोतियों से सजे अंगों वाले, ऊपर अमृत बरसाते विशाल श्वेत मेघों के नीचे — चक्र, कमल, गदा और शंख धारण करने वाले आनंदमय मुकुंद हमें पवित्र करें।
+ml: പാലാഴിയുടെ തീരത്ത്, ശുദ്ധരത്നങ്ങൾ തിളങ്ങുന്ന മണൽത്തിട്ടയിൽ, മുത്തുമാലകൾ കൊണ്ടുള്ള ആസനത്തിലിരിക്കുന്ന, സ്ഫടികം പോലുള്ള മുത്തുകളാൽ അലങ്കരിച്ച ശരീരമുള്ള, മുകളിൽ അമൃതം വർഷിക്കുന്ന വെൺമേഘങ്ങളുള്ള, ചക്രം, താമര, ഗദ, ശംഖ് എന്നിവ ധരിച്ച ആനന്ദസ്വരൂപനായ മുകുന്ദൻ ഞങ്ങളെ പവിത്രരാക്കട്ടെ.
+
+भूः पादौ यस्य नाभिर्वियदसुरनिलश्चन्द्रसूर्यौ च नेत्रे
+कर्णावाशाः शिरो द्यौर्मुखमपि दहनो यस्य वास्तेयमब्धिः ।
+अन्तःस्थं यस्य विश्वं सुरनरखगगोभोगिगन्धर्वदैत्यैः
+चित्रं रंरम्यते तं त्रिभुवनवपुषं विष्णुमीशं नमामि ॥
+en: The earth is his feet, the sky his navel, the wind his breath, the moon and sun his eyes, the directions his ears, the heavens his head, fire his mouth and the ocean his abdomen; within him the whole wondrous universe of gods, humans, birds, cattle, serpents, gandharvas and demons sports. I bow to Lord Vishnu, whose body is the three worlds.
+hi: पृथ्वी जिनके चरण हैं, आकाश नाभि, वायु प्राण, चंद्र-सूर्य नेत्र, दिशाएँ कान, स्वर्ग सिर, अग्नि मुख और समुद्र उदर है; जिनके भीतर देवता, मनुष्य, पक्षी, पशु, नाग, गंधर्व और दैत्यों से भरा यह अद्भुत विश्व क्रीड़ा करता है — उन त्रिभुवन-शरीर भगवान विष्णु को मैं नमन करता हूँ।
+ml: ഭൂമി പാദങ്ങളും ആകാശം നാഭിയും വായു പ്രാണനും ചന്ദ്രസൂര്യന്മാർ കണ്ണുകളും ദിക്കുകൾ കാതുകളും സ്വർഗ്ഗം ശിരസ്സും അഗ്നി മുഖവും സമുദ്രം ഉദരവുമായ, ദേവന്മാരും മനുഷ്യരും പക്ഷികളും പശുക്കളും നാഗങ്ങളും ഗന്ധർവ്വരും ദൈത്യരും നിറഞ്ഞ ഈ അത്ഭുതലോകം ഉള്ളിൽ ക്രീഡിക്കുന്ന, മൂന്നു ലോകങ്ങളും ശരീരമായ വിഷ്ണുഭഗവാനെ ഞാൻ നമിക്കുന്നു.
+
+शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं
+विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।
+लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं
+वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥
+en: I bow to Vishnu — peaceful in form, resting on the serpent, with a lotus at his navel, Lord of the gods, support of the universe, vast like the sky, dark as a rain-cloud, with auspicious limbs; beloved of Lakshmi, lotus-eyed, reached by yogis in meditation; who removes the fear of worldly existence, the one Lord of all the worlds.
+hi: शांत स्वरूप, शेषनाग पर शयन करने वाले, नाभि में कमल वाले, देवताओं के स्वामी, विश्व के आधार, आकाश के समान व्यापक, मेघ के समान श्याम वर्ण, शुभ अंगों वाले, लक्ष्मीपति, कमलनयन, योगियों द्वारा ध्यान से प्राप्त होने वाले, संसार के भय को हरने वाले, सब लोकों के एकमात्र स्वामी विष्णु को मैं प्रणाम करता हूँ।
+ml: ശാന്തരൂപനും അനന്തശായിയും പദ്മനാഭനും ദേവേശനും ലോകാധാരനും ആകാശം പോലെ വ്യാപിച്ചവനും മേഘവർണ്ണനും ശുഭാംഗനും ലക്ഷ്മീകാന്തനും കമലനയനനും യോഗികൾക്ക് ധ്യാനത്തിലൂടെ പ്രാപ്യനും സംസാരഭയം നീക്കുന്നവനും എല്ലാ ലോകങ്ങളുടെയും ഏകനാഥനുമായ വിഷ്ണുവിനെ ഞാൻ വന്ദിക്കുന്നു.
+
+मेघश्यामं पीतकौशेयवासं
+श्रीवत्साङ्कं कौस्तुभोद्भासिताङ्गम् ।
+पुण्योपेतं पुण्डरीकायताक्षं
+विष्णुं वन्दे सर्वलोकैकनाथम् ॥
+en: I bow to Vishnu, dark as a rain-cloud, clad in yellow silk, bearing the Srivatsa mark, his body shining with the Kaustubha gem; the holy one with long lotus eyes, the one Lord of all the worlds.
+hi: मेघ के समान श्याम, पीले रेशमी वस्त्र धारण किए, श्रीवत्स चिह्न वाले, कौस्तुभ मणि से दमकते अंगों वाले, पुण्यमय, कमल जैसे विशाल नेत्रों वाले, सब लोकों के एकमात्र नाथ विष्णु को मैं प्रणाम करता हूँ।
+ml: മേഘശ്യാമനും മഞ്ഞപ്പട്ടുടുത്തവനും ശ്രീവത്സചിഹ്നമുള്ളവനും കൗസ്തുഭം കൊണ്ട് ശോഭിക്കുന്ന ശരീരമുള്ളവനും പുണ്യസ്വരൂപനും താമരയിതൾ പോലെ നീണ്ട കണ്ണുകളുള്ളവനും എല്ലാ ലോകങ്ങളുടെയും ഏകനാഥനുമായ വിഷ്ണുവിനെ ഞാൻ വന്ദിക്കുന്നു.
+
+सशङ्खचक्रं सकिरीटकुण्डलं
+सपीतवस्त्रं सरसीरुहेक्षणम् ।
+सहारवक्षःस्थलकौस्तुभश्रियं
+नमामि विष्णुं शिरसा चतुर्भुजम् ॥
+en: With bowed head I salute the four-armed Vishnu, holding the conch and discus, wearing a crown and earrings, clad in yellow, with lotus eyes, his chest graced by garlands and the radiant Kaustubha gem.
+hi: शंख-चक्र धारण किए, मुकुट और कुंडल पहने, पीतांबरधारी, कमलनयन, जिनके वक्षस्थल पर हार और कौस्तुभ मणि की शोभा है — उन चतुर्भुज विष्णु को मैं सिर झुकाकर नमन करता हूँ।
+ml: ശംഖും ചക്രവും കിരീടവും കുണ്ഡലങ്ങളും മഞ്ഞവസ്ത്രവും ധരിച്ച, താമരക്കണ്ണുള്ള, മാറിൽ ഹാരങ്ങളും കൗസ്തുഭവും ശോഭിക്കുന്ന ചതുർബാഹുവായ വിഷ്ണുവിനെ ഞാൻ ശിരസ്സു നമിച്ചു വന്ദിക്കുന്നു.
+
+# Sahasranama Stotram | सहस्रनाम स्तोत्रम् | സഹസ്രനാമ സ്തോത്രം
+~हरिः ॐ
+विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः ।
+भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः ॥
+en: He is the whole universe; the all-pervading one; the one invoked in sacrifice; Lord of past, future and present; creator and sustainer of beings; pure existence; the Self of all beings, who brings them into being and nourishes them.
+hi: वे स्वयं विश्व हैं, सर्वव्यापी हैं, यज्ञ में जिनका आवाहन होता है, भूत-भविष्य-वर्तमान के स्वामी हैं; प्राणियों के रचयिता और पालक, शुद्ध सत्ता, सब प्राणियों की आत्मा और उनका पोषण करने वाले हैं।
+ml: അവൻ വിശ്വം തന്നെ; സർവ്വവ്യാപി; യജ്ഞത്തിൽ ആവാഹിക്കപ്പെടുന്നവൻ; ഭൂതം, ഭാവി, വർത്തമാനം എന്നിവയുടെ പ്രഭു; ജീവികളെ സൃഷ്ടിക്കുകയും പോഷിപ്പിക്കുകയും ചെയ്യുന്നവൻ; ശുദ്ധസത്ത; എല്ലാ ജീവികളുടെയും ആത്മാവ്.
+
+पूतात्मा परमात्मा च मुक्तानां परमा गतिः ।
+अव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥
+en: The pure Self, the Supreme Self, the highest goal of the liberated; the imperishable, the indwelling Person, the witness, the knower of the field (body), the undecaying.
+hi: पवित्र आत्मा, परमात्मा, मुक्त जीवों की परम गति; अविनाशी, हर शरीर में रहने वाले पुरुष, साक्षी, क्षेत्र (शरीर) को जानने वाले और अक्षर।
+ml: പരിശുദ്ധാത്മാവ്, പരമാത്മാവ്, മുക്തരുടെ പരമഗതി; നാശമില്ലാത്തവൻ, ഉള്ളിൽ വസിക്കുന്ന പുരുഷൻ, സാക്ഷി, ക്ഷേത്രജ്ഞൻ (ശരീരത്തെ അറിയുന്നവൻ), അക്ഷരൻ.
+
+योगो योगविदां नेता प्रधानपुरुषेश्वरः ।
+नारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥
+en: He is Yoga itself, the guide of those who know yoga, the Lord of nature and souls; who took the man-lion form, the glorious one, Keshava of beautiful hair, the Supreme Person.
+hi: वे स्वयं योग हैं, योगियों के नेता, प्रकृति और पुरुष के ईश्वर; नरसिंह रूप धारी, श्रीमान, सुंदर केशों वाले केशव और पुरुषोत्तम।
+ml: യോഗം തന്നെ, യോഗികളുടെ നേതാവ്, പ്രകൃതിയുടെയും പുരുഷന്റെയും ഈശ്വരൻ; നരസിംഹരൂപൻ, ശ്രീമാൻ, കേശവൻ, പുരുഷോത്തമൻ.
+
+सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः ।
+सम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥
+en: He is everything; the remover of sins; the auspicious; the steadfast; the origin of beings; the imperishable treasure; the one who appears at will; the giver of fruits; the supporter; the source; the mighty; the Lord.
+hi: वे सर्वरूप, पापों का नाश करने वाले, कल्याणकारी, स्थिर, प्राणियों के आदि, अविनाशी निधि, स्वेच्छा से प्रकट होने वाले, फल देने वाले, भरण करने वाले, उत्पत्ति के स्रोत, समर्थ प्रभु और ईश्वर हैं।
+ml: എല്ലാം അവനാണ്; പാപം നീക്കുന്നവൻ; മംഗളസ്വരൂപൻ; സ്ഥിരൻ; ജീവികളുടെ ആദി; നാശമില്ലാത്ത നിധി; ഇച്ഛാനുസരണം അവതരിക്കുന്നവൻ; ഫലം നൽകുന്നവൻ; ഭരിക്കുന്നവൻ; ഉത്ഭവസ്ഥാനം; പ്രഭു; ഈശ്വരൻ.
+
+स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः ।
+अनादिनिधनो धाता विधाता धातुरुत्तमः ॥
+en: Self-born; the giver of happiness; the radiant sun; lotus-eyed; of mighty voice (the Vedas); without beginning or end; the upholder; the ordainer; superior even to the creator.
+hi: स्वयं प्रकट, सुख देने वाले, आदित्य, कमलनयन, महान स्वर (वेद) वाले, आदि-अंत रहित, धारण करने वाले, विधाता और ब्रह्मा से भी श्रेष्ठ।
+ml: സ്വയംഭൂ, സുഖം നൽകുന്നവൻ, ആദിത്യൻ, താമരക്കണ്ണൻ, മഹാനാദമുള്ളവൻ (വേദം), ആദിയും അന്തവുമില്ലാത്തവൻ, ധാതാവ്, വിധാതാവ്, ബ്രഹ്മാവിനെക്കാൾ ശ്രേഷ്ഠൻ.
+
+अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः ।
+विश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥
+en: Immeasurable; Lord of the senses; lotus-naveled; Lord of the immortals; maker of the universe; the thinker; the shaper; the vast; the ancient; the unchanging.
+hi: अप्रमेय, इंद्रियों के स्वामी हृषीकेश, पद्मनाभ, देवताओं के प्रभु, विश्व के रचयिता, मननशील, सबको आकार देने वाले, अति स्थूल, पुरातन और ध्रुव (अटल)।
+ml: അളക്കാനാവാത്തവൻ, ഇന്ദ്രിയങ്ങളുടെ നാഥൻ ഹൃഷീകേശൻ, പദ്മനാഭൻ, ദേവപ്രഭു, വിശ്വകർമ്മാവ്, മനനശീലൻ, രൂപം നൽകുന്നവൻ, ഏറ്റവും സ്ഥൂലൻ, പുരാതനൻ, ധ്രുവൻ (അചഞ്ചലൻ).
+
+अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः ।
+प्रभूतस्त्रिककुब्धाम पवित्रं मङ्गलं परम् ॥
+en: Beyond the grasp of the senses; eternal; Krishna, the all-attractive; red-eyed; the destroyer (at dissolution); full of greatness; the abode of the three regions; the purifier; the supreme auspiciousness.
+hi: इंद्रियों से अग्राह्य, शाश्वत, कृष्ण, लाल नेत्रों वाले, प्रलय में संहार करने वाले, ऐश्वर्य से परिपूर्ण, तीनों दिशाओं-लोकों के धाम, पवित्र और परम मंगल।
+ml: ഇന്ദ്രിയങ്ങൾക്കു ഗ്രഹിക്കാനാവാത്തവൻ, ശാശ്വതൻ, കൃഷ്ണൻ, ചുവന്ന കണ്ണുള്ളവൻ, പ്രളയത്തിൽ സംഹരിക്കുന്നവൻ, ഐശ്വര്യപൂർണ്ണൻ, മൂന്നു ലോകങ്ങളുടെയും ആധാരം, പവിത്രം, പരമമംഗളം.
+
+ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः ।
+हिरण्यगर्भो भूगर्भो माधवो मधुसूदनः ॥
+en: The ruler; the giver of life; life itself; the eldest; the best; Lord of all creatures; the golden womb (cosmic creator); who holds the earth within; Madhava, consort of Lakshmi; the slayer of the demon Madhu.
+hi: शासन करने वाले, प्राण देने वाले, स्वयं प्राण, सबसे ज्येष्ठ और श्रेष्ठ, प्रजापति, हिरण्यगर्भ, पृथ्वी को गर्भ में रखने वाले, लक्ष्मीपति माधव और मधु दैत्य के संहारक मधुसूदन।
+ml: ഭരിക്കുന്നവൻ, പ്രാണൻ നൽകുന്നവൻ, പ്രാണൻ തന്നെ, ജ്യേഷ്ഠൻ, ശ്രേഷ്ഠൻ, പ്രജാപതി, ഹിരണ്യഗർഭൻ, ഭൂമിയെ ഉള്ളിൽ വഹിക്കുന്നവൻ, ലക്ഷ്മീപതിയായ മാധവൻ, മധുവിനെ നിഗ്രഹിച്ച മധുസൂദനൻ.
+
+ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः ।
+अनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान् ॥
+en: The almighty; the valiant; the archer; the wise; the one who strides across the worlds; the orderly; unsurpassed; unassailable; grateful; the doer of all action; self-reliant.
+hi: सर्वशक्तिमान ईश्वर, पराक्रमी, धनुर्धारी, मेधावी, लोकों को पग से नापने वाले, क्रमबद्ध, जिनसे उत्तम कोई नहीं, अजेय, कृतज्ञ, कर्म स्वरूप और आत्मनिष्ठ।
+ml: ഈശ്വരൻ, പരാക്രമി, വില്ലാളി, മേധാവി, ലോകങ്ങളെ അളന്നവൻ, ക്രമസ്വരൂപൻ, അതുല്യൻ, ആക്രമിക്കാനാവാത്തവൻ, കൃതജ്ഞൻ, കർമ്മസ്വരൂപൻ, ആത്മനിഷ്ഠൻ.
+
+सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः ।
+अहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः ॥
+en: Lord of the gods; the refuge; bliss itself; the seed of the universe; source of all beings; the day; the year; the serpent (hard to grasp); knowledge itself; the all-seeing.
+hi: देवताओं के स्वामी, शरण, आनंद स्वरूप, विश्व के बीज, प्रजा के उत्पत्ति-स्थान, दिन, संवत्सर, सर्प के समान दुर्ग्राह्य, ज्ञान स्वरूप और सब कुछ देखने वाले।
+ml: ദേവേശൻ, ശരണം, ആനന്ദസ്വരൂപൻ, വിശ്വത്തിന്റെ ബീജം, പ്രജകളുടെ ഉത്ഭവം, പകൽ, സംവത്സരം, സർപ്പം പോലെ പിടികിട്ടാത്തവൻ, ജ്ഞാനസ്വരൂപൻ, എല്ലാം കാണുന്നവൻ.
+
+अजः सर्वेश्वरः सिद्धः सिद्धिः सर्वादिरच्युतः ।
+वृषाकपिरमेयात्मा सर्वयोगविनिःसृतः ॥
+en: Unborn; Lord of all; ever perfect; perfection itself; the beginning of all; Achyuta, who never falls; who lifted the earth as dharma and the boar; of immeasurable Self; known through all paths of yoga.
+hi: अजन्मा, सर्वेश्वर, नित्य सिद्ध, स्वयं सिद्धि, सबके आदि, अच्युत (कभी न गिरने वाले), धर्म और वराह रूप वृषाकपि, अपरिमेय आत्मा और सब योगों से जाने जाने वाले।
+ml: അജൻ, സർവ്വേശ്വരൻ, സിദ്ധൻ, സിദ്ധി തന്നെ, എല്ലാറ്റിന്റെയും ആദി, അച്യുതൻ (ഒരിക്കലും വീഴാത്തവൻ), വൃഷാകപി (ധർമ്മവും വരാഹവും), അളവറ്റ ആത്മാവ്, എല്ലാ യോഗങ്ങളിലൂടെയും അറിയപ്പെടുന്നവൻ.
+
+वसुर्वसुमनाः सत्यः समात्माऽसम्मितः समः ।
+अमोघः पुण्डरीकाक्षो वृषकर्मा वृषाकृतिः ॥
+en: He dwells in all; good-hearted; truth itself; the same in all; beyond measure; impartial; never in vain; lotus-eyed; whose deeds are dharma; whose very form is dharma.
+hi: सबमें बसने वाले वसु, उदार मन वाले, सत्य स्वरूप, सबमें समान आत्मा, अपरिमित, सम, कभी व्यर्थ न जाने वाले, कमलनयन, धर्ममय कर्म और धर्ममय स्वरूप वाले।
+ml: എല്ലാറ്റിലും വസിക്കുന്നവൻ, നല്ല മനസ്സുള്ളവൻ, സത്യസ്വരൂപൻ, എല്ലാറ്റിലും സമനായ ആത്മാവ്, അളവില്ലാത്തവൻ, സമൻ, ഒരിക്കലും വിഫലമാകാത്തവൻ, പുണ്ഡരീകാക്ഷൻ, ധർമ്മകർമ്മൻ, ധർമ്മരൂപൻ.
+
+रुद्रो बहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः ।
+अमृतः शाश्वतः स्थाणुर्वरारोहो महातपाः ॥
+en: He who removes sorrow (Rudra); many-headed; the supporter of the worlds; the source of the universe; whose names are holy to hear; immortal; eternal; firmly fixed; the highest goal; of great austerity.
+hi: दुःख दूर करने वाले रुद्र, अनेक सिरों वाले, लोकों का भरण करने वाले, विश्व के मूल, जिनके नाम सुनना पवित्र करता है, अमृत, शाश्वत, स्थिर, परम लक्ष्य और महान तपस्वी।
+ml: ദുഃഖം നീക്കുന്ന രുദ്രൻ, അനേകം ശിരസ്സുള്ളവൻ, ലോകങ്ങളെ ഭരിക്കുന്നവൻ, വിശ്വത്തിന്റെ ഉറവിടം, കേൾക്കുന്നത് പവിത്രമാക്കുന്ന നാമങ്ങളുള്ളവൻ, അമൃതൻ, ശാശ്വതൻ, സ്ഥിരൻ, പരമലക്ഷ്യം, മഹാതപസ്വി.
+
+सर्वगः सर्वविद्भानुर्विष्वक्सेनो जनार्दनः ।
+वेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित्कविः ॥
+en: All-pervading; all-knowing and radiant; whose army scatters the wicked; Janardana, who moves people (to their goals); the Veda itself; knower of the Vedas; flawless; whose limbs are the Vedas; the seer who knows the Vedas.
+hi: सर्वव्यापी, सर्वज्ञ और प्रकाशमान, जिनकी सेना से दुष्ट भागते हैं, जनार्दन, स्वयं वेद, वेदों के ज्ञाता, पूर्ण, वेद जिनके अंग हैं, वेदवेत्ता और कवि (द्रष्टा)।
+ml: സർവ്വവ്യാപി, സർവ്വജ്ഞനും പ്രകാശമാനും, ദുഷ്ടരെ ചിതറിക്കുന്ന സേനയുള്ളവൻ, ജനാർദ്ദനൻ, വേദം തന്നെ, വേദജ്ഞൻ, ന്യൂനതയില്ലാത്തവൻ, വേദങ്ങൾ അംഗങ്ങളായവൻ, വേദമറിയുന്ന കവി.
+
+लोकाध्यक्षः सुराध्यक्षो धर्माध्यक्षः कृताकृतः ।
+चतुरात्मा चतुर्व्यूहश्चतुर्दंष्ट्रश्चतुर्भुजः ॥
+en: Overseer of the worlds, of the gods and of dharma; both the effect and the cause; of fourfold being; in four divine forms (vyuhas); with four tusks (as Narasimha); four-armed.
+hi: लोकों, देवताओं और धर्म के अध्यक्ष; कार्य भी और कारण भी; चार रूपों वाले, चतुर्व्यूह, चार दाढ़ों वाले (नरसिंह) और चतुर्भुज।
+ml: ലോകങ്ങളുടെയും ദേവന്മാരുടെയും ധർമ്മത്തിന്റെയും അധ്യക്ഷൻ; കാര്യവും കാരണവും; നാലു രൂപങ്ങളുള്ളവൻ, ചതുർവ്യൂഹൻ, നാലു ദംഷ്ട്രങ്ങളുള്ളവൻ (നരസിംഹം), ചതുർബാഹു.
+
+भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः ।
+अनघो विजयो जेता विश्वयोनिः पुनर्वसुः ॥
+en: Radiant; the food and the enjoyer of it; the patient one; first-born of the world; sinless; victory itself; the conqueror; the womb of the universe; who dwells again and again in all bodies.
+hi: तेजस्वी, स्वयं भोजन और भोक्ता, सहनशील, जगत के आदि में उत्पन्न, निष्पाप, विजय स्वरूप, विजेता, विश्व के मूल और बार-बार शरीरों में बसने वाले।
+ml: ശോഭിക്കുന്നവൻ, ഭോജനവും ഭോക്താവും, സഹിഷ്ണു, ലോകത്തിന്റെ ആദിയിൽ ജനിച്ചവൻ, പാപരഹിതൻ, വിജയം തന്നെ, ജേതാവ്, വിശ്വയോനി, വീണ്ടും വീണ്ടും ശരീരങ്ങളിൽ വസിക്കുന്നവൻ.
+
+उपेन्द्रो वामनः प्रांशुरमोघः शुचिरूर्जितः ।
+अतीन्द्रः सङ्ग्रहः सर्गो धृतात्मा नियमो यमः ॥
+en: Younger brother of Indra (Upendra); Vamana, the dwarf; who grew tall (as Trivikrama); never in vain; pure; mighty; surpassing Indra; who gathers all at dissolution; creation itself; self-established; the ordainer; the controller within.
+hi: इंद्र के छोटे भाई उपेंद्र, वामन, विराट रूप में ऊँचे, अमोघ, पवित्र, बलवान, इंद्र से भी श्रेष्ठ, प्रलय में सबको समेटने वाले, सृष्टि स्वरूप, आत्मस्थित, नियम और अंतर्यामी नियंता।
+ml: ഇന്ദ്രന്റെ അനുജനായ ഉപേന്ദ്രൻ, വാമനൻ, ത്രിവിക്രമനായി ഉയർന്നവൻ, അമോഘൻ, ശുചി, ബലവാൻ, ഇന്ദ്രനെക്കാൾ ശ്രേഷ്ഠൻ, പ്രളയത്തിൽ എല്ലാം സംഗ്രഹിക്കുന്നവൻ, സൃഷ്ടി തന്നെ, ആത്മസ്ഥിതൻ, നിയമം, അന്തര്യാമി.
+
+वेद्यो वैद्यः सदायोगी वीरहा माधवो मधुः ।
+अतीन्द्रियो महामायो महोत्साहो महाबलः ॥
+en: The one to be known; the knower and healer; ever in yoga; slayer of mighty demons; Lord of knowledge (Madhava); sweet as honey; beyond the senses; master of great maya; of great energy; of great strength.
+hi: जानने योग्य, वैद्य (ज्ञाता और चिकित्सक), सदा योगी, असुर वीरों के संहारक, माधव, मधु जैसे मधुर, इंद्रियों से परे, महामायावी, महान उत्साह और महान बल वाले।
+ml: അറിയപ്പെടേണ്ടവൻ, വൈദ്യൻ, എന്നും യോഗി, അസുരവീരന്മാരെ നിഗ്രഹിച്ചവൻ, മാധവൻ, തേൻ പോലെ മധുരൻ, ഇന്ദ്രിയാതീതൻ, മഹാമായൻ, മഹോത്സാഹൻ, മഹാബലൻ.
+
+महाबुद्धिर्महावीर्यो महाशक्तिर्महाद्युतिः ।
+अनिर्देश्यवपुः श्रीमानमेयात्मा महाद्रिधृक् ॥
+en: Of great intellect, great valour, great power and great splendour; whose form cannot be described; glorious; of immeasurable Self; who held up the great mountain (Mandara and Govardhana).
+hi: महान बुद्धि, महान पराक्रम, महान शक्ति और महान कांति वाले; जिनके स्वरूप का वर्णन नहीं हो सकता; श्रीमान; अपरिमेय आत्मा; महान पर्वत (मंदर और गोवर्धन) को धारण करने वाले।
+ml: മഹാബുദ്ധി, മഹാവീര്യൻ, മഹാശക്തി, മഹാദ്യുതി; വർണ്ണിക്കാനാവാത്ത രൂപമുള്ളവൻ; ശ്രീമാൻ; അളവറ്റ ആത്മാവ്; മഹാപർവ്വതം (മന്ദരവും ഗോവർദ്ധനവും) ഉയർത്തിയവൻ.
+
+महेष्वासो महीभर्ता श्रीनिवासः सतां गतिः ।
+अनिरुद्धः सुरानन्दो गोविन्दो गोविदां पतिः ॥
+en: The great archer; supporter of the earth; abode of Lakshmi; refuge of the good; Aniruddha, who cannot be obstructed; joy of the gods; Govinda, protector of cows and the earth; Lord of those who know the Vedas.
+hi: महान धनुर्धर, पृथ्वी के भर्ता, लक्ष्मी के निवास श्रीनिवास, सज्जनों की गति, अनिरुद्ध (जिन्हें कोई रोक न सके), देवताओं के आनंद, गोविंद और वेदज्ञों के स्वामी।
+ml: മഹാവില്ലാളി, ഭൂമിയെ ഭരിക്കുന്നവൻ, ലക്ഷ്മിയുടെ വാസസ്ഥാനമായ ശ്രീനിവാസൻ, സജ്ജനങ്ങളുടെ ഗതി, തടയാനാവാത്ത അനിരുദ്ധൻ, ദേവന്മാരുടെ ആനന്ദം, ഗോവിന്ദൻ, വേദജ്ഞരുടെ പതി.
+
+मरीचिर्दमनो हंसः सुपर्णो भुजगोत्तमः ।
+हिरण्यनाभः सुतपाः पद्मनाभः प्रजापतिः ॥
+en: The radiance of the radiant; the subduer of the wicked; the swan (the pure Self); the beautiful-winged (Garuda); the best of serpents (Shesha); with a golden navel; of noble austerity; lotus-naveled; Lord of all beings.
+hi: तेजस्वियों का तेज, दुष्टों का दमन करने वाले, हंस (शुद्ध आत्मा), सुपर्ण (गरुड़), सर्पों में श्रेष्ठ (शेष), स्वर्ण नाभि वाले, उत्तम तपस्वी, पद्मनाभ और प्रजापति।
+ml: തേജസ്വികളുടെ തേജസ്സ്, ദുഷ്ടരെ അടക്കുന്നവൻ, ഹംസം (ശുദ്ധാത്മാവ്), സുപർണ്ണൻ (ഗരുഡൻ), സർപ്പശ്രേഷ്ഠൻ (ശേഷൻ), സ്വർണ്ണനാഭൻ, ഉത്തമതപസ്വി, പദ്മനാഭൻ, പ്രജാപതി.
+
+अमृत्युः सर्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः ।
+अजो दुर्मर्षणः शास्ता विश्रुतात्मा सुरारिहा ॥
+en: Deathless; all-seeing; the lion; who unites beings with the fruits of their actions; who is himself the enjoyer of those fruits; steady; unborn; unbearable to enemies; the teacher and ruler; renowned; slayer of the enemies of the gods.
+hi: मृत्युरहित, सब कुछ देखने वाले, सिंह, कर्मों का फल जोड़ने वाले, स्वयं उसके भोक्ता, स्थिर, अजन्मा, शत्रुओं के लिए असह्य, शासक, प्रसिद्ध आत्मा और देवताओं के शत्रुओं का संहार करने वाले।
+ml: മരണമില്ലാത്തവൻ, എല്ലാം കാണുന്നവൻ, സിംഹം, കർമ്മഫലം ചേർക്കുന്നവൻ, ഫലഭോക്താവ്, സ്ഥിരൻ, അജൻ, ശത്രുക്കൾക്ക് സഹിക്കാനാവാത്തവൻ, ശാസ്താവ്, പ്രസിദ്ധൻ, ദേവശത്രുക്കളെ നിഗ്രഹിക്കുന്നവൻ.
+
+गुरुर्गुरुतमो धाम सत्यः सत्यपराक्रमः ।
+निमिषोऽनिमिषः स्रग्वी वाचस्पतिरुदारधीः ॥
+en: The teacher; the greatest of teachers; the abode; truth; whose valour is true; whose eyes are closed in yoga-sleep; who is ever watchful; wearing a garland; Lord of speech; of noble intellect.
+hi: गुरु, गुरुओं में श्रेष्ठ, धाम, सत्य, सत्य पराक्रम वाले, योगनिद्रा में नेत्र मूँदे हुए, सदा जागरूक, माला धारण किए, वाणी के स्वामी और उदार बुद्धि वाले।
+ml: ഗുരു, ഗുരുക്കളിൽ ശ്രേഷ്ഠൻ, ധാമം, സത്യം, സത്യപരാക്രമൻ, യോഗനിദ്രയിൽ കണ്ണടച്ചവൻ, എപ്പോഴും ഉണർന്നിരിക്കുന്നവൻ, മാലയണിഞ്ഞവൻ, വാക്കിന്റെ നാഥൻ, ഉദാരബുദ്ധി.
+
+अग्रणीर्ग्रामणीः श्रीमान् न्यायो नेता समीरणः ।
+सहस्रमूर्धा विश्वात्मा सहस्राक्षः सहस्रपात् ॥
+en: Who leads to the highest; leader of all beings; glorious; justice itself; the guide; who moves all as the breath; thousand-headed; Self of the universe; thousand-eyed; thousand-footed.
+hi: परम पद की ओर ले जाने वाले, सब प्राणियों के नायक, श्रीमान, न्याय स्वरूप, नेता, प्राण रूप से सबको चलाने वाले, सहस्र सिरों, सहस्र नेत्रों और सहस्र चरणों वाले विश्वात्मा।
+ml: പരമപദത്തിലേക്കു നയിക്കുന്നവൻ, എല്ലാവരുടെയും നായകൻ, ശ്രീമാൻ, ന്യായസ്വരൂപൻ, നേതാവ്, പ്രാണനായി ചലിപ്പിക്കുന്നവൻ, ആയിരം ശിരസ്സും ആയിരം കണ്ണും ആയിരം പാദവുമുള്ള വിശ്വാത്മാവ്.
+
+आवर्तनो निवृत्तात्मा संवृतः सम्प्रमर्दनः ।
+अहः संवर्तको वह्निरनिलो धरणीधरः ॥
+en: Who turns the wheel of the world; whose Self is free from worldly ties; hidden (by ignorance); destroyer of the wicked; who brings the day; the fire; the wind; the supporter of the earth.
+hi: संसार-चक्र को घुमाने वाले, संसार से निवृत्त आत्मा, (अज्ञान से) ढके हुए, दुष्टों का मर्दन करने वाले, दिन को लाने वाले, अग्नि, वायु और पृथ्वी को धारण करने वाले।
+ml: ലോകചക്രം തിരിക്കുന്നവൻ, സംസാരബന്ധമില്ലാത്ത ആത്മാവ്, (അജ്ഞാനത്താൽ) മറയ്ക്കപ്പെട്ടവൻ, ദുഷ്ടമർദ്ദനൻ, പകലിനെ കൊണ്ടുവരുന്നവൻ, അഗ്നി, വായു, ഭൂമിയെ താങ്ങുന്നവൻ.
+
+सुप्रसादः प्रसन्नात्मा विश्वधृग्विश्वभुग्विभुः ।
+सत्कर्ता सत्कृतः साधुर्जह्नुर्नारायणो नरः ॥
+en: Most gracious; of serene Self; upholder of the universe; who enjoys and protects the universe; all-pervading; who honours the good; honoured by the good; righteous; who withdraws all at dissolution; Narayana, the refuge of all beings; Nara, the eternal guide.
+hi: अत्यंत कृपालु, प्रसन्न आत्मा, विश्व को धारण करने वाले, विश्व का भोग और पालन करने वाले, विभु, सज्जनों का सत्कार करने वाले, सज्जनों द्वारा पूजित, साधु, प्रलय में सबको समेटने वाले जह्नु, नारायण और नर।
+ml: അതിപ്രസാദൻ, പ്രസന്നാത്മാവ്, വിശ്വത്തെ താങ്ങുന്നവൻ, വിശ്വത്തെ ഭുജിക്കുകയും രക്ഷിക്കുകയും ചെയ്യുന്നവൻ, വിഭു, സജ്ജനങ്ങളെ ആദരിക്കുന്നവൻ, സജ്ജനപൂജിതൻ, സാധു, പ്രളയത്തിൽ എല്ലാം പിൻവലിക്കുന്നവൻ, നാരായണൻ, നരൻ.
+
+असङ्ख्येयोऽप्रमेयात्मा विशिष्टः शिष्टकृच्छुचिः ।
+सिद्धार्थः सिद्धसङ्कल्पः सिद्धिदः सिद्धिसाधनः ॥
+en: Countless in names and forms; of immeasurable Self; distinguished; who commands and protects the good; pure; whose aims are fulfilled; whose will is always accomplished; giver of success; the means to success.
+hi: असंख्य नाम-रूपों वाले, अपरिमेय आत्मा, विशिष्ट, सज्जनों के रक्षक और शासक, पवित्र, पूर्णकाम, सत्य संकल्प वाले, सिद्धि देने वाले और सिद्धि के साधन।
+ml: എണ്ണമറ്റ നാമരൂപങ്ങളുള്ളവൻ, അളവറ്റ ആത്മാവ്, വിശിഷ്ടൻ, സജ്ജനങ്ങളെ രക്ഷിക്കുന്നവൻ, ശുചി, സിദ്ധാർത്ഥൻ, സത്യസങ്കല്പൻ, സിദ്ധി നൽകുന്നവൻ, സിദ്ധിയുടെ സാധനം.
+
+वृषाही वृषभो विष्णुर्वृषपर्वा वृषोदरः ।
+वर्धनो वर्धमानश्च विविक्तः श्रुतिसागरः ॥
+en: The light of dharma; who showers blessings; all-pervading; whose steps lead to dharma; whose belly holds all beings; who makes all grow; who grows in all forms; ever distinct and untouched; the ocean of the Vedas.
+hi: धर्म के प्रकाश, कृपा की वर्षा करने वाले, विष्णु, धर्म की सीढ़ी, उदर में सब प्राणियों को रखने वाले, सबकी वृद्धि करने वाले, स्वयं बढ़ने वाले, सबसे अलग और वेदों के सागर।
+ml: ധർമ്മത്തിന്റെ പ്രകാശം, അനുഗ്രഹം ചൊരിയുന്നവൻ, വിഷ്ണു, ധർമ്മത്തിലേക്കുള്ള പടവുകൾ, എല്ലാ ജീവികളെയും ഉദരത്തിൽ വഹിക്കുന്നവൻ, വളർത്തുന്നവൻ, വളരുന്നവൻ, വേറിട്ടുനിൽക്കുന്നവൻ, വേദസാഗരം.
+
+सुभुजो दुर्धरो वाग्मी महेन्द्रो वसुदो वसुः ।
+नैकरूपो बृहद्रूपः शिपिविष्टः प्रकाशनः ॥
+en: With beautiful arms; hard to hold (in the mind); eloquent; the great Lord (of Indra); giver of wealth; wealth itself; of many forms; of vast form; who pervades the rays (of the sun); who illumines all.
+hi: सुंदर भुजाओं वाले, मन में कठिनाई से धारण होने वाले, वाग्मी, महेंद्र, धन देने वाले, स्वयं धन, अनेक रूपों वाले, विराट रूप वाले, किरणों में व्याप्त और सबको प्रकाशित करने वाले।
+ml: സുന്ദരബാഹു, മനസ്സിൽ ധരിക്കാൻ പ്രയാസമുള്ളവൻ, വാഗ്മി, മഹേന്ദ്രൻ, ധനം നൽകുന്നവൻ, ധനം തന്നെ, അനേകരൂപൻ, ബൃഹദ്രൂപൻ, രശ്മികളിൽ വ്യാപിച്ചവൻ, എല്ലാം പ്രകാശിപ്പിക്കുന്നവൻ.
+
+ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः ।
+ऋद्धः स्पष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः ॥
+en: Possessing vigour, brilliance and splendour; whose Self is light; who warms (as the sun); full of abundance; whose word is clear (Om); the mantra; cool as moonbeams; bright as the sun.
+hi: ओज, तेज और कांति धारण करने वाले, प्रकाश स्वरूप आत्मा, तपाने वाले, समृद्ध, स्पष्ट अक्षर (ॐ) वाले, मंत्र स्वरूप, चंद्र-किरणों जैसे शीतल और सूर्य जैसे तेजस्वी।
+ml: ഓജസ്സും തേജസ്സും ദ്യുതിയും ധരിക്കുന്നവൻ, പ്രകാശാത്മാവ്, ചൂടു നൽകുന്നവൻ, സമൃദ്ധൻ, വ്യക്തമായ അക്ഷരം (ഓം), മന്ത്രം, ചന്ദ്രരശ്മി പോലെ ശീതളൻ, സൂര്യനെപ്പോലെ തേജസ്വി.
+
+अमृतांशूद्भवो भानुः शशबिन्दुः सुरेश्वरः ।
+औषधं जगतः सेतुः सत्यधर्मपराक्रमः ॥
+en: Source of the moon; the shining sun; the moon (nourisher of plants); Lord of the gods; the medicine (for worldly ills); the bridge across the world; whose truth, dharma and valour are real.
+hi: चंद्रमा के उद्गम, सूर्य, शशबिंदु (चंद्रमा), देवताओं के ईश्वर, संसार-रोग की औषधि, संसार-सागर का सेतु, और सत्य, धर्म व पराक्रम से युक्त।
+ml: ചന്ദ്രന്റെ ഉദ്ഭവസ്ഥാനം, സൂര്യൻ, ചന്ദ്രൻ, ദേവേശ്വരൻ, സംസാരരോഗത്തിനുള്ള ഔഷധം, ലോകത്തിന്റെ സേതു, സത്യവും ധർമ്മവും പരാക്രമവുമുള്ളവൻ.
+
+भूतभव्यभवन्नाथः पवनः पावनोऽनलः ।
+कामहा कामकृत्कान्तः कामः कामप्रदः प्रभुः ॥
+en: Lord of past, future and present; the wind; the purifier; the fire; who destroys desires (of seekers); who fulfils desires; the beloved; desire itself; the giver of wishes; the Lord.
+hi: भूत, भविष्य और वर्तमान के नाथ, पवन, पावन, अग्नि, (मुमुक्षुओं की) कामनाओं का नाश करने वाले, कामनाएँ पूर्ण करने वाले, कांत, काम स्वरूप, मनोरथ देने वाले प्रभु।
+ml: ഭൂതഭാവിവർത്തമാനങ്ങളുടെ നാഥൻ, പവനൻ, പാവനൻ, അനലൻ, (മുമുക്ഷുക്കളുടെ) കാമം നശിപ്പിക്കുന്നവൻ, കാമം നിറവേറ്റുന്നവൻ, കാന്തൻ, കാമസ്വരൂപൻ, ആഗ്രഹങ്ങൾ നൽകുന്ന പ്രഭു.
+
+युगादिकृद्युगावर्तो नैकमायो महाशनः ।
+अदृश्योऽव्यक्तरूपश्च सहस्रजिदनन्तजित् ॥
+en: Who begins the ages; who turns the cycle of ages; of many wonders (maya); the great devourer (at dissolution); invisible; of unmanifest form; conqueror of thousands; ever victorious.
+hi: युगों का आरंभ करने वाले, युग-चक्र को घुमाने वाले, अनेक मायाओं वाले, प्रलय में सबको ग्रसने वाले, अदृश्य, अव्यक्त रूप वाले, सहस्रों को जीतने वाले और अनंत विजयी।
+ml: യുഗങ്ങൾ ആരംഭിക്കുന്നവൻ, യുഗചക്രം തിരിക്കുന്നവൻ, അനേകമായൻ, പ്രളയത്തിൽ എല്ലാം ഭുജിക്കുന്നവൻ, അദൃശ്യൻ, അവ്യക്തരൂപൻ, ആയിരങ്ങളെ ജയിച്ചവൻ, അനന്തജിത്ത്.
+
+इष्टोऽविशिष्टः शिष्टेष्टः शिखण्डी नहुषो वृषः ।
+क्रोधहा क्रोधकृत्कर्ता विश्वबाहुर्महीधरः ॥
+en: The beloved; the same in all; dear to the wise; wearing a peacock feather; who binds beings by maya; dharma itself; destroyer of anger (in the good); who stirs anger (against evil); the doer; whose arms are everywhere; the bearer of the earth.
+hi: प्रिय, सबमें समान, सज्जनों के इष्ट, मोरपंख धारी, माया से बाँधने वाले, धर्म स्वरूप, (सज्जनों का) क्रोध मिटाने वाले, (दुष्टों पर) क्रोध करने वाले, कर्ता, विश्वबाहु और पृथ्वी को धारण करने वाले।
+ml: പ്രിയൻ, എല്ലാറ്റിലും സമൻ, ശിഷ്ടർക്ക് ഇഷ്ടൻ, മയിൽപ്പീലി ചൂടിയവൻ, മായയാൽ ബന്ധിക്കുന്നവൻ, ധർമ്മം, (സജ്ജനങ്ങളുടെ) കോപം നീക്കുന്നവൻ, (ദുഷ്ടരോട്) കോപിക്കുന്നവൻ, കർത്താവ്, വിശ്വബാഹു, മഹീധരൻ.
+
+अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः ।
+अपांनिधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥
+en: Who never falls from his nature; renowned; life itself; giver of life; younger brother of Indra; the ocean; the substratum of all; ever vigilant; established in his own glory.
+hi: अपने स्वरूप से कभी न डिगने वाले अच्युत, प्रसिद्ध, प्राण, प्राणदाता, इंद्र के छोटे भाई, सागर, सबके आधार, सदा सावधान और अपनी महिमा में प्रतिष्ठित।
+ml: സ്വരൂപത്തിൽ നിന്ന് ഒരിക്കലും വ്യതിചലിക്കാത്ത അച്യുതൻ, പ്രസിദ്ധൻ, പ്രാണൻ, പ്രാണദാതാവ്, ഇന്ദ്രാനുജൻ, സമുദ്രം, എല്ലാറ്റിന്റെയും അധിഷ്ഠാനം, എന്നും ജാഗരൂകൻ, സ്വമഹിമയിൽ പ്രതിഷ്ഠിതൻ.
+
+स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः ।
+वासुदेवो बृहद्भानुरादिदेवः पुरन्दरः ॥
+en: Skanda; the upholder of the path of dharma; the bearer of the burden of all; giver of boons; who moves the winds; Vasudeva; of vast radiance; the first God; destroyer of the cities (of the demons).
+hi: स्कंद, धर्म-मार्ग को धारण करने वाले, सबका भार उठाने वाले, वरदाता, वायु को चलाने वाले, वासुदेव, महान प्रकाश वाले, आदिदेव और (असुरों के) पुरों का नाश करने वाले।
+ml: സ്കന്ദൻ, ധർമ്മമാർഗ്ഗം താങ്ങുന്നവൻ, എല്ലാറ്റിന്റെയും ഭാരം വഹിക്കുന്നവൻ, വരദൻ, വായുവിനെ ചലിപ്പിക്കുന്നവൻ, വാസുദേവൻ, ബൃഹദ്ഭാനു, ആദിദേവൻ, (അസുരപുരങ്ങൾ) തകർത്ത പുരന്ദരൻ.
+
+अशोकस्तारणस्तारः शूरः शौरिर्जनेश्वरः ।
+अनुकूलः शतावर्तः पद्मी पद्मनिभेक्षणः ॥
+en: Free from sorrow; the one who carries across; the saviour; the brave; Shauri, born in the Shura clan; Lord of people; ever favourable; who has taken a hundred incarnations; holding a lotus; with lotus-like eyes.
+hi: शोकरहित, पार उतारने वाले, तारणहार, शूरवीर, शूर-वंश में जन्मे शौरि, जनों के ईश्वर, सदा अनुकूल, सैकड़ों अवतार लेने वाले, कमल धारण करने वाले और कमल जैसे नेत्रों वाले।
+ml: ശോകമില്ലാത്തവൻ, കര കടത്തുന്നവൻ, രക്ഷകൻ, ശൂരൻ, ശൗരി, ജനേശ്വരൻ, എന്നും അനുകൂലൻ, നൂറുകണക്കിന് അവതാരങ്ങളെടുത്തവൻ, താമര ധരിച്ചവൻ, താമരക്കണ്ണൻ.
+
+पद्मनाभोऽरविन्दाक्षः पद्मगर्भः शरीरभृत् ।
+महर्द्धिरृद्धो वृद्धात्मा महाक्षो गरुडध्वजः ॥
+en: Lotus-naveled; lotus-eyed; worshipped within the lotus of the heart; who sustains all bodies; of great glory; prosperous; the ancient Self; with great eyes; whose banner bears Garuda.
+hi: पद्मनाभ, कमलनयन, हृदय-कमल में पूजित, सब शरीरों का पालन करने वाले, महान ऐश्वर्य वाले, समृद्ध, पुरातन आत्मा, विशाल नेत्रों वाले और गरुड़ध्वज।
+ml: പദ്മനാഭൻ, അരവിന്ദാക്ഷൻ, ഹൃദയപദ്മത്തിൽ പൂജിക്കപ്പെടുന്നവൻ, ശരീരങ്ങളെ പോഷിപ്പിക്കുന്നവൻ, മഹൈശ്വര്യൻ, സമൃദ്ധൻ, പുരാതനാത്മാവ്, വിശാലനേത്രൻ, ഗരുഡധ്വജൻ.
+
+अतुलः शरभो भीमः समयज्ञो हविर्हरिः ।
+सर्वलक्षणलक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥
+en: Incomparable; who dwells in bodies; awe-inspiring (to the wicked); who knows the right time; who receives the offerings; Hari, who removes sorrow; known by every proof; ever with Lakshmi; victorious in battle.
+hi: अतुलनीय, शरीरों में रहने वाले, (दुष्टों के लिए) भयंकर, समय को जानने वाले, हवि ग्रहण करने वाले, दुःख हरने वाले हरि, सब प्रमाणों से जाने जाने वाले, लक्ष्मीवान और युद्ध में विजयी।
+ml: അതുല്യൻ, ശരീരങ്ങളിൽ വസിക്കുന്നവൻ, (ദുഷ്ടർക്ക്) ഭയങ്കരൻ, സമയമറിയുന്നവൻ, ഹവിസ്സ് സ്വീകരിക്കുന്നവൻ, ദുഃഖം നീക്കുന്ന ഹരി, എല്ലാ പ്രമാണങ്ങളാലും അറിയപ്പെടുന്നവൻ, ലക്ഷ്മീവാൻ, യുദ്ധത്തിൽ ജയിക്കുന്നവൻ.
+
+विक्षरो रोहितो मार्गो हेतुर्दामोदरः सहः ।
+महीधरो महाभागो वेगवानमिताशनः ॥
+en: Imperishable; who took the form of the red fish; the path (to liberation); the cause; Damodara, bound by a rope at the waist; the all-forgiving; the bearer of the earth; the most fortunate; swift; whose appetite is boundless (at dissolution).
+hi: अविनाशी, रोहित (मत्स्य) रूप वाले, मोक्ष का मार्ग, कारण, कमर में रस्सी से बँधे दामोदर, सहनशील, पृथ्वी के धारक, महाभाग, वेगवान और (प्रलय में) असीम भोजन करने वाले।
+ml: നാശമില്ലാത്തവൻ, രോഹിതമത്സ്യരൂപൻ, മോക്ഷമാർഗ്ഗം, കാരണം, ദാമോദരൻ, ക്ഷമാശീലൻ, മഹീധരൻ, മഹാഭാഗൻ, വേഗവാൻ, (പ്രളയത്തിൽ) അളവറ്റ് ഭുജിക്കുന്നവൻ.
+
+उद्भवः क्षोभणो देवः श्रीगर्भः परमेश्वरः ।
+करणं कारणं कर्ता विकर्ता गहनो गुहः ॥
+en: The origin; who stirs (creation into motion); the shining God; who holds Lakshmi within; the Supreme Lord; the instrument; the cause; the doer; the maker of variety; unfathomable; hidden in the heart.
+hi: उत्पत्ति के स्रोत, सृष्टि में हलचल लाने वाले, देव, लक्ष्मी को अपने में धारण करने वाले, परमेश्वर, करण, कारण, कर्ता, विविधता के रचयिता, गहन और हृदय-गुहा में छिपे हुए।
+ml: ഉദ്ഭവം, സൃഷ്ടിയെ ചലിപ്പിക്കുന്നവൻ, ദേവൻ, ലക്ഷ്മിയെ ഉള്ളിൽ വഹിക്കുന്നവൻ, പരമേശ്വരൻ, കരണം, കാരണം, കർത്താവ്, വൈവിധ്യം സൃഷ്ടിക്കുന്നവൻ, ഗഹനൻ, ഹൃദയഗുഹയിൽ മറഞ്ഞവൻ.
+
+व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ।
+परर्द्धिः परमस्पष्टस्तुष्टः पुष्टः शुभेक्षणः ॥
+en: Resolute; the basis of all order; the final resting place; who grants each his place; the immovable; of supreme glory; most clearly evident; ever content; ever full; of auspicious glance.
+hi: दृढ़ निश्चय वाले, सब व्यवस्था के आधार, अंतिम विश्राम-स्थान, सबको स्थान देने वाले, ध्रुव, परम ऐश्वर्य वाले, अत्यंत स्पष्ट, संतुष्ट, पूर्ण और शुभ दृष्टि वाले।
+ml: ദൃഢനിശ്ചയൻ, എല്ലാ വ്യവസ്ഥയുടെയും ആധാരം, അന്തിമ ആശ്രയം, സ്ഥാനം നൽകുന്നവൻ, ധ്രുവൻ, പരമൈശ്വര്യൻ, ഏറ്റവും വ്യക്തൻ, സംതൃപ്തൻ, പൂർണ്ണൻ, ശുഭദൃഷ്ടിയുള്ളവൻ.
+
+रामो विरामो विरजो मार्गो नेयो नयोऽनयः ।
+वीरः शक्तिमतां श्रेष्ठो धर्मो धर्मविदुत्तमः ॥
+en: Rama, in whom yogis delight; the final rest; free from passion; the path; who can be led (by love of devotees); the leader; who has no leader; the hero; the best of the mighty; dharma itself; the best of the knowers of dharma.
+hi: राम, जिनमें योगी रमते हैं; अंतिम विश्राम; रजोगुण से रहित; मार्ग; (भक्तों के प्रेम से) ले जाए जाने वाले; नेता; जिनका कोई नेता नहीं; वीर; शक्तिशालियों में श्रेष्ठ; धर्म; और धर्मज्ञों में उत्तम।
+ml: യോഗികൾ രമിക്കുന്ന രാമൻ, അന്തിമ വിശ്രമം, രജസ്സില്ലാത്തവൻ, മാർഗ്ഗം, (ഭക്തസ്നേഹത്താൽ) നയിക്കപ്പെടുന്നവൻ, നായകൻ, നായകനില്ലാത്തവൻ, വീരൻ, ശക്തരിൽ ശ്രേഷ്ഠൻ, ധർമ്മം, ധർമ്മജ്ഞരിൽ ഉത്തമൻ.
+
+वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ।
+हिरण्यगर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥
+en: Vaikuntha, who removes obstacles; the Person; life-breath; giver of life; the sacred syllable Om; the vast; the golden womb; slayer of enemies; all-pervading; the wind; Adhokshaja, beyond sense perception.
+hi: बाधाएँ दूर करने वाले वैकुंठ, पुरुष, प्राण, प्राणदाता, प्रणव (ॐ), विशाल, हिरण्यगर्भ, शत्रुओं का नाश करने वाले, सर्वव्यापी, वायु और इंद्रियों से परे अधोक्षज।
+ml: തടസ്സങ്ങൾ നീക്കുന്ന വൈകുണ്ഠൻ, പുരുഷൻ, പ്രാണൻ, പ്രാണദൻ, പ്രണവം (ഓം), പൃഥു, ഹിരണ്യഗർഭൻ, ശത്രുഘ്നൻ, വ്യാപ്തൻ, വായു, ഇന്ദ്രിയാതീതനായ അധോക്ഷജൻ.
+
+ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ।
+उग्रः संवत्सरो दक्षो विश्रामो विश्वदक्षिणः ॥
+en: The seasons; of auspicious sight (and the Sudarshana discus); time itself; the supreme abiding one; who receives all offerings; fierce (to the wicked); the year; skilful; the place of rest; the most generous.
+hi: ऋतु, सुदर्शन (शुभ दर्शन वाले), काल, परमेष्ठी, सब भेंटें ग्रहण करने वाले, (दुष्टों के लिए) उग्र, संवत्सर, दक्ष, विश्राम-स्थान और सबसे उदार दाता।
+ml: ഋതു, സുദർശനൻ, കാലം, പരമേഷ്ഠി, എല്ലാ സമർപ്പണങ്ങളും സ്വീകരിക്കുന്നവൻ, (ദുഷ്ടർക്ക്) ഉഗ്രൻ, സംവത്സരം, ദക്ഷൻ, വിശ്രാമസ്ഥാനം, ഏറ്റവും ഉദാരൻ.
+
+विस्तारः स्थावरस्थाणुः प्रमाणं बीजमव्ययम् ।
+अर्थोऽनर्थो महाकोशो महाभोगो महाधनः ॥
+en: The expanse (of the worlds); firm and steadfast; the authority (of knowledge); the imperishable seed; the goal sought by all; who needs nothing; the great treasure-house; of great enjoyment; of great wealth.
+hi: लोकों का विस्तार, स्थिर और अचल, प्रमाण, अविनाशी बीज, सबके द्वारा चाहे जाने वाले अर्थ, स्वयं किसी चीज़ की आवश्यकता न रखने वाले, महान कोष, महान भोग और महान धन वाले।
+ml: ലോകങ്ങളുടെ വിസ്താരം, സ്ഥിരനും അചലനും, പ്രമാണം, നാശമില്ലാത്ത ബീജം, എല്ലാവരും തേടുന്ന ലക്ഷ്യം, ഒന്നും ആവശ്യമില്ലാത്തവൻ, മഹാകോശം, മഹാഭോഗൻ, മഹാധനൻ.
+
+अनिर्विण्णः स्थविष्ठोऽभूर्धर्मयूपो महामखः ।
+नक्षत्रनेमिर्नक्षत्री क्षमः क्षामः समीहनः ॥
+en: Never weary; immense; unborn; the pillar of dharma; the great sacrifice; the hub of the stars; the moon among stars; patient; who remains when all has dwindled; who wills (creation).
+hi: कभी न थकने वाले, अति विशाल, अजन्मा, धर्म के स्तंभ, महायज्ञ, नक्षत्र-चक्र की धुरी, नक्षत्रों के स्वामी (चंद्र), क्षमाशील, सबके क्षीण होने पर भी शेष रहने वाले और सृष्टि की इच्छा करने वाले।
+ml: ഒരിക്കലും തളരാത്തവൻ, അതിവിശാലൻ, അജൻ, ധർമ്മസ്തംഭം, മഹായജ്ഞം, നക്ഷത്രചക്രത്തിന്റെ അച്ചുതണ്ട്, നക്ഷത്രനാഥൻ (ചന്ദ്രൻ), ക്ഷമാശീലൻ, എല്ലാം ക്ഷയിച്ചാലും ശേഷിക്കുന്നവൻ, സൃഷ്ടി ഇച്ഛിക്കുന്നവൻ.
+
+यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतां गतिः ।
+सर्वदर्शी विमुक्तात्मा सर्वज्ञो ज्ञानमुत्तमम् ॥
+en: The sacrifice; the one to be worshipped; the most worshipful; the ritual; protector of the good; refuge of the good; all-seeing; the ever-free Self; all-knowing; the highest knowledge.
+hi: यज्ञ, पूजनीय, परम पूजनीय, क्रतु, सज्जनों की रक्षा करने वाले, सज्जनों की गति, सर्वदर्शी, नित्यमुक्त आत्मा, सर्वज्ञ और उत्तम ज्ञान।
+ml: യജ്ഞം, ആരാധ്യൻ, പരമാരാധ്യൻ, ക്രതു, സജ്ജനരക്ഷകൻ, സജ്ജനങ്ങളുടെ ഗതി, സർവ്വദർശി, നിത്യമുക്താത്മാവ്, സർവ്വജ്ഞൻ, ഉത്തമജ്ഞാനം.
+
+सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ।
+मनोहरो जितक्रोधो वीरबाहुर्विदारणः ॥
+en: Of holy vows; of lovely face; subtle; of auspicious sound (the Vedas); giver of happiness; the good-hearted friend; the charmer of hearts; who has conquered anger; of mighty arms; who tears apart (the wicked).
+hi: उत्तम व्रत वाले, सुंदर मुख वाले, सूक्ष्म, शुभ घोष (वेद) वाले, सुख देने वाले, सुहृद, मनोहर, क्रोध को जीतने वाले, वीर भुजाओं वाले और दुष्टों को विदीर्ण करने वाले।
+ml: സുവ്രതൻ, സുമുഖൻ, സൂക്ഷ്മൻ, ശുഭനാദമുള്ളവൻ (വേദം), സുഖദൻ, സുഹൃത്ത്, മനോഹരൻ, ക്രോധം ജയിച്ചവൻ, വീരബാഹു, ദുഷ്ടരെ പിളർക്കുന്നവൻ.
+
+स्वापनः स्ववशो व्यापी नैकात्मा नैककर्मकृत् ।
+वत्सरो वत्सलो वत्सी रत्नगर्भो धनेश्वरः ॥
+en: Who lulls beings to sleep (by maya); independent; all-pervading; of many forms; doer of many deeds; the abode of all; loving to devotees; who cherishes his children; whose womb holds gems; Lord of wealth.
+hi: (माया से) जीवों को सुलाने वाले, स्वतंत्र, व्यापक, अनेक रूपों वाले, अनेक कर्म करने वाले, सबके निवास, भक्तवत्सल, संतानों का पालन करने वाले, रत्नगर्भ और धनेश्वर।
+ml: (മായയാൽ) ജീവികളെ ഉറക്കുന്നവൻ, സ്വതന്ത്രൻ, വ്യാപി, അനേകരൂപൻ, അനേകകർമ്മങ്ങൾ ചെയ്യുന്നവൻ, എല്ലാറ്റിന്റെയും വാസസ്ഥാനം, ഭക്തവത്സലൻ, മക്കളെ പോറ്റുന്നവൻ, രത്നഗർഭൻ, ധനേശ്വരൻ.
+
+धर्मगुब्धर्मकृद्धर्मी सदसत्क्षरमक्षरम् ।
+अविज्ञाता सहस्रांशुर्विधाता कृतलक्षणः ॥
+en: Protector of dharma; doer of dharma; upholder of dharma; both the real and the unreal; the perishable and the imperishable; beyond the limited knower; the thousand-rayed sun; the ordainer; marked with auspicious signs.
+hi: धर्म के रक्षक, धर्म करने वाले, धर्म के धारक, सत् और असत्, क्षर और अक्षर, सीमित ज्ञाता से परे, सहस्र किरणों वाले सूर्य, विधाता और शुभ लक्षणों वाले।
+ml: ധർമ്മരക്ഷകൻ, ധർമ്മം ചെയ്യുന്നവൻ, ധർമ്മി, സത്തും അസത്തും, ക്ഷരവും അക്ഷരവും, പരിമിതജ്ഞാതാവിന് അതീതൻ, ആയിരം രശ്മികളുള്ള സൂര്യൻ, വിധാതാവ്, ശുഭലക്ഷണൻ.
+
+गभस्तिनेमिः सत्त्वस्थः सिंहो भूतमहेश्वरः ।
+आदिदेवो महादेवो देवेशो देवभृद्गुरुः ॥
+en: At the centre of the wheel of light; established in purity; the lion; the great Lord of all beings; the first God; the great God; Lord of the gods; the teacher who sustains the gods.
+hi: प्रकाश-चक्र के केंद्र, सत्त्व में स्थित, सिंह, सब प्राणियों के महेश्वर, आदिदेव, महादेव, देवेश और देवताओं का पालन करने वाले गुरु।
+ml: പ്രകാശചക്രത്തിന്റെ കേന്ദ്രം, സത്ത്വത്തിൽ സ്ഥിതൻ, സിംഹം, ഭൂതമഹേശ്വരൻ, ആദിദേവൻ, മഹാദേവൻ, ദേവേശൻ, ദേവന്മാരെ പോഷിപ്പിക്കുന്ന ഗുരു.
+
+उत्तरो गोपतिर्गोप्ता ज्ञानगम्यः पुरातनः ।
+शरीरभूतभृद्भोक्ता कपीन्द्रो भूरिदक्षिणः ॥
+en: Who lifts us out (of the ocean of birth); Lord of cows and of the earth; the protector; reached through knowledge; the ancient; who sustains the elements of the body; the enjoyer; lord of the monkeys (as Rama); giver of abundant gifts.
+hi: संसार-सागर से उबारने वाले, गौओं और पृथ्वी के स्वामी, रक्षक, ज्ञान से प्राप्त होने वाले, पुरातन, शरीर के तत्त्वों का पालन करने वाले, भोक्ता, वानरों के स्वामी (राम रूप में) और प्रचुर दान देने वाले।
+ml: സംസാരസാഗരത്തിൽ നിന്ന് ഉയർത്തുന്നവൻ, ഗോപതി, രക്ഷകൻ, ജ്ഞാനത്താൽ പ്രാപ്യൻ, പുരാതനൻ, ശരീരഭൂതങ്ങളെ പോഷിപ്പിക്കുന്നവൻ, ഭോക്താവ്, കപീന്ദ്രൻ (രാമനായി), ധാരാളം ദാനം നൽകുന്നവൻ.
+
+सोमपोऽमृतपः सोमः पुरुजित्पुरुसत्तमः ।
+विनयो जयः सत्यसन्धो दाशार्हः सात्वतां पतिः ॥
+en: Who drinks the soma; who drinks the nectar (of his own bliss); the moon; conqueror of many; the best among the great; who disciplines (the wicked); victorious; true to his word; born in the Dasharha clan; Lord of the Satvatas (devotees).
+hi: सोम पीने वाले, (आत्मानंद का) अमृत पीने वाले, सोम (चंद्र), अनेकों को जीतने वाले, श्रेष्ठों में श्रेष्ठ, (दुष्टों को) अनुशासित करने वाले, विजयी, सत्यप्रतिज्ञ, दाशार्ह वंश में जन्मे और सात्वतों (भक्तों) के स्वामी।
+ml: സോമം പാനം ചെയ്യുന്നവൻ, (ആത്മാനന്ദമാകുന്ന) അമൃതം പാനം ചെയ്യുന്നവൻ, സോമൻ, അനേകരെ ജയിച്ചവൻ, ശ്രേഷ്ഠരിൽ ശ്രേഷ്ഠൻ, (ദുഷ്ടരെ) അടക്കുന്നവൻ, ജയൻ, സത്യസന്ധൻ, ദാശാർഹൻ, സാത്വതപതി.
+
+जीवो विनयिता साक्षी मुकुन्दोऽमितविक्रमः ।
+अम्भोनिधिरनन्तात्मा महोदधिशयोऽन्तकः ॥
+en: The life in all; the one who sees humility (in devotees); the witness; Mukunda, giver of liberation; of boundless valour; the abode of the waters; the infinite Self; who rests on the great ocean; the ender (of all at dissolution).
+hi: सबमें जीवन, (भक्तों की) विनय को देखने वाले, साक्षी, मोक्ष देने वाले मुकुंद, असीम पराक्रम वाले, जलनिधि, अनंत आत्मा, महासागर में शयन करने वाले और (प्रलय में) अंत करने वाले।
+ml: എല്ലാറ്റിലുമുള്ള ജീവൻ, (ഭക്തരുടെ) വിനയം കാണുന്നവൻ, സാക്ഷി, മോക്ഷദായകനായ മുകുന്ദൻ, അമിതവിക്രമൻ, ജലനിധി, അനന്താത്മാവ്, മഹാസമുദ്രത്തിൽ ശയിക്കുന്നവൻ, (പ്രളയത്തിൽ) അന്തം വരുത്തുന്നവൻ.
+
+अजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः ।
+आनन्दो नन्दनो नन्दः सत्यधर्मा त्रिविक्रमः ॥
+en: Unborn; supremely worthy of worship; ever in his own nature; who has conquered all foes; who gives joy; bliss itself; who delights others; full of joy; whose dharma is true; Trivikrama, who measured the worlds in three steps.
+hi: अजन्मा, परम पूजनीय, स्वभाव में स्थित, शत्रुओं को जीतने वाले, आनंद देने वाले, स्वयं आनंद, दूसरों को आनंदित करने वाले, आनंदमय, सत्य धर्म वाले और तीन पगों में लोकों को नापने वाले त्रिविक्रम।
+ml: അജൻ, പരമാരാധ്യൻ, സ്വഭാവസ്ഥിതൻ, ശത്രുക്കളെ ജയിച്ചവൻ, ആനന്ദം നൽകുന്നവൻ, ആനന്ദം തന്നെ, മറ്റുള്ളവരെ ആനന്ദിപ്പിക്കുന്നവൻ, ആനന്ദമയൻ, സത്യധർമ്മൻ, മൂന്നു ചുവടിൽ ലോകങ്ങൾ അളന്ന ത്രിവിക്രമൻ.
+
+महर्षिः कपिलाचार्यः कृतज्ञो मेदिनीपतिः ।
+त्रिपदस्त्रिदशाध्यक्षो महाशृङ्गः कृतान्तकृत् ॥
+en: The great sage; Kapila the teacher; the knower of what has been done; Lord of the earth; of three steps; overseer of the gods; the great-horned (fish who towed the ark); who destroys death itself.
+hi: महर्षि, आचार्य कपिल, कृतज्ञ, पृथ्वीपति, तीन पगों वाले, देवताओं के अध्यक्ष, महान सींग वाले (मत्स्य रूप में) और मृत्यु का भी अंत करने वाले।
+ml: മഹർഷി, കപിലാചാര്യൻ, കൃതജ്ഞൻ, മേദിനീപതി, ത്രിപദൻ, ദേവാധ്യക്ഷൻ, മഹാശൃംഗൻ (മത്സ്യാവതാരം), മരണത്തെയും നശിപ്പിക്കുന്നവൻ.
+
+महावराहो गोविन्दः सुषेणः कनकाङ्गदी ।
+गुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः ॥
+en: The great boar (Varaha); Govinda; who has a fine army; wearing golden armlets; mysterious; profound; unfathomable; hidden; bearer of the discus and mace.
+hi: महावराह, गोविंद, उत्तम सेना वाले, स्वर्ण बाजूबंद पहने, रहस्यमय, गंभीर, गहन, गुप्त और चक्र-गदाधारी।
+ml: മഹാവരാഹൻ, ഗോവിന്ദൻ, ഉത്തമസേനയുള്ളവൻ, സ്വർണ്ണത്തോൾവള അണിഞ്ഞവൻ, ഗുഹ്യൻ, ഗംഭീരൻ, ഗഹനൻ, ഗുപ്തൻ, ചക്രഗദാധരൻ.
+
+वेधाः स्वाङ्गोऽजितः कृष्णो दृढः सङ्कर्षणोऽच्युतः ।
+वरुणो वारुणो वृक्षः पुष्कराक्षो महामनाः ॥
+en: The creator; who is his own instrument; unconquered; Krishna; firm; Sankarshana, who draws all into himself; Achyuta; Varuna; son of Varuna (Vasishtha); the tree (of life); lotus-eyed; great-minded.
+hi: स्रष्टा, स्वयं अपने साधन, अजित, कृष्ण, दृढ़, सबको अपने में खींचने वाले संकर्षण, अच्युत, वरुण, वरुण-पुत्र (वसिष्ठ), वृक्ष, कमलनयन और महान मन वाले।
+ml: വേധസ്സ് (സ്രഷ്ടാവ്), സ്വയം ഉപകരണമായവൻ, അജിതൻ, കൃഷ്ണൻ, ദൃഢൻ, സങ്കർഷണൻ, അച്യുതൻ, വരുണൻ, വാരുണൻ (വസിഷ്ഠൻ), വൃക്ഷം, പുഷ്കരാക്ഷൻ, മഹാമനസ്സ്.
+
+भगवान् भगहाऽऽनन्दी वनमाली हलायुधः ।
+आदित्यो ज्योतिरादित्यः सहिष्णुर्गतिसत्तमः ॥
+en: The Lord with all six excellences; who withdraws all glory at dissolution; blissful; wearing the forest garland; who bears the plough (as Balarama); son of Aditi (Vamana); the radiant sun; the patient; the best refuge.
+hi: छह ऐश्वर्यों से युक्त भगवान, प्रलय में ऐश्वर्य समेटने वाले, आनंदी, वनमाला धारी, हल को आयुध बनाने वाले (बलराम), अदिति-पुत्र (वामन), ज्योतिर्मय सूर्य, सहनशील और सर्वोत्तम गति।
+ml: ആറ് ഐശ്വര്യങ്ങളുള്ള ഭഗവാൻ, പ്രളയത്തിൽ ഐശ്വര്യം പിൻവലിക്കുന്നവൻ, ആനന്ദി, വനമാലി, ഹലായുധൻ (ബലരാമൻ), ആദിത്യൻ (വാമനൻ), ജ്യോതിസ്സായ ആദിത്യൻ, സഹിഷ്ണു, ഉത്തമഗതി.
+
+सुधन्वा खण्डपरशुर्दारुणो द्रविणप्रदः ।
+दिवःस्पृक् सर्वदृग्व्यासो वाचस्पतिरयोनिजः ॥
+en: With a fine bow; with the axe that cuts enemies (as Parashurama); fierce (to the wicked); giver of wealth; who touches the heavens; all-seeing; Vyasa; Lord of speech; not born from a womb.
+hi: सुंदर धनुष वाले, शत्रुओं को काटने वाले परशु वाले (परशुराम), (दुष्टों के लिए) दारुण, धन देने वाले, स्वर्ग को छूने वाले, सर्वदृष्टा, व्यास, वाणी के स्वामी और गर्भ से जन्म न लेने वाले।
+ml: നല്ല വില്ലുള്ളവൻ, ശത്രുക്കളെ ഖണ്ഡിക്കുന്ന മഴുവുള്ളവൻ (പരശുരാമൻ), (ദുഷ്ടർക്ക്) ദാരുണൻ, ധനം നൽകുന്നവൻ, സ്വർഗ്ഗം സ്പർശിക്കുന്നവൻ, സർവ്വദൃക്ക്, വ്യാസൻ, വാചസ്പതി, ഗർഭത്തിൽ ജനിക്കാത്തവൻ.
+
+त्रिसामा सामगः साम निर्वाणं भेषजं भिषक् ।
+संन्यासकृच्छमः शान्तो निष्ठा शान्तिः परायणम् ॥
+en: Praised by the three Samans; the singer of the Sama Veda; the Sama itself; liberation; the medicine; the physician; who established the path of renunciation; serenity; peaceful; the final abode; peace itself; the highest goal.
+hi: तीन सामों से स्तुत, सामगान करने वाले, स्वयं साम, निर्वाण, औषधि, वैद्य, संन्यास-मार्ग के स्थापक, शम, शांत, परम निष्ठा, शांति और परम आश्रय।
+ml: മൂന്നു സാമങ്ങളാൽ സ്തുതിക്കപ്പെടുന്നവൻ, സാമഗായകൻ, സാമം തന്നെ, നിർവ്വാണം, ഔഷധം, വൈദ്യൻ, സന്ന്യാസമാർഗ്ഗം സ്ഥാപിച്ചവൻ, ശമം, ശാന്തൻ, നിഷ്ഠ, ശാന്തി, പരമാശ്രയം.
+
+शुभाङ्गः शान्तिदः स्रष्टा कुमुदः कुवलेशयः ।
+गोहितो गोपतिर्गोप्ता वृषभाक्षो वृषप्रियः ॥
+en: Of beautiful form; giver of peace; the creator; who delights in the earth; who rests in the waters; who cares for cows; Lord of the earth; the protector; whose eyes shower blessings; who loves dharma.
+hi: सुंदर अंगों वाले, शांति देने वाले, स्रष्टा, पृथ्वी में आनंद पाने वाले, जल में शयन करने वाले, गौओं के हितकारी, पृथ्वीपति, रक्षक, कृपा बरसाने वाले नेत्रों वाले और धर्मप्रिय।
+ml: ശുഭാംഗൻ, ശാന്തി നൽകുന്നവൻ, സ്രഷ്ടാവ്, ഭൂമിയിൽ ആനന്ദിക്കുന്നവൻ, ജലത്തിൽ ശയിക്കുന്നവൻ, പശുക്കൾക്കു ഹിതൻ, ഗോപതി, രക്ഷകൻ, അനുഗ്രഹം ചൊരിയുന്ന കണ്ണുള്ളവൻ, ധർമ്മപ്രിയൻ.
+
+अनिवर्ती निवृत्तात्मा संक्षेप्ता क्षेमकृच्छिवः ।
+श्रीवत्सवक्षाः श्रीवासः श्रीपतिः श्रीमतां वरः ॥
+en: Who never retreats (in battle or from dharma); whose Self is beyond the senses; who withdraws (the universe); who secures welfare; the auspicious; bearing the Srivatsa on his chest; abode of Lakshmi; Lord of Lakshmi; the best of the glorious.
+hi: (युद्ध और धर्म से) कभी पीछे न हटने वाले, इंद्रियों से परे आत्मा, (जगत को) समेटने वाले, कल्याण करने वाले, शिव, वक्ष पर श्रीवत्स वाले, लक्ष्मी के निवास, श्रीपति और श्रीमानों में श्रेष्ठ।
+ml: (യുദ്ധത്തിൽ നിന്നും ധർമ്മത്തിൽ നിന്നും) പിന്മാറാത്തവൻ, ഇന്ദ്രിയാതീതാത്മാവ്, (ലോകത്തെ) സംക്ഷേപിക്കുന്നവൻ, ക്ഷേമം ചെയ്യുന്നവൻ, ശിവൻ, മാറിൽ ശ്രീവത്സമുള്ളവൻ, ശ്രീവാസൻ, ശ്രീപതി, ശ്രീമാന്മാരിൽ ശ്രേഷ്ഠൻ.
+
+श्रीदः श्रीशः श्रीनिवासः श्रीनिधिः श्रीविभावनः ।
+श्रीधरः श्रीकरः श्रेयः श्रीमाँल्लोकत्रयाश्रयः ॥
+en: Giver of prosperity; Lord of Lakshmi; in whom Lakshmi dwells; treasure of all glory; who distributes glory; who holds Lakshmi; who bestows glory; the highest good; the glorious; the refuge of the three worlds.
+hi: श्री (समृद्धि) देने वाले, श्री के स्वामी, जिनमें श्री निवास करती है, श्री के भंडार, श्री को बाँटने वाले, श्री को धारण करने वाले, श्री प्रदान करने वाले, परम कल्याण, श्रीमान और तीनों लोकों के आश्रय।
+ml: ശ്രീ നൽകുന്നവൻ, ശ്രീശൻ, ശ്രീനിവാസൻ, ശ്രീനിധി, ശ്രീ വിതരണം ചെയ്യുന്നവൻ, ശ്രീധരൻ, ശ്രീകരൻ, ശ്രേയസ്സ്, ശ്രീമാൻ, മൂന്നു ലോകങ്ങളുടെയും ആശ്രയം.
+
+स्वक्षः स्वङ्गः शतानन्दो नन्दिर्ज्योतिर्गणेश्वरः ।
+विजितात्माऽविधेयात्मा सत्कीर्तिश्छिन्नसंशयः ॥
+en: With beautiful eyes; with beautiful limbs; of hundredfold bliss; joy itself; Lord of the luminaries; who has mastered himself; who is subject to none; of true fame; free of all doubt.
+hi: सुंदर नेत्रों वाले, सुंदर अंगों वाले, सैकड़ों प्रकार के आनंद वाले, स्वयं आनंद, ज्योतियों के स्वामी, आत्मजयी, किसी के अधीन न होने वाले, सच्ची कीर्ति वाले और संशयरहित।
+ml: സുന്ദരനേത്രൻ, സുന്ദരാംഗൻ, നൂറിരട്ടി ആനന്ദമുള്ളവൻ, ആനന്ദം തന്നെ, ജ്യോതിസ്സുകളുടെ ഈശ്വരൻ, ആത്മജയി, ആർക്കും വിധേയനല്ലാത്തവൻ, സത്കീർത്തി, സംശയമില്ലാത്തവൻ.
+
+उदीर्णः सर्वतश्चक्षुरनीशः शाश्वतस्थिरः ।
+भूशयो भूषणो भूतिर्विशोकः शोकनाशनः ॥
+en: Exalted above all; whose eyes are everywhere; who has no master; eternal and steady; who lay on the ground (as Rama by the sea); the ornament (of the world); prosperity itself; free from sorrow; destroyer of sorrow.
+hi: सबसे ऊपर, सब ओर नेत्रों वाले, जिनका कोई स्वामी नहीं, शाश्वत और स्थिर, भूमि पर शयन करने वाले (राम रूप में), जगत के भूषण, स्वयं ऐश्वर्य, शोकरहित और शोक का नाश करने वाले।
+ml: എല്ലാറ്റിനും മേലെയുള്ളവൻ, എല്ലായിടത്തും കണ്ണുള്ളവൻ, നാഥനില്ലാത്തവൻ, ശാശ്വതനും സ്ഥിരനും, (രാമനായി) ഭൂമിയിൽ ശയിച്ചവൻ, ലോകത്തിന്റെ ആഭരണം, ഐശ്വര്യം, ശോകമില്ലാത്തവൻ, ശോകനാശകൻ.
+
+अर्चिष्मानर्चितः कुम्भो विशुद्धात्मा विशोधनः ।
+अनिरुद्धोऽप्रतिरथः प्रद्युम्नोऽमितविक्रमः ॥
+en: Radiant; worshipped (by all); the vessel that contains all; of pure Self; the purifier; Aniruddha, the unobstructed; without rival; Pradyumna, of great wealth; of boundless valour.
+hi: तेजस्वी, सबके द्वारा पूजित, सबको समाए हुए कलश, विशुद्ध आत्मा, पवित्र करने वाले, अनिरुद्ध, जिनका कोई प्रतिद्वंद्वी नहीं, प्रद्युम्न और असीम पराक्रम वाले।
+ml: തേജസ്വി, പൂജിതൻ, എല്ലാം ഉൾക്കൊള്ളുന്ന കുംഭം, വിശുദ്ധാത്മാവ്, ശുദ്ധീകരിക്കുന്നവൻ, അനിരുദ്ധൻ, എതിരാളിയില്ലാത്തവൻ, പ്രദ്യുമ്നൻ, അമിതവിക്രമൻ.
+
+कालनेमिनिहा वीरः शौरिः शूरजनेश्वरः ।
+त्रिलोकात्मा त्रिलोकेशः केशवः केशिहा हरिः ॥
+en: Slayer of the demon Kalanemi; the hero; Shauri; Lord of the valiant; the Self of the three worlds; Lord of the three worlds; Keshava; slayer of the demon Keshi; Hari.
+hi: कालनेमि का वध करने वाले, वीर, शौरि, शूरवीरों के ईश्वर, तीनों लोकों की आत्मा, त्रिलोकेश, केशव, केशी दैत्य के संहारक और हरि।
+ml: കാലനേമിയെ വധിച്ചവൻ, വീരൻ, ശൗരി, ശൂരജനേശ്വരൻ, ത്രിലോകാത്മാവ്, ത്രിലോകേശൻ, കേശവൻ, കേശിയെ വധിച്ചവൻ, ഹരി.
+
+कामदेवः कामपालः कामी कान्तः कृतागमः ।
+अनिर्देश्यवपुर्विष्णुर्वीरोऽनन्तो धनञ्जयः ॥
+en: The beloved God who fulfils desires; protector of desires; who has all desires fulfilled; the charming one; author of the scriptures; of indescribable form; Vishnu; the hero; the infinite; Dhananjaya (Arjuna, his own glory).
+hi: कामनाएँ पूर्ण करने वाले प्रिय देव, कामनाओं के रक्षक, पूर्णकाम, कांत, शास्त्रों के रचयिता, अवर्णनीय स्वरूप वाले, विष्णु, वीर, अनंत और धनंजय (अर्जुन रूप में उनकी विभूति)।
+ml: ആഗ്രഹങ്ങൾ നിറവേറ്റുന്ന കാമദേവൻ, കാമപാലൻ, പൂർണ്ണകാമൻ, കാന്തൻ, ശാസ്ത്രകർത്താവ്, വർണ്ണിക്കാനാവാത്ത രൂപമുള്ളവൻ, വിഷ്ണു, വീരൻ, അനന്തൻ, ധനഞ്ജയൻ (അർജ്ജുനൻ — അവന്റെ വിഭൂതി).
+
+ब्रह्मण्यो ब्रह्मकृद्ब्रह्मा ब्रह्म ब्रह्मविवर्धनः ।
+ब्रह्मविद्ब्राह्मणो ब्रह्मी ब्रह्मज्ञो ब्राह्मणप्रियः ॥
+en: Devoted to Brahman (the Vedas, austerity, truth); creator of Brahman; Brahma the creator; Brahman itself; who increases (Vedic wisdom); knower of Brahman; the Brahmin (teacher); who holds Brahman; knower of the Vedas; dear to the wise.
+hi: ब्रह्म (वेद, तप, सत्य) के हितकारी, ब्रह्म के रचयिता, ब्रह्मा, स्वयं ब्रह्म, वेद-ज्ञान को बढ़ाने वाले, ब्रह्मवेत्ता, ब्राह्मण (आचार्य), ब्रह्म के धारक, वेदज्ञ और ज्ञानियों के प्रिय।
+ml: ബ്രഹ്മത്തിന് (വേദം, തപസ്സ്, സത്യം) ഹിതൻ, ബ്രഹ്മത്തിന്റെ കർത്താവ്, ബ്രഹ്മാവ്, ബ്രഹ്മം തന്നെ, വേദജ്ഞാനം വളർത്തുന്നവൻ, ബ്രഹ്മവിത്ത്, ബ്രാഹ്മണൻ (ആചാര്യൻ), ബ്രഹ്മി, ബ്രഹ്മജ്ഞൻ, ജ്ഞാനികൾക്കു പ്രിയൻ.
+
+महाक्रमो महाकर्मा महातेजा महोरगः ।
+महाक्रतुर्महायज्वा महायज्ञो महाहविः ॥
+en: Of great strides; of great deeds; of great brilliance; the great serpent; the great ritual; the great performer of sacrifice; the great sacrifice; the great offering.
+hi: महान पगों वाले, महान कर्मों वाले, महान तेज वाले, महान सर्प, महान क्रतु, महान यज्ञकर्ता, महायज्ञ और महान हवि।
+ml: മഹാക്രമൻ, മഹാകർമ്മാവ്, മഹാതേജസ്സ്, മഹോരഗൻ, മഹാക്രതു, മഹായജ്വാവ്, മഹായജ്ഞം, മഹാഹവിസ്സ്.
+
+स्तव्यः स्तवप्रियः स्तोत्रं स्तुतिः स्तोता रणप्रियः ।
+पूर्णः पूरयिता पुण्यः पुण्यकीर्तिरनामयः ॥
+en: Worthy of praise; who loves praise; the hymn itself; the praise itself; the one who praises; who loves battle (against evil); complete; who fulfils all; holy; of holy fame; free from all ills.
+hi: स्तुति के योग्य, स्तुति-प्रिय, स्वयं स्तोत्र, स्वयं स्तुति, स्तुति करने वाले, (अधर्म के विरुद्ध) युद्ध-प्रिय, पूर्ण, सबको पूर्ण करने वाले, पुण्य, पुण्य कीर्ति वाले और रोग-रहित।
+ml: സ്തുത്യൻ, സ്തുതിപ്രിയൻ, സ്തോത്രം തന്നെ, സ്തുതി തന്നെ, സ്തുതിക്കുന്നവൻ, (അധർമ്മത്തിനെതിരെ) യുദ്ധപ്രിയൻ, പൂർണ്ണൻ, പൂർണ്ണമാക്കുന്നവൻ, പുണ്യൻ, പുണ്യകീർത്തി, രോഗമില്ലാത്തവൻ.
+
+मनोजवस्तीर्थकरो वसुरेता वसुप्रदः ।
+वसुप्रदो वासुदेवो वसुर्वसुमना हविः ॥
+en: Swift as thought; who made the sacred fords (scriptures); whose seed is golden; giver of wealth; giver of the highest wealth (liberation); Vasudeva; wealth itself; whose mind is set on good; the offering.
+hi: मन के समान वेग वाले, तीर्थ (शास्त्र) बनाने वाले, स्वर्णिम बीज वाले, धन देने वाले, परम धन (मोक्ष) देने वाले, वासुदेव, स्वयं धन, शुभ मन वाले और हवि।
+ml: മനോവേഗൻ, തീർത്ഥങ്ങൾ (ശാസ്ത്രങ്ങൾ) സൃഷ്ടിച്ചവൻ, സ്വർണ്ണബീജൻ, ധനം നൽകുന്നവൻ, പരമധനം (മോക്ഷം) നൽകുന്നവൻ, വാസുദേവൻ, വസു, നല്ല മനസ്സുള്ളവൻ, ഹവിസ്സ്.
+
+सद्गतिः सत्कृतिः सत्ता सद्भूतिः सत्परायणः ।
+शूरसेनो यदुश्रेष्ठः सन्निवासः सुयामुनः ॥
+en: The goal of the good; whose deeds are good; pure existence; true glory; the refuge of the good; with a valiant army; the best of the Yadus; abode of the wise; surrounded by the people of the Yamuna (in Vrindavan).
+hi: सज्जनों की गति, उत्तम कर्मों वाले, सत्ता स्वरूप, सच्चा ऐश्वर्य, सज्जनों के आश्रय, वीर सेना वाले, यदुश्रेष्ठ, ज्ञानियों के निवास और यमुना-तट के जनों से घिरे हुए।
+ml: സജ്ജനങ്ങളുടെ ഗതി, സത്കർമ്മി, സത്ത, സദ്ഭൂതി, സജ്ജനാശ്രയം, ശൂരസേനൻ, യദുശ്രേഷ്ഠൻ, ജ്ഞാനികളുടെ വാസസ്ഥാനം, യമുനാതീരവാസികളാൽ ചുറ്റപ്പെട്ടവൻ.
+
+भूतावासो वासुदेवः सर्वासुनिलयोऽनलः ।
+दर्पहा दर्पदो दृप्तो दुर्धरोऽथापराजितः ॥
+en: The dwelling of all beings; Vasudeva; the abode of all life-breaths; boundless; who destroys arrogance (of the wicked); who gives pride (to the righteous); ever exultant; hard to hold; and unconquered.
+hi: सब प्राणियों के निवास, वासुदेव, सब प्राणों के आश्रय, असीम, (दुष्टों का) दर्प हरने वाले, (धर्मात्माओं को) गौरव देने वाले, आनंद से उल्लसित, दुर्धर और अपराजित।
+ml: ഭൂതങ്ങളുടെ വാസസ്ഥാനം, വാസുദേവൻ, എല്ലാ പ്രാണങ്ങളുടെയും ആശ്രയം, അസീമൻ, (ദുഷ്ടരുടെ) ദർപ്പം നശിപ്പിക്കുന്നവൻ, (ധർമ്മിഷ്ഠർക്ക്) അഭിമാനം നൽകുന്നവൻ, ആനന്ദമത്തൻ, ദുർധരൻ, അപരാജിതൻ.
+
+विश्वमूर्तिर्महामूर्तिर्दीप्तमूर्तिरमूर्तिमान् ।
+अनेकमूर्तिरव्यक्तः शतमूर्तिः शताननः ॥
+en: Whose form is the universe; of great form; of radiant form; formless; of many forms; unmanifest; of a hundred forms; of a hundred faces.
+hi: विश्व रूप वाले, महान रूप वाले, दीप्त रूप वाले, निराकार, अनेक रूपों वाले, अव्यक्त, सैकड़ों रूपों और सैकड़ों मुखों वाले।
+ml: വിശ്വമൂർത്തി, മഹാമൂർത്തി, ദീപ്തമൂർത്തി, രൂപമില്ലാത്തവൻ, അനേകമൂർത്തി, അവ്യക്തൻ, നൂറു രൂപങ്ങളും നൂറു മുഖങ്ങളുമുള്ളവൻ.
+
+एको नैकः सवः कः किं यत्तत्पदमनुत्तमम् ।
+लोकबन्धुर्लोकनाथो माधवो भक्तवत्सलः ॥
+en: The One; the many; the sacrifice; bliss (Ka); the one to be sought (Kim); "That which" (Yat, Tat); the unsurpassed state; friend of the world; Lord of the world; Madhava; who loves his devotees.
+hi: एक, अनेक, यज्ञ, सुख स्वरूप "क", जिज्ञासा के विषय "किम्", "यत्" और "तत्", सर्वोत्तम पद, लोकबंधु, लोकनाथ, माधव और भक्तवत्सल।
+ml: ഏകൻ, അനേകൻ, യജ്ഞം, സുഖസ്വരൂപനായ "ക", അന്വേഷിക്കപ്പെടേണ്ട "കിം", "യത്", "തത്", ഉത്തമപദം, ലോകബന്ധു, ലോകനാഥൻ, മാധവൻ, ഭക്തവത്സലൻ.
+
+सुवर्णवर्णो हेमाङ्गो वराङ्गश्चन्दनाङ्गदी ।
+वीरहा विषमः शून्यो घृताशीरचलश्चलः ॥
+en: Golden in colour; with a body like gold; with lovely limbs; adorned with sandal paste and armlets; slayer of mighty foes; unequalled; empty (of all qualities); free of wants; unmoving; and moving.
+hi: सुनहरे वर्ण वाले, स्वर्ण जैसे अंगों वाले, सुंदर अंगों वाले, चंदन और बाजूबंद से सजे, वीर शत्रुओं के संहारक, अद्वितीय, गुणों से शून्य, इच्छारहित, अचल और चल।
+ml: സ്വർണ്ണവർണ്ണൻ, ഹേമാംഗൻ, വരാംഗൻ, ചന്ദനവും തോൾവളയും അണിഞ്ഞവൻ, വീരശത്രുക്കളെ നിഗ്രഹിക്കുന്നവൻ, അതുല്യൻ, ഗുണശൂന്യൻ, ആഗ്രഹമില്ലാത്തവൻ, അചലൻ, ചലൻ.
+
+अमानी मानदो मान्यो लोकस्वामी त्रिलोकधृक् ।
+सुमेधा मेधजो धन्यः सत्यमेधा धराधरः ॥
+en: Without pride; who gives honour to others; worthy of honour; master of the world; who upholds the three worlds; of excellent wisdom; born of sacrifice; blessed; of true wisdom; bearer of the earth.
+hi: अभिमान रहित, दूसरों को मान देने वाले, माननीय, लोकस्वामी, तीनों लोकों को धारण करने वाले, उत्तम बुद्धि वाले, यज्ञ से प्रकट, धन्य, सत्य बुद्धि वाले और धरा को धारण करने वाले।
+ml: അഭിമാനമില്ലാത്തവൻ, മറ്റുള്ളവർക്കു മാനം നൽകുന്നവൻ, മാന്യൻ, ലോകസ്വാമി, ത്രിലോകധാരി, സുമേധസ്സ്, യജ്ഞത്തിൽ നിന്നുദിച്ചവൻ, ധന്യൻ, സത്യമേധസ്സ്, ധരാധരൻ.
+
+तेजोवृषो द्युतिधरः सर्वशस्त्रभृतां वरः ।
+प्रग्रहो निग्रहो व्यग्रो नैकशृङ्गो गदाग्रजः ॥
+en: Who showers light (as the sun); bearer of splendour; the best of all who bear arms; who accepts (offerings); who restrains all; ever active (for devotees); many-horned (as the Vedas); born before Gada (elder brother of Gada).
+hi: तेज की वर्षा करने वाले, कांति धारण करने वाले, सब शस्त्रधारियों में श्रेष्ठ, (भेंट) ग्रहण करने वाले, सबको नियंत्रित करने वाले, (भक्तों के लिए) सदा तत्पर, अनेक शृंगों वाले (वेद रूप) और गद के बड़े भाई।
+ml: തേജസ്സ് വർഷിക്കുന്നവൻ, ദ്യുതിധരൻ, ശസ്ത്രധാരികളിൽ ശ്രേഷ്ഠൻ, (സമർപ്പണം) സ്വീകരിക്കുന്നവൻ, നിയന്ത്രിക്കുന്നവൻ, (ഭക്തർക്കായി) എപ്പോഴും തത്പരൻ, അനേകശൃംഗൻ (വേദരൂപൻ), ഗദന്റെ ജ്യേഷ്ഠൻ.
+
+चतुर्मूर्तिश्चतुर्बाहुश्चतुर्व्यूहश्चतुर्गतिः ।
+चतुरात्मा चतुर्भावश्चतुर्वेदविदेकपात् ॥
+en: Of four forms; four-armed; in four divine aspects; the goal of all four stages of life; of fourfold Self; the source of the four aims of life; knower of the four Vedas; who stands on one foot (only a part of him is the universe).
+hi: चार रूपों वाले, चतुर्भुज, चतुर्व्यूह, चारों आश्रमों की गति, चार प्रकार की आत्मा, चारों पुरुषार्थों के स्रोत, चारों वेदों के ज्ञाता और एकपाद (जिनका एक अंश ही यह विश्व है)।
+ml: ചതുർമൂർത്തി, ചതുർബാഹു, ചതുർവ്യൂഹൻ, നാല് ആശ്രമങ്ങളുടെയും ഗതി, ചതുരാത്മാവ്, നാലു പുരുഷാർത്ഥങ്ങളുടെ ഉറവിടം, ചതുർവേദജ്ഞൻ, ഏകപാദൻ (അവന്റെ ഒരംശം മാത്രമാണ് ഈ ലോകം).
+
+समावर्तोऽनिवृत्तात्मा दुर्जयो दुरतिक्रमः ।
+दुर्लभो दुर्गमो दुर्गो दुरावासो दुरारिहा ॥
+en: Who turns the wheel of the world; whose Self never withdraws (from anywhere); hard to conquer; hard to transgress; hard to attain; hard to reach; hard to know; hard to dwell upon; slayer of evil foes.
+hi: संसार-चक्र को घुमाने वाले, जिनकी आत्मा कहीं से हटती नहीं, दुर्जय, जिनका उल्लंघन कठिन है, दुर्लभ, दुर्गम, कठिनाई से जाने जाने वाले, कठिनाई से मन में बसने वाले और दुष्ट शत्रुओं का नाश करने वाले।
+ml: ലോകചക്രം തിരിക്കുന്നവൻ, എവിടെനിന്നും പിന്മാറാത്ത ആത്മാവ്, ദുർജ്ജയൻ, ലംഘിക്കാനാവാത്തവൻ, ദുർല്ലഭൻ, ദുർഗ്ഗമൻ, അറിയാൻ പ്രയാസമുള്ളവൻ, മനസ്സിൽ വസിപ്പിക്കാൻ പ്രയാസമുള്ളവൻ, ദുഷ്ടശത്രുക്കളെ നിഗ്രഹിക്കുന്നവൻ.
+
+शुभाङ्गो लोकसारङ्गः सुतन्तुस्तन्तुवर्धनः ।
+इन्द्रकर्मा महाकर्मा कृतकर्मा कृतागमः ॥
+en: Of beautiful limbs; who takes the essence of the worlds; who spreads the fine web (of creation); who extends that web; whose deeds are like Indra's; of great deeds; whose work is complete; who gave the scriptures.
+hi: सुंदर अंगों वाले, लोकों का सार ग्रहण करने वाले, सृष्टि के सुंदर ताने-बाने वाले, उसे बढ़ाने वाले, इंद्र जैसे कर्म वाले, महान कर्म वाले, कृतकृत्य और शास्त्रों के प्रवर्तक।
+ml: ശുഭാംഗൻ, ലോകസാരം ഗ്രഹിക്കുന്നവൻ, സൃഷ്ടിയുടെ നല്ല തന്തുവുള്ളവൻ, അത് വിസ്തരിക്കുന്നവൻ, ഇന്ദ്രകർമ്മൻ, മഹാകർമ്മൻ, കൃതകർമ്മൻ, ശാസ്ത്രങ്ങൾ നൽകിയവൻ.
+
+उद्भवः सुन्दरः सुन्दो रत्ननाभः सुलोचनः ।
+अर्को वाजसनः शृङ्गी जयन्तः सर्वविज्जयी ॥
+en: Of exalted birth; the beautiful; the compassionate; with a jewel-like navel; with lovely eyes; worthy of worship (like the sun); giver of food; the horned (fish); the victorious; all-knowing and all-conquering.
+hi: श्रेष्ठ जन्म वाले, सुंदर, करुणामय, रत्न जैसी नाभि वाले, सुंदर नेत्रों वाले, सूर्य के समान पूज्य, अन्नदाता, शृंगधारी (मत्स्य), विजयी, सर्वज्ञ और सर्वविजयी।
+ml: ശ്രേഷ്ഠജന്മൻ, സുന്ദരൻ, കരുണാമയൻ, രത്നനാഭൻ, സുലോചനൻ, സൂര്യനെപ്പോലെ പൂജ്യൻ, അന്നദാതാവ്, ശൃംഗി (മത്സ്യം), ജയന്തൻ, സർവ്വജ്ഞനും സർവ്വജയിയും.
+
+सुवर्णबिन्दुरक्षोभ्यः सर्ववागीश्वरेश्वरः ।
+महाह्रदो महागर्तो महाभूतो महानिधिः ॥
+en: Golden-limbed; who cannot be disturbed; Lord of all masters of speech; the great lake (of bliss); the great abyss (of maya); the great Being; the great treasure.
+hi: स्वर्णिम अंगों वाले, जिन्हें कोई विचलित न कर सके, सब वाणी के स्वामियों के भी ईश्वर, (आनंद के) महान सरोवर, (माया की) महान गहराई, महाभूत और महानिधि।
+ml: സ്വർണ്ണാംഗൻ, ക്ഷോഭിപ്പിക്കാനാവാത്തവൻ, എല്ലാ വാഗീശ്വരന്മാരുടെയും ഈശ്വരൻ, (ആനന്ദത്തിന്റെ) മഹാതടാകം, (മായയുടെ) മഹാഗർത്തം, മഹാഭൂതം, മഹാനിധി.
+
+कुमुदः कुन्दरः कुन्दः पर्जन्यः पावनोऽनिलः ।
+अमृताशोऽमृतवपुः सर्वज्ञः सर्वतोमुखः ॥
+en: Who gladdens the earth; who gives the highest (like the jasmine-white); pure as the jasmine; the rain-cloud (of blessings); the purifier; the ever-moving wind; who feeds on nectar; whose body is immortal; all-knowing; facing every direction.
+hi: पृथ्वी को आनंदित करने वाले, श्रेष्ठ फल देने वाले, कुंद पुष्प जैसे शुद्ध, (कृपा के) मेघ, पवित्र करने वाले, अनिल, अमृत भोजी, अमर शरीर वाले, सर्वज्ञ और सब ओर मुख वाले।
+ml: ഭൂമിയെ ആനന്ദിപ്പിക്കുന്നവൻ, ശ്രേഷ്ഠഫലം നൽകുന്നവൻ, മുല്ലപ്പൂ പോലെ ശുദ്ധൻ, (അനുഗ്രഹത്തിന്റെ) മേഘം, പാവനൻ, അനിലൻ, അമൃതം ഭുജിക്കുന്നവൻ, അമൃതശരീരൻ, സർവ്വജ്ഞൻ, എല്ലായിടത്തേക്കും മുഖമുള്ളവൻ.
+
+सुलभः सुव्रतः सिद्धः शत्रुजिच्छत्रुतापनः ।
+न्यग्रोधोदुम्बरोऽश्वत्थश्चाणूरान्ध्रनिषूदनः ॥
+en: Easily reached (by devotion); of holy vows; ever perfect; conqueror of foes; who torments enemies; the banyan tree; the fig tree; the peepal tree; slayer of Chanura of the Andhra clan.
+hi: (भक्ति से) सुलभ, उत्तम व्रत वाले, सिद्ध, शत्रुजित, शत्रुओं को ताप देने वाले, बरगद, गूलर, पीपल और चाणूर का संहार करने वाले।
+ml: (ഭക്തിയാൽ) സുലഭൻ, സുവ്രതൻ, സിദ്ധൻ, ശത്രുജിത്ത്, ശത്രുക്കളെ തപിപ്പിക്കുന്നവൻ, പേരാൽ, അത്തി, അരയാൽ, ചാണൂരനെ നിഗ്രഹിച്ചവൻ.
+
+सहस्रार्चिः सप्तजिह्वः सप्तैधाः सप्तवाहनः ।
+अमूर्तिरनघोऽचिन्त्यो भयकृद्भयनाशनः ॥
+en: Of a thousand rays; seven-tongued (as fire); of seven flames; drawn by seven horses (as the sun); formless; sinless; inconceivable; who causes fear (to the wicked); who destroys fear (of the good).
+hi: सहस्र किरणों वाले, सात जिह्वाओं वाले (अग्नि), सात ज्वालाओं वाले, सात घोड़ों के वाहन वाले (सूर्य), निराकार, निष्पाप, अचिंत्य, (दुष्टों को) भय देने वाले और (सज्जनों का) भय नष्ट करने वाले।
+ml: ആയിരം രശ്മികളുള്ളവൻ, ഏഴു നാവുള്ളവൻ (അഗ്നി), ഏഴു ജ്വാലകളുള്ളവൻ, ഏഴു കുതിരകളുള്ളവൻ (സൂര്യൻ), രൂപമില്ലാത്തവൻ, പാപരഹിതൻ, അചിന്ത്യൻ, (ദുഷ്ടർക്ക്) ഭയം നൽകുന്നവൻ, (സജ്ജനങ്ങളുടെ) ഭയം നീക്കുന്നവൻ.
+
+अणुर्बृहत्कृशः स्थूलो गुणभृन्निर्गुणो महान् ।
+अधृतः स्वधृतः स्वास्यः प्राग्वंशो वंशवर्धनः ॥
+en: The most minute; the vast; the slender; the stout; who bears the qualities; beyond qualities; the great; who is supported by none; self-supported; of beautiful face; of the most ancient lineage; who makes lineages grow.
+hi: अणु, विशाल, कृश, स्थूल, गुणों को धारण करने वाले, निर्गुण, महान, जिन्हें कोई धारण नहीं करता, स्वयं में स्थित, सुंदर मुख वाले, सबसे प्राचीन वंश वाले और वंश बढ़ाने वाले।
+ml: അണു, ബൃഹത്ത്, കൃശൻ, സ്ഥൂലൻ, ഗുണങ്ങൾ വഹിക്കുന്നവൻ, നിർഗുണൻ, മഹാൻ, ആരാലും താങ്ങപ്പെടാത്തവൻ, സ്വയം നിലകൊള്ളുന്നവൻ, സുന്ദരമുഖൻ, പ്രാചീനവംശൻ, വംശം വളർത്തുന്നവൻ.
+
+भारभृत् कथितो योगी योगीशः सर्वकामदः ।
+आश्रमः श्रमणः क्षामः सुपर्णो वायुवाहनः ॥
+en: Who bears the burden (of the universe); proclaimed (by the Vedas); the yogi; Lord of yogis; giver of all desires; the resting place; who troubles the wicked; who withers all (at dissolution); the beautiful-leaved (tree of samsara); who makes the wind move.
+hi: (विश्व का) भार उठाने वाले, (वेदों द्वारा) कथित, योगी, योगियों के ईश्वर, सब कामनाएँ देने वाले, विश्राम-स्थान, दुष्टों को श्रम देने वाले, (प्रलय में) सबको क्षीण करने वाले, सुंदर पत्तों वाले (संसार-वृक्ष) और वायु को चलाने वाले।
+ml: (ലോകഭാരം) വഹിക്കുന്നവൻ, (വേദങ്ങളാൽ) കഥിതൻ, യോഗി, യോഗീശൻ, എല്ലാ ആഗ്രഹങ്ങളും നൽകുന്നവൻ, ആശ്രമം, ദുഷ്ടരെ ക്ലേശിപ്പിക്കുന്നവൻ, (പ്രളയത്തിൽ) എല്ലാം ക്ഷയിപ്പിക്കുന്നവൻ, സുപർണ്ണൻ (സംസാരവൃക്ഷം), വായുവിനെ ചലിപ്പിക്കുന്നവൻ.
+
+धनुर्धरो धनुर्वेदो दण्डो दमयिता दमः ।
+अपराजितः सर्वसहो नियन्ता नियमो यमः ॥
+en: The bowman (Rama); knower of archery; the rod (of justice); the one who disciplines; self-restraint itself; unconquered; who endures all; the controller; the law; the ruler within.
+hi: धनुर्धारी (राम), धनुर्वेद के ज्ञाता, दंड, दमन करने वाले, स्वयं दम (संयम), अपराजित, सब सहने वाले, नियंता, नियम और अंतर्यामी यम।
+ml: ധനുർധരൻ (രാമൻ), ധനുർവേദജ്ഞൻ, ദണ്ഡം, ദമനം ചെയ്യുന്നവൻ, ദമം (സംയമം), അപരാജിതൻ, എല്ലാം സഹിക്കുന്നവൻ, നിയന്താവ്, നിയമം, അന്തര്യാമി.
+
+सत्त्ववान् सात्त्विकः सत्यः सत्यधर्मपरायणः ।
+अभिप्रायः प्रियार्होऽर्हः प्रियकृत् प्रीतिवर्धनः ॥
+en: Full of strength and courage; pure in nature; truth; devoted to truth and dharma; the one sought by all; worthy of our dearest offerings; worthy of worship; who does what pleases; who increases joy.
+hi: बल और साहस से युक्त, सात्त्विक, सत्य, सत्य और धर्म में तत्पर, सबके द्वारा चाहे जाने वाले, प्रिय वस्तुएँ अर्पित करने योग्य, पूजनीय, प्रिय करने वाले और प्रेम बढ़ाने वाले।
+ml: സത്ത്വവാൻ, സാത്ത്വികൻ, സത്യം, സത്യധർമ്മപരായണൻ, എല്ലാവരും ആഗ്രഹിക്കുന്നവൻ, പ്രിയമായത് അർപ്പിക്കാൻ യോഗ്യൻ, പൂജ്യൻ, പ്രിയം ചെയ്യുന്നവൻ, പ്രീതി വളർത്തുന്നവൻ.
+
+विहायसगतिर्ज्योतिः सुरुचिर्हुतभुग्विभुः ।
+रविर्विरोचनः सूर्यः सविता रविलोचनः ॥
+en: Who moves through the sky; light itself; of beautiful splendour; who receives the oblations (as fire); all-pervading; the sun (Ravi); who shines in many ways; Surya; Savita, who brings forth all; whose eye is the sun.
+hi: आकाश में गति करने वाले, ज्योति, सुंदर कांति वाले, आहुति ग्रहण करने वाले (अग्नि), विभु, रवि, विविध रूपों में चमकने वाले, सूर्य, सविता और सूर्य रूपी नेत्र वाले।
+ml: ആകാശത്തിലൂടെ സഞ്ചരിക്കുന്നവൻ, ജ്യോതിസ്സ്, സുരുചി, ഹവിസ്സ് ഭുജിക്കുന്നവൻ (അഗ്നി), വിഭു, രവി, വിരോചനൻ, സൂര്യൻ, സവിതാവ്, സൂര്യനേത്രൻ.
+
+अनन्तो हुतभुग्भोक्ता सुखदो नैकजोऽग्रजः ।
+अनिर्विण्णः सदामर्षी लोकाधिष्ठानमद्भुतः ॥
+en: Infinite; who receives the offerings; the enjoyer; giver of happiness; born many times (in avatars); the first-born; never weary; ever forgiving; the foundation of the worlds; the wonderful.
+hi: अनंत, आहुति ग्रहण करने वाले, भोक्ता, सुख देने वाले, अनेक बार जन्म लेने वाले (अवतार), अग्रज, कभी न थकने वाले, सदा क्षमाशील, लोकों के आधार और अद्भुत।
+ml: അനന്തൻ, ഹവിസ്സ് സ്വീകരിക്കുന്നവൻ, ഭോക്താവ്, സുഖദൻ, അനേകം തവണ ജനിച്ചവൻ (അവതാരങ്ങൾ), അഗ്രജൻ, തളരാത്തവൻ, എന്നും ക്ഷമിക്കുന്നവൻ, ലോകാധിഷ്ഠാനം, അത്ഭുതൻ.
+
+सनात्सनातनतमः कपिलः कपिरव्ययः ।
+स्वस्तिदः स्वस्तिकृत्स्वस्ति स्वस्तिभुक्स्वस्तिदक्षिणः ॥
+en: The eternal; the most ancient; tawny (Kapila); the sun (Kapi); imperishable; giver of well-being; doer of good; auspiciousness itself; who enjoys (and protects) auspiciousness; who spreads well-being everywhere.
+hi: सनातन, सबसे पुरातन, कपिल, कपि (सूर्य), अविनाशी, कल्याण देने वाले, कल्याण करने वाले, स्वयं स्वस्ति, कल्याण का भोग और रक्षा करने वाले और कल्याण बाँटने वाले।
+ml: സനാതനൻ, ഏറ്റവും പുരാതനൻ, കപിലൻ, കപി (സൂര്യൻ), അവ്യയൻ, സ്വസ്തി നൽകുന്നവൻ, സ്വസ്തി ചെയ്യുന്നവൻ, സ്വസ്തി തന്നെ, സ്വസ്തി അനുഭവിക്കുന്നവൻ, സ്വസ്തി പകരുന്നവൻ.
+
+अरौद्रः कुण्डली चक्री विक्रम्यूर्जितशासनः ।
+शब्दातिगः शब्दसहः शिशिरः शर्वरीकरः ॥
+en: Free from cruelty; wearing earrings; bearer of the discus; valiant; whose command is mighty; beyond words; whom all the Vedas proclaim; cool (as winter); who creates the night.
+hi: क्रूरता रहित, कुंडलधारी, चक्रधारी, पराक्रमी, प्रबल आज्ञा वाले, शब्दों से परे, जिनका सारे वेद वर्णन करते हैं, शीतल और रात्रि बनाने वाले।
+ml: രൗദ്രതയില്ലാത്തവൻ, കുണ്ഡലധാരി, ചക്രധാരി, വിക്രമി, ശക്തമായ ശാസനയുള്ളവൻ, വാക്കുകൾക്കതീതൻ, വേദങ്ങൾ എല്ലാം വർണ്ണിക്കുന്നവൻ, ശിശിരൻ, രാത്രിയെ സൃഷ്ടിക്കുന്നവൻ.
+
+अक्रूरः पेशलो दक्षो दक्षिणः क्षमिणां वरः ।
+विद्वत्तमो वीतभयः पुण्यश्रवणकीर्तनः ॥
+en: Never harsh; gentle and graceful; able; kind; the best of the forgiving; the wisest of the wise; free from fear; hearing and singing of whom is holy.
+hi: क्रूरता रहित, कोमल, दक्ष, उदार, क्षमाशीलों में श्रेष्ठ, विद्वानों में सर्वोत्तम, निर्भय और जिनका श्रवण-कीर्तन पुण्यदायी है।
+ml: ക്രൂരതയില്ലാത്തവൻ, മൃദുലൻ, ദക്ഷൻ, ദയാലു, ക്ഷമാശീലരിൽ ശ്രേഷ്ഠൻ, വിദ്വാന്മാരിൽ ഉത്തമൻ, ഭയമില്ലാത്തവൻ, കേൾക്കുന്നതും പാടുന്നതും പുണ്യമായവൻ.
+
+उत्तारणो दुष्कृतिहा पुण्यो दुःस्वप्ननाशनः ।
+वीरहा रक्षणः सन्तो जीवनः पर्यवस्थितः ॥
+en: Who lifts us across (the ocean of samsara); destroyer of evil deeds; holy; who removes bad dreams; who ends the path of rebirth; the protector; present in the good; the life of all; who pervades everywhere.
+hi: (संसार-सागर से) पार उतारने वाले, पापों का नाश करने वाले, पुण्य, बुरे स्वप्नों का नाश करने वाले, (जन्म-मरण के) मार्गों का अंत करने वाले, रक्षक, संतों में प्रकट, सबके जीवन और सर्वत्र व्याप्त।
+ml: (സംസാരസാഗരം) കടത്തുന്നവൻ, ദുഷ്കൃതങ്ങൾ നശിപ്പിക്കുന്നവൻ, പുണ്യൻ, ദുഃസ്വപ്നം നീക്കുന്നവൻ, (പുനർജന്മ) മാർഗ്ഗം അവസാനിപ്പിക്കുന്നവൻ, രക്ഷകൻ, സന്തന്മാരിൽ പ്രകടൻ, എല്ലാവരുടെയും ജീവൻ, എല്ലായിടത്തും വ്യാപിച്ചവൻ.
+
+अनन्तरूपोऽनन्तश्रीर्जितमन्युर्भयापहः ।
+चतुरश्रो गभीरात्मा विदिशो व्यादिशो दिशः ॥
+en: Of infinite forms; of infinite glory; who has conquered anger; who removes fear; just and fair; of profound Self; who gives special gifts; who commands all; who gives the Vedas.
+hi: अनंत रूपों वाले, अनंत श्री वाले, क्रोध को जीतने वाले, भय दूर करने वाले, न्यायप्रिय, गंभीर आत्मा, विशेष फल देने वाले, सबको आदेश देने वाले और वेद रूपी उपदेश देने वाले।
+ml: അനന്തരൂപൻ, അനന്തശ്രീ, ക്രോധം ജയിച്ചവൻ, ഭയം നീക്കുന്നവൻ, ന്യായശീലൻ, ഗംഭീരാത്മാവ്, പ്രത്യേക ഫലം നൽകുന്നവൻ, എല്ലാവർക്കും ആജ്ഞ നൽകുന്നവൻ, വേദോപദേശം നൽകുന്നവൻ.
+
+अनादिर्भूर्भुवो लक्ष्मीः सुवीरो रुचिराङ्गदः ।
+जननो जनजन्मादिर्भीमो भीमपराक्रमः ॥
+en: Without beginning; the ground of the earth; the glory (Lakshmi) of the earth; the valiant; with shining armlets; who gives birth to all; the root of the birth of beings; awe-inspiring; of formidable valour.
+hi: अनादि, पृथ्वी के आधार, पृथ्वी की शोभा (लक्ष्मी), उत्तम वीर, चमकते बाजूबंद वाले, सबको जन्म देने वाले, प्राणियों के जन्म के मूल, भयंकर और भीषण पराक्रम वाले।
+ml: അനാദി, ഭൂമിയുടെ ആധാരം, ഭൂമിയുടെ ശോഭ (ലക്ഷ്മി), സുവീരൻ, തിളങ്ങുന്ന തോൾവളയുള്ളവൻ, ജനകൻ, ജീവികളുടെ ജന്മത്തിന്റെ മൂലം, ഭീമൻ, ഭീമപരാക്രമൻ.
+
+आधारनिलयो धाता पुष्पहासः प्रजागरः ।
+ऊर्ध्वगः सत्पथाचारः प्राणदः प्रणवः पणः ॥
+en: The foundation of all supports; the upholder; whose smile is like a blossoming flower; ever awake; who is above all; who walks the path of the good; giver of life; Om; the one who rewards (all deeds).
+hi: सब आधारों के आधार, धाता, फूल की तरह खिली मुस्कान वाले, सदा जागरूक, सबसे ऊपर, सत्पथ पर चलने वाले, प्राणदाता, प्रणव और (कर्मों का) फल देने वाले।
+ml: എല്ലാ ആധാരങ്ങളുടെയും ആധാരം, ധാതാവ്, വിടർന്ന പൂ പോലെ പുഞ്ചിരിക്കുന്നവൻ, എപ്പോഴും ഉണർന്നിരിക്കുന്നവൻ, ഊർദ്ധ്വഗൻ, സന്മാർഗ്ഗചാരി, പ്രാണദൻ, പ്രണവം, (കർമ്മങ്ങൾക്ക്) ഫലം നൽകുന്നവൻ.
+
+प्रमाणं प्राणनिलयः प्राणभृत्प्राणजीवनः ।
+तत्त्वं तत्त्वविदेकात्मा जन्ममृत्युजरातिगः ॥
+en: The proof (of all knowledge); the abode of life-breath; sustainer of life; who keeps beings alive; the Reality; the knower of Reality; the one Self; beyond birth, death and old age.
+hi: प्रमाण स्वरूप, प्राणों के आश्रय, प्राणों का पालन करने वाले, प्राणियों को जीवित रखने वाले, तत्त्व, तत्त्ववेत्ता, एकात्मा और जन्म, मृत्यु व बुढ़ापे से परे।
+ml: പ്രമാണം, പ്രാണനിലയം, പ്രാണഭൃത്ത്, ജീവികളെ ജീവിപ്പിക്കുന്നവൻ, തത്ത്വം, തത്ത്വജ്ഞൻ, ഏകാത്മാവ്, ജനനം, മരണം, ജര എന്നിവയ്ക്ക് അതീതൻ.
+
+भूर्भुवःस्वस्तरुस्तारः सविता प्रपितामहः ।
+यज्ञो यज्ञपतिर्यज्वा यज्ञाङ्गो यज्ञवाहनः ॥
+en: The tree of the three worlds (Bhuh, Bhuvah, Svah); the saviour; the father of all; the great-grandfather (father of Brahma); the sacrifice; Lord of sacrifice; the one who sacrifices; whose limbs are the sacrifice; who carries the sacrifice to its fruit.
+hi: भूः, भुवः, स्वः — तीनों लोकों के वृक्ष, तारने वाले, सविता (सबके जनक), प्रपितामह (ब्रह्मा के भी पिता), यज्ञ, यज्ञपति, यज्ञकर्ता, यज्ञ जिनके अंग हैं और यज्ञ को फल तक पहुँचाने वाले।
+ml: ഭൂഃ, ഭുവഃ, സ്വഃ — മൂന്നു ലോകങ്ങളുടെ വൃക്ഷം, താരകൻ, സവിതാവ്, പ്രപിതാമഹൻ (ബ്രഹ്മാവിന്റെയും പിതാവ്), യജ്ഞം, യജ്ഞപതി, യജ്വാവ്, യജ്ഞാംഗൻ, യജ്ഞത്തെ ഫലത്തിലെത്തിക്കുന്നവൻ.
+
+यज्ञभृद्यज्ञकृद्यज्ञी यज्ञभुग्यज्ञसाधनः ।
+यज्ञान्तकृद्यज्ञगुह्यमन्नमन्नाद एव च ॥
+en: Upholder of sacrifice; maker of sacrifice; master of sacrifice; enjoyer of sacrifice; who is reached through sacrifice; who completes the sacrifice; the secret of sacrifice; the food; and the eater of food.
+hi: यज्ञ के रक्षक, यज्ञ करने वाले, यज्ञों के स्वामी, यज्ञ के भोक्ता, यज्ञ द्वारा प्राप्त होने वाले, यज्ञ को पूर्ण करने वाले, यज्ञ के रहस्य, अन्न और अन्न के भोक्ता।
+ml: യജ്ഞരക്ഷകൻ, യജ്ഞകർത്താവ്, യജ്ഞനാഥൻ, യജ്ഞഭോക്താവ്, യജ്ഞത്താൽ പ്രാപ്യൻ, യജ്ഞം പൂർത്തിയാക്കുന്നവൻ, യജ്ഞരഹസ്യം, അന്നം, അന്നം ഭുജിക്കുന്നവൻ.
+
+आत्मयोनिः स्वयञ्जातो वैखानः सामगायनः ।
+देवकीनन्दनः स्रष्टा क्षितीशः पापनाशनः ॥
+en: His own source; self-born; who dug deep (as the boar); who sings the Sama hymns; the son of Devaki; the creator; Lord of the earth; destroyer of sins.
+hi: स्वयं अपने उद्गम, स्वयं प्रकट, (वराह रूप में) गहराई तक खोदने वाले, सामगान करने वाले, देवकीनंदन, स्रष्टा, पृथ्वीपति और पापों का नाश करने वाले।
+ml: സ്വയം ഉദ്ഭവം, സ്വയംജാതൻ, (വരാഹമായി) ആഴത്തിൽ കുഴിച്ചവൻ, സാമഗായകൻ, ദേവകീനന്ദനൻ, സ്രഷ്ടാവ്, ക്ഷിതീശൻ, പാപനാശകൻ.
+
+शङ्खभृन्नन्दकी चक्री शार्ङ्गधन्वा गदाधरः ।
+रथाङ्गपाणिरक्षोभ्यः सर्वप्रहरणायुधः ॥
+~सर्वप्रहरणायुध ॐ नम इति ।
+en: Bearer of the conch (Panchajanya); wielder of the sword Nandaka; holder of the discus; with the bow Sharnga; bearer of the mace; with the chariot-wheel in hand; unshakable; armed with every weapon. Om, salutations to the one armed with all weapons.
+hi: शंख (पांचजन्य) धारण करने वाले, नंदक खड्ग वाले, चक्रधारी, शार्ङ्ग धनुष वाले, गदाधारी, हाथ में रथ का पहिया लिए, अक्षोभ्य और सब प्रकार के आयुधों वाले। सब आयुधों वाले भगवान को ॐ नमः।
+ml: ശംഖ് (പാഞ്ചജന്യം) ധരിച്ചവൻ, നന്ദകം എന്ന വാളുള്ളവൻ, ചക്രി, ശാർങ്ഗം എന്ന വില്ലുള്ളവൻ, ഗദാധരൻ, കൈയിൽ രഥചക്രമുള്ളവൻ, അക്ഷോഭ്യൻ, എല്ലാ ആയുധങ്ങളുമുള്ളവൻ. സർവ്വായുധധാരിക്ക് ഓം നമഃ.
+
+वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी ।
+श्रीमान्नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥
+en: May the glorious Narayana, Vishnu, Vasudeva — wearing the forest garland, bearing the mace, the bow Sharnga, the conch, the discus and the sword Nandaka — protect us.
+hi: वनमाला पहने, गदा, शार्ङ्ग धनुष, शंख, चक्र और नंदक खड्ग धारण करने वाले श्रीमान नारायण, विष्णु, वासुदेव हमारी रक्षा करें।
+ml: വനമാലയണിഞ്ഞ്, ഗദയും ശാർങ്ഗവും ശംഖും ചക്രവും നന്ദകവും ധരിച്ച ശ്രീമാൻ നാരായണൻ, വിഷ്ണു, വാസുദേവൻ ഞങ്ങളെ രക്ഷിക്കട്ടെ.
+
+# Uttara Bhaga (Phala Shruti) | उत्तरभागः (फलश्रुतिः) | ഉത്തരഭാഗം (ഫലശ്രുതി)
+इतीदं कीर्तनीयस्य केशवस्य महात्मनः ।
+नाम्नां सहस्रं दिव्यानामशेषेण प्रकीर्तितम् ॥
+en: Thus have the thousand divine names of the great Keshava, who is worthy of all praise, been fully proclaimed.
+hi: इस प्रकार कीर्तन करने योग्य महात्मा केशव के सहस्र दिव्य नाम पूर्ण रूप से कहे गए।
+ml: ഇപ്രകാരം കീർത്തനീയനായ മഹാത്മാവ് കേശവന്റെ ആയിരം ദിവ്യനാമങ്ങൾ പൂർണ്ണമായി പ്രകീർത്തിക്കപ്പെട്ടു.
+
+य इदं शृणुयान्नित्यं यश्चापि परिकीर्तयेत् ।
+नाशुभं प्राप्नुयात्किञ्चित्सोऽमुत्रेह च मानवः ॥
+en: One who hears this every day, or who recites it, meets with no misfortune, either in this world or the next.
+hi: जो इसे प्रतिदिन सुनता है या इसका पाठ करता है, उसे इस लोक में या परलोक में कोई अशुभ प्राप्त नहीं होता।
+ml: ഇത് ദിവസവും കേൾക്കുകയോ ചൊല്ലുകയോ ചെയ്യുന്നവന് ഈ ലോകത്തോ പരലോകത്തോ ഒരു അശുഭവും ഉണ്ടാകുന്നില്ല.
+
+वेदान्तगो ब्राह्मणः स्यात्क्षत्रियो विजयी भवेत् ।
+वैश्यो धनसमृद्धः स्याच्छूद्रः सुखमवाप्नुयात् ॥
+en: The scholar attains the wisdom of Vedanta, the warrior becomes victorious, the merchant prospers in wealth, and the worker attains happiness.
+hi: विद्वान वेदांत का ज्ञान पाता है, योद्धा विजयी होता है, व्यापारी धन-समृद्ध होता है और श्रमिक सुख पाता है।
+ml: പണ്ഡിതൻ വേദാന്തജ്ഞാനം നേടുന്നു, യോദ്ധാവ് വിജയിയാകുന്നു, വ്യാപാരി ധനസമൃദ്ധനാകുന്നു, തൊഴിലാളി സുഖം നേടുന്നു.
+
+धर्मार्थी प्राप्नुयाद्धर्ममर्थार्थी चार्थमाप्नुयात् ।
+कामानवाप्नुयात्कामी प्रजार्थी चाप्नुयात्प्रजाम् ॥
+en: One who seeks dharma gains dharma; one who seeks wealth gains wealth; one who has wishes sees them fulfilled; one who longs for children is blessed with them.
+hi: धर्म चाहने वाला धर्म पाता है, धन चाहने वाला धन पाता है, कामना वाला अपनी कामनाएँ पाता है और संतान चाहने वाला संतान पाता है।
+ml: ധർമ്മം ആഗ്രഹിക്കുന്നവന് ധർമ്മവും ധനം ആഗ്രഹിക്കുന്നവന് ധനവും ആഗ്രഹങ്ങളുള്ളവന് ആഗ്രഹസാഫല്യവും സന്താനം ആഗ്രഹിക്കുന്നവന് സന്താനവും ലഭിക്കുന്നു.
+
+भक्तिमान् यः सदोत्थाय शुचिस्तद्गतमानसः ।
+सहस्रं वासुदेवस्य नाम्नामेतत्प्रकीर्तयेत् ॥
+en: One who, with devotion, rises early, is pure, and with mind fixed on him, recites these thousand names of Vasudeva —
+hi: जो भक्ति से युक्त होकर, प्रातः उठकर, पवित्र होकर, मन को उन्हीं में लगाकर वासुदेव के इन सहस्र नामों का पाठ करता है —
+ml: ഭക്തിയോടെ, രാവിലെ ഉണർന്ന്, ശുചിയായി, മനസ്സ് അവനിൽ ഉറപ്പിച്ച് വാസുദേവന്റെ ഈ ആയിരം നാമങ്ങൾ ചൊല്ലുന്നവൻ —
+
+यशः प्राप्नोति विपुलं ज्ञातिप्राधान्यमेव च ।
+अचलां श्रियमाप्नोति श्रेयः प्राप्नोत्यनुत्तमम् ॥
+en: — gains great fame and a place of honour among his people; he attains lasting prosperity and the highest good.
+hi: — वह विपुल यश और अपने लोगों में प्रमुखता पाता है; उसे अचल लक्ष्मी और सर्वोत्तम कल्याण प्राप्त होता है।
+ml: — വലിയ യശസ്സും സ്വജനങ്ങൾക്കിടയിൽ പ്രാധാന്യവും നേടുന്നു; സ്ഥിരമായ ഐശ്വര്യവും ഉത്തമമായ ശ്രേയസ്സും പ്രാപിക്കുന്നു.
+
+न भयं क्वचिदाप्नोति वीर्यं तेजश्च विन्दति ।
+भवत्यरोगो द्युतिमान्बलरूपगुणान्वितः ॥
+en: He never knows fear; he gains strength and radiance; he becomes free from disease, bright, and endowed with strength, beauty and virtue.
+hi: उसे कहीं भय नहीं होता; उसे पराक्रम और तेज प्राप्त होता है; वह रोगरहित, कांतिमान और बल, रूप तथा गुणों से युक्त होता है।
+ml: അവന് ഒരിടത്തും ഭയമുണ്ടാകുന്നില്ല; വീര്യവും തേജസ്സും ലഭിക്കുന്നു; രോഗമില്ലാത്തവനും ശോഭയുള്ളവനും ബലവും രൂപവും ഗുണവുമുള്ളവനുമാകുന്നു.
+
+रोगार्तो मुच्यते रोगाद्बद्धो मुच्येत बन्धनात् ।
+भयान्मुच्येत भीतस्तु मुच्येतापन्न आपदः ॥
+en: The sick are freed from illness, the bound are freed from bondage, the frightened are freed from fear, and those in danger are freed from calamity.
+hi: रोगी रोग से मुक्त होता है, बंधन में पड़ा बंधन से छूटता है, डरा हुआ भय से मुक्त होता है और विपत्ति में पड़ा विपत्ति से छूट जाता है।
+ml: രോഗി രോഗത്തിൽ നിന്നും ബന്ധിതൻ ബന്ധനത്തിൽ നിന്നും ഭീതൻ ഭയത്തിൽ നിന്നും ആപത്തിൽപ്പെട്ടവൻ ആപത്തിൽ നിന്നും മുക്തനാകുന്നു.
+
+दुर्गाण्यतितरत्याशु पुरुषः पुरुषोत्तमम् ।
+स्तुवन्नामसहस्रेण नित्यं भक्तिसमन्वितः ॥
+en: One who praises Purushottama every day with devotion through these thousand names quickly crosses over all difficulties.
+hi: जो भक्ति से युक्त होकर प्रतिदिन सहस्र नामों से पुरुषोत्तम की स्तुति करता है, वह शीघ्र ही सब कठिनाइयों को पार कर लेता है।
+ml: ഭക്തിയോടെ ദിവസവും ആയിരം നാമങ്ങളാൽ പുരുഷോത്തമനെ സ്തുതിക്കുന്നവൻ എല്ലാ പ്രയാസങ്ങളും വേഗം കടക്കുന്നു.
+
+वासुदेवाश्रयो मर्त्यो वासुदेवपरायणः ।
+सर्वपापविशुद्धात्मा याति ब्रह्म सनातनम् ॥
+en: A person who takes refuge in Vasudeva and is devoted to him becomes pure of all sin and reaches the eternal Brahman.
+hi: जो मनुष्य वासुदेव का आश्रय लेता है और उनके परायण रहता है, वह सब पापों से शुद्ध होकर सनातन ब्रह्म को प्राप्त होता है।
+ml: വാസുദേവനെ ആശ്രയിക്കുകയും അവനിൽ സമർപ്പിതനാകുകയും ചെയ്യുന്നവൻ എല്ലാ പാപങ്ങളിൽ നിന്നും ശുദ്ധനായി സനാതനമായ ബ്രഹ്മത്തെ പ്രാപിക്കുന്നു.
+
+न वासुदेवभक्तानामशुभं विद्यते क्वचित् ।
+जन्ममृत्युजराव्याधिभयं नैवोपजायते ॥
+en: For the devotees of Vasudeva there is no misfortune anywhere; the fear of birth, death, old age and disease does not arise for them.
+hi: वासुदेव के भक्तों का कहीं कोई अशुभ नहीं होता; उन्हें जन्म, मृत्यु, बुढ़ापे और रोग का भय नहीं होता।
+ml: വാസുദേവഭക്തർക്ക് ഒരിടത്തും അശുഭമില്ല; ജനനം, മരണം, ജര, രോഗം എന്നിവയുടെ ഭയം അവർക്കുണ്ടാകുന്നില്ല.
+
+इमं स्तवमधीयानः श्रद्धाभक्तिसमन्वितः ।
+युज्येतात्मसुखक्षान्तिश्रीधृतिस्मृतिकीर्तिभिः ॥
+en: One who studies this hymn with faith and devotion is blessed with inner joy, patience, prosperity, courage, good memory and fame.
+hi: जो श्रद्धा और भक्ति से इस स्तोत्र का पाठ करता है, वह आत्मिक सुख, क्षमा, लक्ष्मी, धैर्य, स्मृति और कीर्ति से युक्त होता है।
+ml: ശ്രദ്ധയോടെയും ഭക്തിയോടെയും ഈ സ്തോത്രം പാരായണം ചെയ്യുന്നവന് ആത്മസുഖം, ക്ഷമ, ഐശ്വര്യം, ധൈര്യം, ഓർമ്മശക്തി, കീർത്തി എന്നിവ ലഭിക്കുന്നു.
+
+न क्रोधो न च मात्सर्यं न लोभो नाशुभा मतिः ।
+भवन्ति कृतपुण्यानां भक्तानां पुरुषोत्तमे ॥
+en: Anger, envy, greed and evil thoughts do not arise in the virtuous who are devoted to Purushottama.
+hi: पुरुषोत्तम के पुण्यात्मा भक्तों में क्रोध, ईर्ष्या, लोभ और बुरी बुद्धि उत्पन्न नहीं होती।
+ml: പുരുഷോത്തമനിൽ ഭക്തിയുള്ള പുണ്യാത്മാക്കളിൽ കോപം, അസൂയ, ലോഭം, ദുർബുദ്ധി എന്നിവ ഉണ്ടാകുന്നില്ല.
+
+द्यौः सचन्द्रार्कनक्षत्रा खं दिशो भूर्महोदधिः ।
+वासुदेवस्य वीर्येण विधृतानि महात्मनः ॥
+en: The heavens with the moon, sun and stars, the sky, the directions, the earth and the great ocean are all held in place by the power of the great Vasudeva.
+hi: चंद्र, सूर्य और नक्षत्रों सहित स्वर्ग, आकाश, दिशाएँ, पृथ्वी और महासागर — सब महात्मा वासुदेव के पराक्रम से धारण किए हुए हैं।
+ml: ചന്ദ്രനും സൂര്യനും നക്ഷത്രങ്ങളുമുള്ള സ്വർഗ്ഗം, ആകാശം, ദിക്കുകൾ, ഭൂമി, മഹാസമുദ്രം — എല്ലാം മഹാത്മാവായ വാസുദേവന്റെ ശക്തിയാൽ നിലനിർത്തപ്പെടുന്നു.
+
+ससुरासुरगन्धर्वं सयक्षोरगराक्षसम् ।
+जगद्वशे वर्ततेदं कृष्णस्य सचराचरम् ॥
+en: This whole world — with gods, demons, gandharvas, yakshas, serpents and rakshasas, the moving and the unmoving — is under the control of Krishna.
+hi: देवता, असुर, गंधर्व, यक्ष, नाग और राक्षसों सहित यह सारा चर-अचर जगत श्रीकृष्ण के वश में है।
+ml: ദേവന്മാരും അസുരന്മാരും ഗന്ധർവ്വരും യക്ഷരും നാഗങ്ങളും രാക്ഷസരും ഉൾപ്പെടെ ചരാചരമായ ഈ ലോകം മുഴുവൻ കൃഷ്ണന്റെ വശത്താണ്.
+
+इन्द्रियाणि मनो बुद्धिः सत्त्वं तेजो बलं धृतिः ।
+वासुदेवात्मकान्याहुः क्षेत्रं क्षेत्रज्ञ एव च ॥
+en: The senses, mind, intellect, purity, radiance, strength and steadiness — the body and the knower of the body — all, it is said, are of the nature of Vasudeva.
+hi: इंद्रियाँ, मन, बुद्धि, सत्त्व, तेज, बल, धैर्य, क्षेत्र (शरीर) और क्षेत्रज्ञ (आत्मा) — सबको वासुदेव स्वरूप कहा गया है।
+ml: ഇന്ദ്രിയങ്ങൾ, മനസ്സ്, ബുദ്ധി, സത്ത്വം, തേജസ്സ്, ബലം, ധൈര്യം, ക്ഷേത്രം (ശരീരം), ക്ഷേത്രജ്ഞൻ (ആത്മാവ്) — എല്ലാം വാസുദേവസ്വരൂപമാണെന്നു പറയപ്പെടുന്നു.
+
+सर्वागमानामाचारः प्रथमं परिकल्पते ।
+आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ॥
+en: Of all the scriptures, right conduct is considered first. Dharma is born of right conduct, and the Lord of dharma is Achyuta.
+hi: सब शास्त्रों में आचार को प्रथम माना गया है। आचार से धर्म उत्पन्न होता है, और धर्म के स्वामी अच्युत हैं।
+ml: എല്ലാ ശാസ്ത്രങ്ങളിലും ആചാരമാണ് ഒന്നാമത്. ആചാരത്തിൽ നിന്ന് ധർമ്മം ഉണ്ടാകുന്നു; ധർമ്മത്തിന്റെ പ്രഭു അച്യുതനാണ്.
+
+ऋषयः पितरो देवा महाभूतानि धातवः ।
+जङ्गमाजङ्गमं चेदं जगन्नारायणोद्भवम् ॥
+en: The sages, the ancestors, the gods, the great elements, the elements of the body, and this whole world of moving and unmoving things — all have come from Narayana.
+hi: ऋषि, पितर, देवता, महाभूत, धातुएँ और यह सारा चर-अचर जगत नारायण से उत्पन्न हुआ है।
+ml: ഋഷിമാർ, പിതൃക്കൾ, ദേവന്മാർ, മഹാഭൂതങ്ങൾ, ധാതുക്കൾ, ചരവും അചരവുമായ ഈ ലോകം — എല്ലാം നാരായണനിൽ നിന്നുണ്ടായതാണ്.
+
+योगो ज्ञानं तथा साङ्ख्यं विद्याः शिल्पादि कर्म च ।
+वेदाः शास्त्राणि विज्ञानमेतत्सर्वं जनार्दनात् ॥
+en: Yoga, knowledge, Sankhya, the various sciences, the arts and crafts, all work, the Vedas, the scriptures and all wisdom — all of this comes from Janardana.
+hi: योग, ज्ञान, सांख्य, विद्याएँ, शिल्प आदि कर्म, वेद, शास्त्र और विज्ञान — यह सब जनार्दन से ही है।
+ml: യോഗം, ജ്ഞാനം, സാംഖ്യം, വിദ്യകൾ, ശില്പം തുടങ്ങിയ കർമ്മങ്ങൾ, വേദങ്ങൾ, ശാസ്ത്രങ്ങൾ, വിജ്ഞാനം — ഇതെല്ലാം ജനാർദ്ദനനിൽ നിന്നാണ്.
+
+एको विष्णुर्महद्भूतं पृथग्भूतान्यनेकशः ।
+त्रीँल्लोकान्व्याप्य भूतात्मा भुङ्क्ते विश्वभुगव्ययः ॥
+en: Vishnu is the one great Being, appearing as many separate beings. Pervading the three worlds as the Self of all, the imperishable one enjoys and sustains the universe.
+hi: विष्णु एक महान सत्ता हैं, जो अनेक अलग-अलग प्राणियों के रूप में हैं। तीनों लोकों में व्याप्त होकर, सब प्राणियों की आत्मा, वे अविनाशी विश्व का भोग और पालन करते हैं।
+ml: വിഷ്ണു ഏകനായ മഹാഭൂതമാണ്, അനേകം വ്യത്യസ്ത ജീവികളായി കാണപ്പെടുന്നു. എല്ലാ ജീവികളുടെയും ആത്മാവായി മൂന്നു ലോകങ്ങളിലും വ്യാപിച്ച് നാശമില്ലാത്ത അവൻ വിശ്വത്തെ അനുഭവിക്കുകയും പോഷിപ്പിക്കുകയും ചെയ്യുന്നു.
+
+इमं स्तवं भगवतो विष्णोर्व्यासेन कीर्तितम् ।
+पठेद्य इच्छेत्पुरुषः श्रेयः प्राप्तुं सुखानि च ॥
+en: One who wishes to attain the highest good and happiness should recite this hymn to Lord Vishnu, composed by Vyasa.
+hi: जो मनुष्य परम कल्याण और सुख पाना चाहता है, उसे व्यास द्वारा रचित भगवान विष्णु के इस स्तोत्र का पाठ करना चाहिए।
+ml: ശ്രേയസ്സും സുഖവും ആഗ്രഹിക്കുന്നവൻ വ്യാസൻ രചിച്ച വിഷ്ണുഭഗവാന്റെ ഈ സ്തോത്രം പാരായണം ചെയ്യണം.
+
+विश्वेश्वरमजं देवं जगतः प्रभुमव्ययम् ।
+भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम् ॥
+~न ते यान्ति पराभवम् ॐ नम इति ।
+en: Those who worship the lotus-eyed Lord of the universe — unborn, divine, master of the world, imperishable — never meet with defeat. Om, salutations.
+hi: जो विश्वेश्वर, अजन्मा, दिव्य, जगत के प्रभु, अविनाशी कमलनयन भगवान का भजन करते हैं, वे कभी पराजित नहीं होते। ॐ नमः।
+ml: വിശ്വേശ്വരനും അജനും ദേവനും ജഗത്പ്രഭുവും അവ്യയനുമായ പുഷ്കരാക്ഷനെ ഭജിക്കുന്നവർ ഒരിക്കലും പരാജയപ്പെടുന്നില്ല. ഓം നമഃ.
+
+~अर्जुन उवाच
+पद्मपत्रविशालाक्ष पद्मनाभ सुरोत्तम ।
+भक्तानामनुरक्तानां त्राता भव जनार्दन ॥
+en: Arjuna said: O Lord with eyes wide as lotus petals, O lotus-naveled, best of the gods, O Janardana — be the protector of your loving devotees.
+hi: अर्जुन बोले: हे कमल-दल जैसे विशाल नेत्रों वाले, पद्मनाभ, देवश्रेष्ठ जनार्दन, अपने प्रेमी भक्तों के रक्षक बनिए।
+ml: അർജ്ജുനൻ പറഞ്ഞു: താമരയിതൾ പോലെ വിശാലമായ കണ്ണുകളുള്ളവനേ, പദ്മനാഭാ, ദേവോത്തമാ, ജനാർദ്ദനാ, സ്നേഹമുള്ള ഭക്തരുടെ രക്ഷകനാകേണമേ.
+
+~श्रीभगवानुवाच
+यो मां नामसहस्रेण स्तोतुमिच्छति पाण्डव ।
+सोऽहमेकेन श्लोकेन स्तुत एव न संशयः ॥
+en: The Lord said: O Pandava, whoever wishes to praise me with the thousand names — I am indeed praised even by a single verse. Of this there is no doubt.
+hi: श्री भगवान बोले: हे पांडव, जो सहस्र नामों से मेरी स्तुति करना चाहता है, उसके द्वारा मैं एक ही श्लोक से स्तुत हो जाता हूँ — इसमें कोई संशय नहीं।
+ml: ശ്രീഭഗവാൻ പറഞ്ഞു: പാണ്ഡവാ, ആയിരം നാമങ്ങളാൽ എന്നെ സ്തുതിക്കാൻ ആഗ്രഹിക്കുന്നവനാൽ ഒരൊറ്റ ശ്ലോകം കൊണ്ടുതന്നെ ഞാൻ സ്തുതിക്കപ്പെടുന്നു — സംശയമില്ല.
+
+~व्यास उवाच
+वासनाद्वासुदेवस्य वासितं भुवनत्रयम् ।
+सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ॥
+en: Vyasa said: The three worlds are pervaded by the presence of Vasudeva. You dwell in all beings, O Vasudeva — salutations to you.
+hi: व्यास बोले: वासुदेव के निवास से तीनों लोक व्याप्त हैं। हे वासुदेव, आप सब प्राणियों में निवास करते हैं, आपको नमस्कार है।
+ml: വ്യാസൻ പറഞ്ഞു: വാസുദേവന്റെ സാന്നിധ്യത്താൽ മൂന്നു ലോകങ്ങളും നിറഞ്ഞിരിക്കുന്നു. വാസുദേവാ, നീ എല്ലാ ജീവികളിലും വസിക്കുന്നു — നിനക്കു നമസ്കാരം.
+
+~पार्वत्युवाच
+केनोपायेन लघुना विष्णोर्नामसहस्रकम् ।
+पठ्यते पण्डितैर्नित्यं श्रोतुमिच्छाम्यहं प्रभो ॥
+en: Parvati asked: O Lord, by what simple means do the wise recite the thousand names of Vishnu every day? I wish to hear it.
+hi: पार्वती बोलीं: हे प्रभो, विद्वान किस सरल उपाय से प्रतिदिन विष्णु सहस्रनाम का पाठ करते हैं? मैं यह सुनना चाहती हूँ।
+ml: പാർവ്വതി ചോദിച്ചു: പ്രഭോ, ഏതു ലളിതമായ ഉപായത്തിലൂടെയാണ് പണ്ഡിതർ ദിവസവും വിഷ്ണുസഹസ്രനാമം ചൊല്ലുന്നത്? അതു കേൾക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു.
+
+~ईश्वर उवाच
+श्रीराम राम रामेति रमे रामे मनोरमे ।
+सहस्रनाम तत्तुल्यं रामनाम वरानने ॥
+en: Shiva said: "Sri Rama Rama Rama" — O beautiful one, I delight in the name of Rama, which charms the mind. The name of Rama is equal to the thousand names.
+hi: ईश्वर (शिव) बोले: "श्रीराम राम राम" — हे सुमुखी, मैं मन को रमाने वाले राम-नाम में रमता हूँ। राम-नाम सहस्र नामों के बराबर है।
+ml: ഈശ്വരൻ (ശിവൻ) പറഞ്ഞു: "ശ്രീരാമ രാമ രാമ" — സുമുഖീ, മനോഹരമായ രാമനാമത്തിൽ ഞാൻ രമിക്കുന്നു. രാമനാമം സഹസ്രനാമത്തിനു തുല്യമാണ്.
+
+~ब्रह्मोवाच
+नमोऽस्त्वनन्ताय सहस्रमूर्तये सहस्रपादाक्षिशिरोरुबाहवे ।
+सहस्रनाम्ने पुरुषाय शाश्वते सहस्रकोटीयुगधारिणे नमः ॥
+en: Brahma said: Salutations to the infinite one, who has a thousand forms, a thousand feet, eyes, heads, thighs and arms; to the eternal Person of a thousand names, who upholds thousands of crores of ages — salutations.
+hi: ब्रह्मा बोले: अनंत, सहस्र रूपों वाले, सहस्र चरणों, नेत्रों, सिरों, जंघाओं और भुजाओं वाले, सहस्र नामों वाले, शाश्वत पुरुष, सहस्र करोड़ युगों को धारण करने वाले को नमस्कार है।
+ml: ബ്രഹ്മാവ് പറഞ്ഞു: ആയിരം രൂപങ്ങളും ആയിരം പാദങ്ങളും കണ്ണുകളും ശിരസ്സുകളും തുടകളും കൈകളുമുള്ള അനന്തന്, ആയിരം നാമങ്ങളുള്ള ശാശ്വതപുരുഷന്, ആയിരം കോടി യുഗങ്ങളെ വഹിക്കുന്നവന് നമസ്കാരം.
+
+~सञ्जय उवाच
+यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।
+तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥
+en: Sanjaya said: Wherever there is Krishna, the Lord of yoga, and wherever there is Arjuna, the archer, there will surely be prosperity, victory, well-being and righteousness. This is my conviction. (Gita 18.78)
+hi: संजय बोले: जहाँ योगेश्वर श्रीकृष्ण हैं और जहाँ धनुर्धर अर्जुन हैं, वहीं श्री, विजय, ऐश्वर्य और अटल नीति है — ऐसा मेरा मत है। (गीता १८.७८)
+ml: സഞ്ജയൻ പറഞ്ഞു: യോഗേശ്വരനായ കൃഷ്ണനും വില്ലാളിയായ അർജ്ജുനനും എവിടെയുണ്ടോ, അവിടെ ഐശ്വര്യവും വിജയവും ക്ഷേമവും ഉറച്ച നീതിയും ഉണ്ടാകും — ഇതാണ് എന്റെ ഉറച്ച അഭിപ്രായം. (ഗീത 18.78)
+
+~श्रीभगवानुवाच
+अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।
+तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥
+en: The Lord said: Those who worship me with undivided devotion, thinking of nothing else — for them, ever united with me, I carry what they lack and preserve what they have. (Gita 9.22)
+hi: श्री भगवान बोले: जो लोग अनन्य भाव से मेरा चिंतन करते हुए मेरी उपासना करते हैं, उन नित्य मुझमें लगे हुए भक्तों का योगक्षेम मैं स्वयं वहन करता हूँ। (गीता ९.२२)
+ml: ശ്രീഭഗവാൻ പറഞ്ഞു: അനന്യഭക്തിയോടെ എന്നെ ചിന്തിച്ച് ഉപാസിക്കുന്ന, എപ്പോഴും എന്നിൽ ചേർന്നിരിക്കുന്ന ഭക്തരുടെ യോഗക്ഷേമം ഞാൻ തന്നെ വഹിക്കുന്നു. (ഗീത 9.22)
+
+परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।
+धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥
+en: To protect the good, to destroy the wicked, and to firmly establish dharma, I take birth age after age. (Gita 4.8)
+hi: सज्जनों की रक्षा, दुष्टों के विनाश और धर्म की स्थापना के लिए मैं युग-युग में प्रकट होता हूँ। (गीता ४.८)
+ml: സജ്ജനങ്ങളെ രക്ഷിക്കാനും ദുഷ്ടരെ നശിപ്പിക്കാനും ധർമ്മം സ്ഥാപിക്കാനുമായി ഞാൻ യുഗം തോറും അവതരിക്കുന്നു. (ഗീത 4.8)
+
+आर्ताः विषण्णाः शिथिलाश्च भीताः
+घोरेषु च व्याधिषु वर्तमानाः ।
+सङ्कीर्त्य नारायणशब्दमात्रं
+विमुक्तदुःखाः सुखिनो भवन्ति ॥
+en: The distressed, the dejected, the weak, the frightened, and those suffering from terrible illness — by simply chanting the word "Narayana" they are freed from sorrow and become happy.
+hi: पीड़ित, दुःखी, दुर्बल, भयभीत और भयंकर रोगों से ग्रस्त लोग केवल "नारायण" शब्द का कीर्तन करके दुःखों से मुक्त होकर सुखी हो जाते हैं।
+ml: ദുഃഖിതരും നിരാശരും ദുർബലരും ഭയചകിതരും കഠിനരോഗങ്ങളാൽ വലയുന്നവരും "നാരായണ" എന്ന ശബ്ദം മാത്രം ജപിച്ച് ദുഃഖമുക്തരായി സുഖികളാകുന്നു.
+
+कायेन वाचा मनसेन्द्रियैर्वा
+बुद्ध्यात्मना वा प्रकृतेः स्वभावात् ।
+करोमि यद्यत्सकलं परस्मै
+नारायणायेति समर्पयामि ॥
+en: Whatever I do — with body, speech, mind, senses, intellect, or by my own nature — I offer it all to the Supreme, to Narayana.
+hi: शरीर, वाणी, मन, इंद्रियों, बुद्धि या अपने स्वभाव से मैं जो कुछ भी करता हूँ, वह सब परमात्मा नारायण को समर्पित करता हूँ।
+ml: ശരീരം, വാക്ക്, മനസ്സ്, ഇന്ദ്രിയങ്ങൾ, ബുദ്ധി എന്നിവ കൊണ്ടോ സ്വഭാവം കൊണ്ടോ ഞാൻ ചെയ്യുന്നതെല്ലാം പരമാത്മാവായ നാരായണന് സമർപ്പിക്കുന്നു.

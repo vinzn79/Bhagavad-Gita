@@ -1,0 +1,32 @@
+slug: saraswati-vandana
+order: 2
+category: daily
+numbers: no
+title_en: Saraswati Vandana
+title_hi: सरस्वती वन्दना
+title_ml: സരസ്വതീ വന്ദനം
+sub_en: Ya Kundendu · Saraswati Namastubhyam
+sub_hi: या कुन्देन्दु · सरस्वति नमस्तुभ्यं
+sub_ml: യാ കുന്ദേന്ദു · സരസ്വതി നമസ്തുഭ്യം
+intro_en: Prayers to Goddess Saraswati, the giver of knowledge, music and speech — recited by students before study and at Vidyarambham.
+intro_hi: ज्ञान, संगीत और वाणी की देवी सरस्वती की प्रार्थनाएँ — विद्यार्थी पढ़ाई से पहले और विद्यारंभ के समय इनका पाठ करते हैं।
+intro_ml: അറിവിന്റെയും സംഗീതത്തിന്റെയും വാക്കിന്റെയും ദേവിയായ സരസ്വതിയോടുള്ള പ്രാർത്ഥനകൾ — പഠനത്തിനു മുമ്പും വിദ്യാരംഭത്തിനും കുട്ടികൾ ചൊല്ലുന്നു.
+===
+सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।
+विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥
+en: O Saraswati, giver of boons, who takes any form she wishes — salutations to you. I am beginning my studies; may I always succeed.
+hi: हे वर देने वाली, इच्छानुसार रूप धारण करने वाली सरस्वती, तुम्हें नमस्कार है। मैं विद्या आरंभ कर रहा हूँ; मुझे सदा सफलता मिले।
+ml: വരം നൽകുന്നവളേ, ഇഷ്ടരൂപം ധരിക്കുന്നവളേ, സരസ്വതീ, നിനക്കു നമസ്കാരം. ഞാൻ വിദ്യ ആരംഭിക്കുന്നു; എനിക്ക് എന്നും വിജയം ഉണ്ടാകട്ടെ.
+
+या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता
+या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ।
+या ब्रह्माच्युतशङ्करप्रभृतिभिर्देवैः सदा वन्दिता
+सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ॥
+en: She who is white like the jasmine, the moon and a garland of snow-drops, who is clothed in pure white, whose hands are adorned with the veena and the gesture of blessing, who is seated on a white lotus, who is ever worshipped by Brahma, Vishnu, Shiva and the other gods — may that Goddess Saraswati, who removes all dullness, protect me.
+hi: जो कुंद के फूल, चंद्रमा और हिम के हार जैसी धवल हैं, जो श्वेत वस्त्र धारण करती हैं, जिनके हाथ वीणा और वरमुद्रा से सुशोभित हैं, जो श्वेत कमल पर विराजमान हैं, जिनकी ब्रह्मा, विष्णु, शंकर आदि देवता सदा वंदना करते हैं — वे समस्त जड़ता को दूर करने वाली भगवती सरस्वती मेरी रक्षा करें।
+ml: മുല്ലപ്പൂവും ചന്ദ്രനും മഞ്ഞുമാലയും പോലെ വെളുത്തവളും, വെള്ളവസ്ത്രം ധരിച്ചവളും, വീണയും വരമുദ്രയും കൈകളിൽ ശോഭിക്കുന്നവളും, വെള്ളത്താമരയിലിരിക്കുന്നവളും, ബ്രഹ്മാവ്, വിഷ്ണു, ശിവൻ തുടങ്ങിയ ദേവന്മാരാൽ എന്നും വന്ദിക്കപ്പെടുന്നവളുമായ, എല്ലാ ജഡതയും നീക്കുന്ന ഭഗവതി സരസ്വതി എന്നെ രക്ഷിക്കട്ടെ.
+
+ॐ ऐं सरस्वत्यै नमः ॥
+en: Om Aim — salutations to Saraswati. ("Aim" is Saraswati's seed sound.)
+hi: ॐ ऐं — सरस्वती को नमस्कार है। ("ऐं" सरस्वती का बीज मंत्र है।)
+ml: ഓം ഐം — സരസ്വതിക്കു നമസ്കാരം. ("ഐം" സരസ്വതിയുടെ ബീജാക്ഷരമാണ്.)

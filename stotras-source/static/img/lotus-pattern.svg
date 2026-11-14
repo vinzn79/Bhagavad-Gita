@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
+  <defs>
+    <path id="p" d="M0 0 C -9 -15, -8 -34, 0 -50 C 8 -34, 9 -15, 0 0 Z"/>
+    <g id="lotus" fill="#e9775a" fill-opacity="0.13" stroke="#d8603f" stroke-opacity="0.22" stroke-width="1">
+      <use href="#p" transform="rotate(-70) scale(.75)"/>
+      <use href="#p" transform="rotate(70) scale(.75)"/>
+      <use href="#p" transform="rotate(-40) scale(.9)"/>
+      <use href="#p" transform="rotate(40) scale(.9)"/>
+      <use href="#p"/>
+      <path d="M-38 4 C -18 -2, 18 -2, 38 4" fill="none" stroke-opacity="0.25"/>
+    </g>
+  </defs>
+  <use href="#lotus" transform="translate(55 75)"/>
+  <use href="#lotus" transform="translate(165 185) scale(.8)"/>
+</svg>
